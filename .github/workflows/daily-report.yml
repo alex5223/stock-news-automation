@@ -1,0 +1,92 @@
+name: Daily stock news report
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 00:13 UTC = 08:13 Asia/Taipei, Monday through Friday
+    - cron: "13 0 * * 1-5"
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Show Python version
+        run: python --version
+
+      - name: Install dependencies
+        run: python -m pip install -e ".[dev]"
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Restore local history cache
+        uses: actions/cache/restore@v4
+        with:
+          path: data/runtime
+          key: stock-news-runtime-${{ github.run_id }}
+          restore-keys: |
+            stock-news-runtime-
+
+      - name: Prepare Google credentials
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          if [ -n "$GOOGLE_SERVICE_ACCOUNT_JSON" ]; then
+            printf '%s' "$GOOGLE_SERVICE_ACCOUNT_JSON" > "$RUNNER_TEMP/google-service-account.json"
+            echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/google-service-account.json" >> "$GITHUB_ENV"
+          fi
+
+      - name: Run daily report
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.5' }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+        run: python -m stock_news_bot --config config/sources.yaml
+
+      - name: Commit history snapshot
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          BRANCH_NAME="${GITHUB_REF_NAME}"
+          if [ -z "$BRANCH_NAME" ]; then
+            BRANCH_NAME="$(git rev-parse --abbrev-ref HEAD)"
+          fi
+          git checkout "$BRANCH_NAME"
+          git pull --rebase origin "$BRANCH_NAME"
+          git add data/history/
+          if git diff --cached --quiet; then
+            echo "no history snapshot changes"
+          else
+            git commit -m "chore: daily snapshot $(TZ=Asia/Taipei date +%F)"
+            git push origin "HEAD:$BRANCH_NAME"
+          fi
+
+      - name: Save local history cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/runtime
+          key: stock-news-runtime-${{ github.run_id }}
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stock-news-report-${{ github.run_id }}
+          path: data/runtime/reports/*.md
+          if-no-files-found: ignore

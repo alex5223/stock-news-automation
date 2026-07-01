@@ -1,0 +1,100 @@
+run:
+  timezone: Asia/Taipei
+  window:
+    # rolling_hours is usually better for daily automation because publish times
+    # differ across YouTube, RSS feeds, and time zones.
+    mode: rolling_hours
+    hours: 24
+  lookback_days: 5
+  top_source_items: 20
+
+youtube:
+  enabled: true
+  api_key_env: YOUTUBE_API_KEY
+  max_results_per_query: 10
+  relevance_language: zh-Hant
+  region_code: TW
+  transcript_languages: ["zh-Hant", "zh-TW", "zh", "en"]
+  queries:
+    - "台股 財經"
+    - "半導體 台積電 AI"
+    - "美股 台股 供應鏈"
+  channels:
+    - name: "Your Finance Channel"
+      id: "UCxxxxxxxxxxxxxxxxxxxxxx"
+
+rss:
+  enabled: true
+  feeds:
+    # Built-in Taiwan finance and tech-industry feeds. Empty URLs are ignored.
+    - name: "Anue 鉅亨網"
+      url: "https://www.cnyes.com/promote/announce/GetRss.ashx"
+      category: "財經新聞"
+      focus: "24小時台股即時重訊、全球產經、外匯與全球投資趨勢"
+    - name: "經濟日報"
+      url: "https://money.udn.com/rssfeed/news/1001/5641?ch=money"
+      category: "財經新聞"
+      focus: "國內外總體經濟、上市櫃產業深度報導、兩岸經貿脈動"
+    - name: "MoneyDJ 理財網"
+      url: "http://www.moneydj.com/KMDJ/RssCenter.aspx"
+      category: "財經新聞"
+      focus: "個股基本面追蹤、產業焦點、全球理財情報與基金動態"
+    - name: "自由時報 財經頻道"
+      url: "https://news.ltn.com.tw/rss/business.xml"
+      category: "財經新聞"
+      focus: "即時產經焦點、證券行情、重大財政政策法規"
+    - name: "TechNews 科技新報"
+      url: "https://technews.tw/news-rss/"
+      category: "科技產業"
+      focus: "聚焦半導體、AI、科技供應鏈等關鍵核心產業的財經分析"
+    - name: "中央社 產經證券"
+      url: "https://feeds.feedburner.com/rsscna/finance"
+      category: "通訊社"
+      focus: "官方第一手發布的國內外總體經濟、上市櫃重大訊息與外匯快訊"
+    - name: "中央社 科技新聞"
+      url: "https://feeds.feedburner.com/rsscna/technology"
+      category: "科技產業"
+      focus: "半導體、AI供應鏈動態與跨國科技政策追蹤"
+    - name: "商業周刊"
+      url: "https://www.businessweekly.com.tw/rss"
+      category: "商管媒體"
+      focus: "國際金融大事、產業深度專題、市場趨勢與企業經營"
+    - name: "工商時報"
+      url: ""
+      category: "財經新聞"
+      focus: "待補官方RSS網址"
+    - name: "Yahoo奇摩股市"
+      url: ""
+      category: "財經新聞"
+      focus: "待補官方RSS網址"
+
+analysis:
+  stock_alias_path: data/tw_stocks_sample.csv
+  min_signal_count: 2
+  surge_ratio_threshold: 2.0
+  industry_terms:
+    半導體: ["半導體", "晶圓代工", "先進製程", "AI晶片", "封測", "IC設計"]
+    AI伺服器: ["AI伺服器", "GB200", "NVL", "散熱", "高速傳輸", "電源供應器"]
+    金融: ["金控", "銀行", "保險", "殖利率", "升息", "降息"]
+    電動車: ["電動車", "車用電子", "充電樁", "電池"]
+    航運: ["航運", "貨櫃", "散裝", "運價"]
+
+llm:
+  enabled: false
+  provider: openai
+  api_key_env: OPENAI_API_KEY
+  model_env: OPENAI_MODEL
+  model: gpt-5.5
+  max_source_items: 30
+
+storage:
+  history:
+    enabled: true
+    history_dir: data/history
+  local:
+    enabled: true
+    data_dir: data/runtime
+  sheets:
+    enabled: false
+    spreadsheet_id_env: GOOGLE_SHEET_ID
+    service_account_file_env: GOOGLE_APPLICATION_CREDENTIALS

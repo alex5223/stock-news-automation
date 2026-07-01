@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stock-news-sentinel"
+version = "0.1.0"
+description = "Daily Taiwan stock news and YouTube signal summarizer."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "feedparser>=6.0.11",
+  "gspread>=6.1.0",
+  "google-auth>=2.30.0",
+  "openai>=1.90.0",
+  "python-dotenv>=1.0.1",
+  "python-dateutil>=2.9.0",
+  "PyYAML>=6.0.2",
+  "requests>=2.32.0",
+  "youtube-transcript-api>=1.2.4,<2"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2.0"]
+
+[project.scripts]
+stock-news-bot = "stock_news_bot.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
