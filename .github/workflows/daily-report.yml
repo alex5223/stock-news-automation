@@ -67,7 +67,7 @@ jobs:
             BRANCH_NAME="$(git rev-parse --abbrev-ref HEAD)"
           fi
           git checkout "$BRANCH_NAME"
-          git pull --rebase origin "$BRANCH_NAME"
+          git pull --rebase --autostash origin "$BRANCH_NAME"
           git add data/history/
           if git diff --cached --quiet; then
             echo "no history snapshot changes"
