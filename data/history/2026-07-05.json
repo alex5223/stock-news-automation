@@ -1,0 +1,1745 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T19:04:56.155601+08:00",
+  "window": {
+    "since": "2026-07-04T19:04:56.155601+08:00",
+    "until": "2026-07-05T19:04:56.155601+08:00",
+    "timezone": "Asia/Taipei"
+  },
+  "counts": {
+    "sources": 107,
+    "entities": 11,
+    "signals": 7
+  },
+  "sources": [
+    {
+      "id": "877954215611d553138c6241",
+      "source_type": "youtube",
+      "source_name": "Julito Baylon",
+      "title": "#台股,#台灣股市,#股票投資,#股市分析,#金融市場,#外資動向,#散戶投資,#ETF投資  #半導體",
+      "url": "https://www.youtube.com/watch?v=m0flJebbJLI",
+      "published_at": "2026-07-05T10:30:23+00:00",
+      "author": "Julito Baylon",
+      "external_id": "m0flJebbJLI",
+      "text": "台股,#台灣股市,#股票投資,#股市分析,#金融市場,#外資動向,#散戶投資,#ETF投資#半導體.",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "4aa13108cd6c53db8668e59a",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "台灣對美國和全球有多重要？外媒一文揭「不能倒下」關鍵原因",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494646",
+      "published_at": "2026-07-05T10:25:32+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494646",
+      "text": "〔財經頻道／綜合報導〕《華盛頓時報》（The Washington Times）專欄指出，如果台灣失守，衝擊恐怕不只是兩岸局勢，而是全球科技、經濟與民主秩序。文章點出，台灣對於美國和全世界的重要...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "dd82704b39088909c11f17e0",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "投資小白快看！韓央行罕見示警 這2檔槓桿ETF恐成散戶巨虧地雷",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494545",
+      "published_at": "2026-07-05T10:24:14+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494545",
+      "text": "〔財經頻道／綜合報導〕南韓央行（BOK）週日（5日）罕見對追蹤三星電子與SK海力士的「單一個股槓桿ETF」發出強烈警告，指出這類高風險產品正加劇半導體權值股的過度集中風險。隨著這類產品交易量暴增...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "58c752ddc3b1abdb68e7fb8e",
+      "source_type": "youtube",
+      "source_name": "建豪觀盤",
+      "title": "週一「這幾檔」來不及了！#台股 #股票 #投資 #CPO #矽光子 #光通訊 #台積電 #AI概念股 #半導體股 #族群輪動 #飆股 #ETF",
+      "url": "https://www.youtube.com/watch?v=RKuR2oSXhpM",
+      "published_at": "2026-07-05T10:22:56+00:00",
+      "author": "建豪觀盤",
+      "external_id": "RKuR2oSXhpM",
+      "text": "",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "f16ccbc60c04f26a810a83e7",
+      "source_type": "youtube",
+      "source_name": "57東森財經新聞",
+      "title": "漲價題材關鍵股操作價格曝！禾伸堂周一可望破千 蘇威元：興勤、富鼎、和晶可佈局！ @TaiwanLBJnews   #shorts",
+      "url": "https://www.youtube.com/watch?v=IaLU5YeNqtE",
+      "published_at": "2026-07-05T10:00:17+00:00",
+      "author": "57東森財經新聞",
+      "external_id": "IaLU5YeNqtE",
+      "text": "全集：https://youtu.be/xgU1q-7e6yE 每週一至週五2100 請鎖定57東森財經新聞台－《寶傑點兵》 每周三、四晚上6點 請鎖定 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "59809727bdd4ceccbc3970fd",
+      "source_type": "youtube",
+      "source_name": "中天電視",
+      "title": "【全球政經周報】台股五貸同堂！AI泡沫恐拖垮房市？高利率風暴下聯準會轉鷹、日圓貶值、歐洲滯脹一次看20260705 @中天財經頻道CtiFinance",
+      "url": "https://www.youtube.com/watch?v=uL2jI9Vnyi4",
+      "published_at": "2026-07-05T10:00:07+00:00",
+      "author": "中天電視",
+      "external_id": "uL2jI9Vnyi4",
+      "text": "台股AI行情越燒越旺，但市場最危險的地方，往往不是下跌，而是所有人都相信它還會繼續漲。 從AI股瘋漲、台股資金過熱，到市場 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "e6839f4d2f3b062408048828",
+      "source_type": "youtube",
+      "source_name": "山海之間",
+      "title": "決定全球AI晶片生死的,竟不是台積電,是一間沒招牌的鐵皮屋",
+      "url": "https://www.youtube.com/watch?v=eJ7LLb3dU0M",
+      "published_at": "2026-07-05T10:00:07+00:00",
+      "author": "山海之間",
+      "external_id": "eJ7LLb3dU0M",
+      "text": "台灣最近拿下一個全球第一的頭銜,但九成台灣人根本不知道自己得獎了。 拿下這個頭銜的,不是台積電,不是科學園區的高薪工程師, ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "34b1e96fd0316627c3212d56",
+      "source_type": "youtube",
+      "source_name": "中天財經頻道",
+      "title": "【全球政經周報】台股五貸同堂！AI泡沫恐拖垮房市？高利率風暴下聯準會轉鷹、日圓貶值、歐洲滯脹一次看20260705 @中天財經頻道CtiFinance",
+      "url": "https://www.youtube.com/watch?v=81NKmEORSpw",
+      "published_at": "2026-07-05T10:00:06+00:00",
+      "author": "中天財經頻道",
+      "external_id": "81NKmEORSpw",
+      "text": "台股AI行情越燒越旺，但市場最危險的地方，往往不是下跌，而是所有人都相信它還會繼續漲。 從AI股瘋漲、台股資金過熱，到市場 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "44e3d08e4ab83b598780da66",
+      "source_type": "youtube",
+      "source_name": "Japan Market Daily Radio 繁體中文",
+      "title": "半導體股暴跌7.7%｜台積電聯發科面臨AI過熱警訊【7月5日】",
+      "url": "https://www.youtube.com/watch?v=5Mwa4LxFCZo",
+      "published_at": "2026-07-05T09:39:48+00:00",
+      "author": "Japan Market Daily Radio 繁體中文",
+      "external_id": "5Mwa4LxFCZo",
+      "text": "【三行摘要】 第1行：AI投資過熱疑慮引爆全球半導體股大規模賣壓，SK海力士單日重挫7.7% 第2行：日本東京威力科創下跌5.6%， ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "4b1d04d9b26262f55423e32d",
+      "source_type": "youtube",
+      "source_name": "BabaaaA",
+      "title": "台股短線交易，最怕看錯這個訊號 #台股 #短線 #股票 #投資 #財經",
+      "url": "https://www.youtube.com/watch?v=i0NoHUDUOZ4",
+      "published_at": "2026-07-05T09:30:16+00:00",
+      "author": "BabaaaA",
+      "external_id": "i0NoHUDUOZ4",
+      "text": "台股震盪時更要看清楚主流族群今天整理AI、散熱、電力幾個方向純分享個人研究，不構成投資建議想看完整名單LINE： #台股#AI ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "190e889a1b10ea1a0f0aa81b",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "專家：記憶體邁入超級循環 新產能和CSP投資牽動後市",
+      "url": "https://www.cna.com.tw/news/afe/202607050152.aspx",
+      "published_at": "2026-07-05T09:27:29+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050152",
+      "text": "（中央社記者張建中新竹5日電）人工智慧（AI）驅使記憶體供需結構轉變，需求由雲端服務供應商（CSP）主導，記憶體產業邁入超級景氣循環，半導體業專家表示，短期供不應求態勢難以扭轉，記憶體廠新產能貢獻時程及CSP投資是否延續，將是牽動記憶體後市的兩大關鍵。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "7d1f4b712957b25e84f98aa4",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "OECD公布工時最長和最短國家！韓國人辛酸第六名",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494606",
+      "published_at": "2026-07-05T09:12:29+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494606",
+      "text": "〔財經頻道／綜合報導〕經濟合作暨發展組織 （OECD）週日（5日）公佈的數據顯示，至2025年，38個經合組織國家中，墨西哥以2205小時位居榜首，其次是哥斯大黎加、智利、希臘和以色列，南韓的工...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "4ed1ef3e8410766d668b1a62",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "當野生動物來敲門：告別傳統防護手段，全球重塑「人獸共存」新防線",
+      "url": "https://technews.tw/2026/07/05/globally-redefining-new-defense-line-human-animal-coexistence/",
+      "published_at": "2026-07-05T09:00:39+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1580888",
+      "text": "近幾年棕熊、灰狼等野生動物頻繁進入人類活動區，全球「如何降低人獸衝突」討論也加速轉向科技化與非致命手段。最新報導，部分地區開始引進模仿天敵叫聲的驅離裝置、防止熊隻破壞的智慧垃圾箱，以及可自動偵測動物蹤跡的 AI 系統。這些新興科技逐步取代傳統熊鈴與防熊噴霧，顯示人類與野生動物共存的防線開始全面重塑。 這波新對策中，科技不再只是輔助工具，而是化解衝突的核心手段： 模仿天敵叫聲的驅離裝置：巧妙呼應用氣味或刺激性聲音驅趕掠食者的生物本能，達到嚇阻效果。 有防護功能的垃圾箱：精準針對野生動物常因廚餘闖入人類聚落的問題，從源頭切斷誘因。 AI 偵測系統：致力動物逼近時搶到預警... 繼續閱讀 Image caption 近幾年棕熊、灰狼等野生動物頻繁進入人類活動區，全球「如何降低人獸衝突」討論也加速轉向科技化與非致命手段。最新報導，部分地區開始引進模仿天敵叫聲的驅離裝置、防止熊隻破壞的智慧垃圾箱，以及可自動偵測動物蹤跡的 AI 系統。這些新興科技逐步取代傳統熊鈴與防熊噴霧，顯示人類與野生動物共存的防線開始全面重塑。 這波新對策中，科技不再只是輔助工具，而是化解衝突的核心手段： 模仿天敵叫聲的驅離裝置 ：巧妙呼應用氣味或刺激性聲音驅趕掠食者的生物本能，達到嚇阻效果。 有防護功能的垃圾箱 ：精準針對野生動物常因廚餘闖入人類聚落的問題，從源頭切斷誘因。 AI 偵測系統 ：致力動物逼近時搶到預警時機，讓當地居民或管理單位能及時應變，避免衝突升級。 ▲ 日本 SOREST 公司的影像 AI 熊隻偵測系統「MIRAI-X KUMA」。系統能自動分析監視器畫面，偵測到黑熊或棕熊時，第一時間以警示燈、手機 App 及信件預警。 不僅科技防禦日益精進，北美地區野生動物管理也掀起更直接的政策激辯。加州牧場主近日強烈要求州政府放寬規定，允許使用胡椒彈（pepper ball）等非致命武器，驅離灰狼及其他威脅牲畜與人身安全的掠食者，提案已獲州議會部分支持。 提案主張，應授權經魚類與野生動物部門核准人員，對灰狼、美洲獅等動物施行「厭惡性訓練」，以強烈但不致命的痛覺刺激，有效降低牠們靠近與獵殺牲畜的意圖。支持者強調，初衷絕非類似人類社會的群眾控制，而是如同防熊噴霧，用刺激性物質建立明確的驅離效果。此舉能有效防止狼群逐漸習慣攻擊牛隻，避免牠們最後落入只能被撲殺的絕境。 與此同時，另一項配套法案則試圖爭取自衛免責權，讓牧場主面臨瀕危或受威脅物種的即時危害時，免除民事、行政或刑事責任。這些法規推動，深刻突顯美國西部保護人命、維持農業生計與堅守保育法規之間的拉扯逐漸白熱化。 現有科技與法規以外，科學界也積極尋找更具前瞻性的長期解方。 最新研究指出，若能深入解密犬科動物利用尿液溝通的領地機制，未來或許能調配出人工的「嗅覺屏障」，直接以氣味構成無形圍欄，阻擋狼群接近牧場。團隊已著手分析不同性別、年齡與社會地位的氣味組合，並計劃先在動物園進行初步測試，再逐步擴展至野外實地應用。 不過，研究員也坦言，這類生物氣味工具要真正成熟並投入實用仍需數年時間，但已為未來人獸永續共存的藍圖提供新可能性。 人里に近づくクマとどう向き合うか オオカミが追い払い、AIが見つける試行錯誤の現場 Killer wolves terrorize California ranchers who demand right to take drastic action against predators Human-Bear Conflicts Up Across West Could Signal More Attacks, Removals Coming （首圖來源： pixabay ） 延伸閱讀： 人獸衝突全世界升溫，加州研究：長期乾旱導致 人口減少「再野化」，研究：2050 年鹿和野豬將遍布日本各地 乾旱迫使熊下山，希臘也出現熊害 日本梅花鹿氾濫，專家建議「引狼入室」",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "392c92545ea5a8f6da7cf62c",
+      "source_type": "youtube",
+      "source_name": "民視讚夯 Formosa TV Thumbs Up",
+      "title": "(完整版)台股週線飆2千點!七月無腦衝上五萬點?無人機最關鍵零組件＋漲價利多，隱藏版飆股藏在這！車廠黑手轉人形機器人，看一檔轉機黑馬股!翻轉投資思維!... 2026.07.05【財經週日趴 全集】",
+      "url": "https://www.youtube.com/watch?v=CdOwikcm6U0",
+      "published_at": "2026-07-05T09:00:17+00:00",
+      "author": "民視讚夯 Formosa TV Thumbs Up",
+      "external_id": "CdOwikcm6U0",
+      "text": "不甩費半大跌!台股超強一路攻上五萬點? 鄭廳宜:把握台股大多頭房地產等五年後買法拍屋鄭廳宜:非農數據差是好事油價跌Fed年底 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "b29acee44d5987ec0c5cb308",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "每天自備午餐！他們靠這些招累積4200萬 40歲直接「提早退休」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494592",
+      "published_at": "2026-07-05T08:59:36+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494592",
+      "text": "〔財經頻道／綜合報導〕英國一對夫妻透過長達10年的極端節儉生活，包括每天自備便當、冬天幾乎不開暖氣，最終在40歲與35歲時成功提早退休，累積超過百萬英鎊資產。他們的故事也再度引發外界對「FIRE...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "683d7bf44efd55ce5a171b98",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "轟到你沒油！俄羅斯能源神話崩潰 急向「這國」低頭求援",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494509",
+      "published_at": "2026-07-05T08:56:34+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494509",
+      "text": "〔財經頻道／綜合報導〕烏克蘭無人機近期發動致命精準狂轟，連環癱瘓俄羅斯核心煉油廠，重創其產能，導致這個全球能源出口巨頭一夕跌落神壇。面對境內油荒全面引爆及斷供的慘況，傳出俄羅斯罕見向印度尋求燃料...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b88df09a43cace3a4ff4f6ba",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "阿里旗下平台賣違法藥物 與美司法部和解並支付192億元",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494620",
+      "published_at": "2026-07-05T08:54:20+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494620",
+      "text": "《路透》報導，美國司法部表示，由於未能阻止商家進口和銷售違法藥物，中國最大電商平台阿里巴巴集團及螞蟻集團子公司同意支付6億美元（新台幣191.6億元），目前已就此達成和解...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b1d4c399ad635ae2ff3e445d",
+      "source_type": "youtube",
+      "source_name": "Dddxz1",
+      "title": "今天盤面重點，不是漲最多的那一群 #台股 #盤勢 #股票 #投資 #財經",
+      "url": "https://www.youtube.com/watch?v=9MSn0Bqu3PA",
+      "published_at": "2026-07-05T08:50:15+00:00",
+      "author": "Dddxz1",
+      "external_id": "9MSn0Bqu3PA",
+      "text": "AI 題材熱度高，更要看風險我只整理自己看得懂的觀察方向純分享個人研究，不構成投資建議想看清單LINE： #台股#AI概念股#風險 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "b825a9a33fa0cb2829d0ee7d",
+      "source_type": "youtube",
+      "source_name": "股海麵包老特",
+      "title": "#台股 #AI #台積電 #半導體 #MOSFET #股票分析 #投資 #財經 #youtubeshorts",
+      "url": "https://www.youtube.com/watch?v=ZHEaRJgLj4c",
+      "published_at": "2026-07-05T08:38:37+00:00",
+      "author": "股海麵包老特",
+      "external_id": "ZHEaRJgLj4c",
+      "text": "AI 下一波真的還只有台積電嗎？   我整理了AI 外溢受惠供應鏈，想看的加瀨留言888。",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "0ce476527028ae6d55bee44f",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "鴻海第2季營收攀歷年同期新高 第3季可望季增年增",
+      "url": "https://www.cna.com.tw/news/afe/202607050128.aspx",
+      "published_at": "2026-07-05T08:35:36+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050128",
+      "text": "（中央社記者張建中新竹5日電）鴻海今天公布自結6月營收新台幣8218億元，月減4.38%，不過仍為歷年同期新高，年增52.11%；第2季營收2兆5133億元，創歷年同期新高。鴻海預期，整體第3季營運將有季增及年增表現。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "8f4c3302fa3d5123f836b19a",
+      "source_type": "youtube",
+      "source_name": "紅綠燈",
+      "title": "真正讓晶片出貨的，其實不是台積電#台股 #股票 #投資 #財經 #股市 #台股投資 #股票投資 #半導體 #台積電 #投資理財  #先進封裝 #AI晶片 #載板 #半導體設備",
+      "url": "https://www.youtube.com/watch?v=4pHQIYTiq1w",
+      "published_at": "2026-07-05T08:31:22+00:00",
+      "author": "紅綠燈",
+      "external_id": "4pHQIYTiq1w",
+      "text": "台股 #股票 #投資 #財經 #股市 #台股投資 #股票投資 #半導體 #台積電 #投資理財 #先進封裝 #AI晶片 #載板 #半導體設備.",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "07c269b17500b7d89aecdf4e",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "馬斯克推動X轉型超級App 旗下X Money擬進軍日本",
+      "url": "https://www.cna.com.tw/news/aopl/202607050127.aspx",
+      "published_at": "2026-07-05T08:29:34+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050127",
+      "text": "（中央社紐約5日綜合外電報導）X平台老闆馬斯克已正式開始在社群媒體X上提供金融服務工具X Money。此服務讓使用者可直接在X平台上轉帳、存款與支付，推動X朝整合日常各項功能的「超級App」轉型。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "8e5aad8d74972892609b5a53",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "萊茵金屬 Skynex 反無人機系統遭爆實戰表現落漆，烏克蘭內部報告揭致命故障",
+      "url": "https://technews.tw/2026/07/05/rheinmetalls-skynex-failed-in-ukraine-according-to-der-stern-citing-ukrainian-army-reports/",
+      "published_at": "2026-07-05T08:14:27+00:00",
+      "author": "Alan Chen",
+      "external_id": "https://technews.tw/?p=1582378",
+      "text": "由德國軍工大廠萊茵金屬（Rheinmetall）研發的 Skynex 近程防空系統，過去一直被宣傳為反制無人機與巡弋飛彈的頂級神盾，然而根據德國媒體《亮點》雜誌（Der Stern）引述烏克蘭軍方內部的機密評估報告，這套造價高昂的防空系統在實戰中的表現，可能遠低於官方預期。 這起防空系統挫敗發生於 2026 年 4 月 1 日，當時俄軍對烏克蘭西部一處重要工業設施發動空襲。為了確保萬無一失，烏軍在當地部署了兩套 Skynex 防空連，總計包含 8 個機砲模組、2 具 X-TAR3D 雷達與指揮中心，在設計上這樣的配置能提供完美的重疊火網，確保任何進入防區的目標都能被至少兩套快砲系... 繼續閱讀 Image caption 由德國軍工大廠萊茵金屬（Rheinmetall）研發的 Skynex 近程防空系統，過去一直被宣傳為反制無人機與巡弋飛彈的頂級神盾，然而根據德國媒體《亮點》雜誌（Der Stern）引述烏克蘭軍方內部的機密評估報告，這套造價高昂的防空系統在實戰中的表現，可能遠低於官方預期。 這起防空系統挫敗發生於 2026 年 4 月 1 日，當時俄軍對烏克蘭西部一處重要工業設施發動空襲。為了確保萬無一失，烏軍在當地部署了兩套 Skynex 防空連，總計包含 8 個機砲模組、2 具 X-TAR3D 雷達與指揮中心，在設計上這樣的配置能提供完美的重疊火網，確保任何進入防區的目標都能被至少兩套快砲系統接戰。 不過雖然當下雷達成功偵測到兩架俄軍無人機逼近時，這套高度自動化的防線卻瞬間崩潰，其中一架無人機順利突破防區，系統最終卻只勉強發射了一發砲彈且未能命中，導致該無人機直接撞擊設施並引爆。 烏軍報告將失敗歸咎於連串致命的技術故障，包括交戰的關鍵幾分鐘內，8 個機砲模組中有 3 個因為液壓系統失效、射控追蹤雷達異常以及彈藥自動裝填故障而宣告癱瘓，最終只有 2 套系統維持正常追蹤能力。 烏軍在報告中措辭嚴厲，直指 Skynex 的技術操作準備率極低且極其不可靠，現場官兵甚至痛批這是一場不該發生的災難。這份報告對於主打反無人機市場的 Skynex 是一記重擊，畢竟一套防空連造價高達 6,000 萬歐元以上，在關鍵時刻卻落漆，勢必讓買家重新評估其性價比。 此外這起事件也可能波及萊茵金屬另一款即將引入烏克蘭、採用相同快砲概念的 Skyranger 35 車載防空系統，投下信任變數。 雖然萊茵金屬官方隨即駁斥這項指控，堅稱系統表現卓越並獲得烏軍高層正面回饋，也有德國官員認為單一事件無法定論、不排除有人為操作失誤，但這確實反映出西方先進武器在遭遇高強度實戰時的「水土不服」。 此外這起事件除了《亮點》一家媒體外，並無其他媒體出現相關報導，而引述的烏軍報告來源也屬於不公開資料，因此這次萊茵金屬 Skynex 表現失常是否有其他因素，還有待後需資料公佈後才能確認。 Ukrainian Report Allegedly Finds Skynex System Did Not Meet Claimed Performance Against russian Drones - Stern （首圖來源： Повітряне командування \"Захід\" Повітряних Сил ЗС України , CC BY 4.0 , via Wikimedia Commons）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "6179dcefb7949ab6f41e422e",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "熱浪襲歐洲 中國電商營業額據報飆升近40倍",
+      "url": "https://www.cna.com.tw/news/acn/202607050124.aspx",
+      "published_at": "2026-07-05T08:14:27+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050124",
+      "text": "（中央社台北5日電）歐洲今夏面臨熱浪衝擊，多地打破同期高溫紀錄，但全歐冷氣機普及率卻僅約兩成，高溫持續下，中國生產的可移動式冷氣機因安裝簡單等原因在當地掀起搶購潮，有電商平台營業額飆升近40倍。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "34aeb1befa3ee029d171606a",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "鴻海Q2、H1營收雙創高 AI機櫃Q3續旺",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494571",
+      "published_at": "2026-07-05T08:06:54+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494571",
+      "text": "鴻海（2317）今天公布6月營收8217.63億元，月減4.38%、年增52.11%，創歷年同期新高；第二季營收2兆5133億元，季增18.02%、年增39.83%，上半...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "a6aacf9784240e45b8f451db",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "全球加速擺脫中國製！外媒關注台灣「下1張新王牌」準備起飛",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494537",
+      "published_at": "2026-07-05T08:03:38+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494537",
+      "text": "〔財經頻道／綜合報導〕外媒指出，台灣正迎來無人機產業的重要轉折點。在美國支持、全球供應鏈重組及兩岸緊張局勢升溫等因素推動下，台灣正透過自主製造、半導體技術與國際合作，打造兼具國防與產業競爭力的無...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "3147f720d050da56461a2adb",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "拒絕思考外包，AI 時代教養關鍵：刻意為孩子保留「找答案的不方便」",
+      "url": "https://technews.tw/2026/07/05/parenting-strategies-ai-era-encourage-kids-think-verify-not-rely-ai-all-answers/",
+      "published_at": "2026-07-05T08:00:45+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1581246",
+      "text": "一位任職於 Google、專門協助企業導入人工智慧（AI）解決方案的母親 Carolaine Pino，近日分享了一段深刻的育兒體悟。過去八年來，她刻意讓 8 歲的女兒遠離螢幕，卻在日常互動中驚覺，自己早已在不知不覺間，將對 AI 的依賴傳遞給了孩子。 Carolaine 表示，為了避免孩子沉迷科技並保留面對面互動的時光，她們的家庭生活向來圍繞著週末電影夜、手作與實體遊戲。然而，隨著女兒日漸長大，她開始擔憂完全的「數位隔離」會讓孩子在同儕間落後。當同學們已經開始熟練運用 Canva 製作報告、剪輯影片，甚至用 Pinterest 蒐集靈感時，女兒的作業多半仍停留在傳統的手繪海報階段。 ... 繼續閱讀 Image caption 一位任職於 Google、專門協助企業導入人工智慧（AI）解決方案的母親 Carolaine Pino，近日分享了一段深刻的育兒體悟。過去八年來，她刻意讓 8 歲的女兒遠離螢幕，卻在日常互動中驚覺，自己早已在不知不覺間，將對 AI 的依賴傳遞給了孩子。 Carolaine 表示，為了避免孩子沉迷科技並保留面對面互動的時光，她們的家庭生活向來圍繞著週末電影夜、手作與實體遊戲。然而，隨著女兒日漸長大，她開始擔憂完全的「數位隔離」會讓孩子在同儕間落後。當同學們已經開始熟練運用 Canva 製作報告、剪輯影片，甚至用 Pinterest 蒐集靈感時，女兒的作業多半仍停留在傳統的手繪海報階段。 一句「直接問 ChatGPT」，成為改變的轉捩點 真正促使 Carolaine 重新省思教養方針的，是一次陪孩子做功課的經驗。某次在乘車途中，女兒遇到不懂的生字，Carolaine 為了方便，直接拿出手機請 ChatGPT 用 8 歲孩子能懂的方式解釋，兩人也迅速解決了難題。 沒想到幾天後，母女倆在公園面臨類似狀況時，女兒竟急著要求她：「直接問 ChatGPT 吧！」這句話讓 Carolaine 大為震撼。她這才意識到，孩子其實一直都在默默觀察她如何透過手機與 AI 快速獲取解答，並且正在模仿大人將「思考外包」的習慣。 三大「AI 家規」，找回被外包的思考力 為了讓孩子學會與科技健康共處，同時保有獨立思考的能力，Carolaine 決定為家庭制定一套全新的使用規則。現在，他們在使用 AI 之前，必須先做到以下三件事： 停下來想一想 ： 在尋求解答前，必須先嘗試自己猜測答案，或提出可能性。 進行查證遊戲 ： 刻意尋找不同來源與說法的資訊，藉此練習資料比對與真偽判斷的能力。 開口問「真人」 ： 鼓勵女兒先去詢問朋友或家人的看法，從真實的人際互動中理解多元觀點。 Carolaine 強調，對她而言，AI 時代的教養重點，絕不僅是讓孩子提早學會使用工具來提高效率；更重要的是，必須為孩子保留自己思考、犯錯、摸索與「延遲滿足」的空間。 她認為，在一個愈來愈容易獲得即時答案的世界裡，父母反而需要刻意維持生活中的一些「不方便」，唯有讓孩子在挫折、遲疑與反覆嘗試中經歷掙扎，才能真正建立起無可取代的批判性思考與創造力。 I work at Google, but my 8-year-old is mostly offline. I want her to learn to be intentional about AI use. How A Year Of Using AI Changed One Mother's Approach To Parenting The Kids Are Not Okay With AI. And They Know It. Artificial intelligence requires human-led thinking （首圖來源： Carolaine Pino ） 延伸閱讀： 生成式 AI 會讓人類思考退化嗎？重點在於「如何使用」而非「是否使用」 過度依賴 AI 判讀新聞，長期恐引發「批判性思考」退化危機 你是思想的創造者還是 AI 的驗證員？研究員警告「思考外包」侵蝕知識工作者",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "f9775cfecd6faa44d87b576a",
+      "source_type": "youtube",
+      "source_name": "自由女神邱沁宜",
+      "title": "【財經宜&amp;民視財經週日趴】台股週線飆2千點!七月無腦衝上五萬點?無人機最關鍵零組件＋漲價利多，隱藏版黑馬股藏在這！車廠黑手轉人形機器人，看一檔轉機股!翻轉投資思維!日股食衣住行都有隱形冠軍!",
+      "url": "https://www.youtube.com/watch?v=HDqleNnCHws",
+      "published_at": "2026-07-05T08:00:06+00:00",
+      "author": "自由女神邱沁宜",
+      "external_id": "HDqleNnCHws",
+      "text": "不甩費半大跌!台股超強一路攻上五萬點? 鄭廳宜:把握台股大多頭房地產等五年後買法拍屋 鄭廳宜:非農數據差是好事 油價跌 Fed年底 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "fad72f4979d39d5f06084869",
+      "source_type": "youtube",
+      "source_name": "老王看台股",
+      "title": "#台股 #股票 #投資 #財經 #股市 #台股投資 #股票投資 #AI概念股 #半導體 #台積電 #投資理財 #股票教學 #玻璃基板 #先進封裝 #AI晶片 #載板",
+      "url": "https://www.youtube.com/watch?v=2Qca9qpLfQ8",
+      "published_at": "2026-07-05T07:45:30+00:00",
+      "author": "老王看台股",
+      "external_id": "2Qca9qpLfQ8",
+      "text": "台股#台股上漲#台股新聞#股市#股市分析.",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "48d16f1bdffc1ca3fe766690",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "鴻華先進-創 115年6月營收4.55億、年增22.67%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=950883d9-61dc-4b30-9314-cf5bc155bc22&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-05T07:40:00+00:00",
+      "author": "",
+      "external_id": "950883d9-61dc-4b30-9314-cf5bc155bc22",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "28f5e5918a3f44ffb473e6d6",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "鴻海 115年6月營收8217.63億、年增52.11%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=3fd79859-562e-4aa5-8548-f16effe05c84&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-05T07:40:00+00:00",
+      "author": "",
+      "external_id": "3fd79859-562e-4aa5-8548-f16effe05c84",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "fe6f16587ea270beb32336c1",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "德國超車！中國金融競爭力排名慘遭自家智庫下調 習近平臉綠了",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494515",
+      "published_at": "2026-07-05T07:15:10+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494515",
+      "text": "〔財經頻道／綜合報導〕《南華早報》5日披露，儘管世界第二大經濟體的領導人習近平誓言要將中國建設成為金融超級大國，但中國政府所屬的智庫-中國社科院卻罕見地將中國的全球金融競爭力排名下調1名至第5名...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "efb88b5d65806717d4eac41d",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "蘋果擬用中國晶片虛晃一招 背後意圖被解謎",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494458",
+      "published_at": "2026-07-05T07:07:19+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494458",
+      "text": "〔財經頻道／綜合報導〕蘋果公司傳出遊說川普政府放行，擬採用中國長江存儲的DRAM晶片，對此，美國銀行剛發布一份報告指出，蘋果的真正用意是用來與美光、三星和SK海力士議價、增加談判籌碼。蘋果從長江...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "688e817d40f04888e89b54d0",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "雲端發票詐騙狂撈6千萬 1500人慘遭盜刷 刑事局：要「信用卡號」絕對是詐騙",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494514",
+      "published_at": "2026-07-05T07:01:39+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494514",
+      "text": "中部1名資訊工程師日前收到雲端發票中獎1千元的電子郵件，他開心點擊連結進入假冒的財政部網頁，依指示輸入信用卡號與簡訊認證碼，卻因網頁顯示異常而連續輸入12次，沒想到全是被...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "8bd4567f9483eeb53546ac10",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "當浪漫巴黎熱成烤箱，法國熱浪釀千死！為何光靠塞納河降溫不夠，冷氣之爭反升溫？",
+      "url": "https://technews.tw/2026/07/05/over-1000-die-in-france-heatwave-as-air-conditioning-sparks-debate/",
+      "published_at": "2026-07-05T07:00:57+00:00",
+      "author": "地球圖輯隊",
+      "external_id": "https://technews.tw/?p=1580332",
+      "text": "今年強烈熱浪席捲歐洲，從西班牙、義大利到法國，多國氣溫接連突破歷史紀錄。根據世界衛生組織（WHO）統計，自 6 月下旬以來已有超過千人喪生，而法國更成為受衝擊最嚴重的國家之一。當急診室人滿為患、殯儀館冷藏空間告急，甚至有民眾不得不到公園過夜避暑時，也暴露出法國長期對高溫應對不足的問題。 與此同時，一場關於「該不該裝更多冷氣」的爭論也迅速升溫。有人認為冷氣已經是保護生命的必要設施，也有人擔心這將加劇能源消耗與熱島效應。當極端高溫逐漸成為新常態，這個曾經不需要冷氣的國家，該如何適應愈來愈炎熱的未來？ 法國面臨熱浪威脅，死亡率攀升 今年夏天，歐洲遭遇大規模熱浪侵襲，多國接連發布高溫警報，呼... 繼續閱讀 Image caption 今年強烈熱浪席捲歐洲，從西班牙、義大利到法國，多國氣溫接連突破歷史紀錄。根據世界衛生組織（WHO）統計，自 6 月下旬以來已有超過千人喪生，而法國更成為受衝擊最嚴重的國家之一。當急診室人滿為患、殯儀館冷藏空間告急，甚至有民眾不得不到公園過夜避暑時，也暴露出法國長期對高溫應對不足的問題。 與此同時，一場關於「該不該裝更多冷氣」的爭論也迅速升溫。有人認為冷氣已經是保護生命的必要設施，也有人擔心這將加劇能源消耗與熱島效應。當極端高溫逐漸成為新常態，這個曾經不需要冷氣的國家，該如何適應愈來愈炎熱的未來？ 法國面臨熱浪威脅，死亡率攀升 今年夏天，歐洲遭遇大規模熱浪侵襲，多國接連發布高溫警報，呼籲民眾減少外出並注意補充水分。儘管如此，高溫帶來的死亡數字仍持續攀升。根據世界衛生組織統計，自6月21日以來，約有1,300人因高溫及相關原因而死亡，而法國也成為此次受害最嚴重的國家之一，學校停課、減少列車班次，連核電廠和電力系統也不堪負荷，多個地區出現停電情況。 法國衛生部長里斯（Stéphanie Rist）表示，雖然還未能統計確切數據，但目前得知的死亡人數已高於歷年平均約一千多人，而這段期間撥打緊急醫療服務專線的比例更增加40到60%，為法國醫療體系帶來龐大壓力。 🔴 DIRECT. Stéphanie Rist, ministre de la Santé, s'exprime sur la canicule : \"Les fortes chaleurs ont provoqué une hausse de 40 à 60 % des appels au SAMU, mettant sous tension notre système hospitalier\", indique Stéphanie Rist, ministre de la Santé. #canal16 pic.twitter.com/8ssgZHSDNR — franceinfo (@franceinfo) June 27, 2026 ▲ 法國衛生部長里斯（Stéphanie Rist）受訪。 由於住院人數不斷增加，許多醫院也已瀕臨極限，法國當局不僅宣布取消多場大型戶外活動，更頒布了罕見的「街頭禁酒令」。巴黎警察局長福爾（Patrice Faure）強調，這項禁令是為了減緩醫療體系的負擔。 「正如大家所知，在烈日曝曬下飲酒可能會帶來相當嚴重的後果」。 此外，這種人滿為患的情況不只出現在醫院，就連殯儀館也逐漸不堪負荷。《France 24》報導，隨著死亡人數持續增加，巴黎多處殯儀館的冷藏空間已近乎飽和。 巴黎一間殯儀館負責人赫特利（Zouhaeir Hertelli）就表示，自從熱浪造成死亡案例激增，他的電話幾乎每隔幾分鐘就會響起。有殯葬同業，也有失去親人的家屬，而他們詢問的往往都是同一個問題：還有空間可以安置遺體嗎？ 儘管巴黎市政府已在公立醫院和殯儀館等地緊急加設冰櫃，但空間仍然不足，其他殯葬業者也提到他們需要將遺體運往周邊其他地區冰存。 「無數家庭正在承受痛苦，但我們卻無能為力」。 ▲ 巴黎殯儀館已沒有空間。 法國如何對抗高溫？ 為了躲避酷暑，巴黎民眾紛紛湧向有水的地方。無論是聖馬丁運河（Canal Saint-Martin）、塞納河畔，或是街頭的景觀噴泉，都成為民眾消暑降溫的熱門去處。 同時，法國內政部長努涅斯（Laurent Nuñez）也提醒民眾戲水消暑時應注意自身安全，因為在這段期間裡，已有70多人因溺水而身亡，大多數是發生在河流或池塘等「官方未開放、無人看管」的危險水域。 ▲ 巴黎市政府開放聖馬丁運河部分地區供民眾游泳消暑。（Source： Emmanuel Grégoire ） 極端高溫的衝擊也蔓延到巴黎最具代表性的盛事之一──巴黎時裝週。持續飆升的氣溫與缺乏應對措施的場館，讓前來欣賞的賓客無暇關注模特身上的最新設計，而是忙著用各大品牌提供的冰袋、扇子和瓶裝水對抗悶熱。這也讓外界開始質疑，在夏季熱浪日益頻繁的情況下，巴黎時裝週是否仍適合維持現有的舉辦時程。 而伸展台上的厚重大衣、皮草與秋冬服飾，也意外凸顯了時尚產業與當前氣候的脫節：許多高端時裝並非為炎熱的天氣而設計，而是面向長時間待在冷氣充足的百貨公司、辦公大樓或私人轎車中的消費族群。 此外，這次的熱浪危機也暴露出巴黎本身長期存在的問題：歷史悠久的走秀場館，但其內部結構卻相當老舊，也缺乏冷氣這類應對高溫的措施。 ▲ 在LV 2027春夏系列男裝秀上出現巨大的人造瀑布。 建築太吸熱，簡直就像烤箱 隨著夜晚降臨，熱氣與高溫卻依然盤踞在城市中。於是，許多巴黎市民索性帶著毯子、睡墊和吊床走進公園，在露天草地上度過漫漫長夜。對他們來說，戶外微弱的晚風，反而比悶熱難耐的住家更容易讓人入睡。 「在星空下睡覺，絕對比待在我那悶熱得像烤箱一樣的公寓裡要舒服得多」。 由於多數建築與基礎設施並非為極端高溫而設計，因此當熱浪來襲時，建築蓄熱、通風不良等問題便被迅速放大，尤其在人口與建築高度密集的巴黎更為明顯。 ▲ 巴黎市民攜家帶眷到公園過夜。 長久以來，巴黎的閣樓套房一直是許多人心中的浪漫象徵。推開窗戶便能俯瞰層層疊疊的灰色屋頂，欣賞巴黎最具代表性的城市天際線。而這些由鋅金屬打造的屋頂，不僅是巴黎街景的重要特色，其相關工藝更被聯合國教科文組織（UNESCO）列為非物質文化遺產。 然而，做為金屬材質，鋅屋頂極易吸熱，這讓許多頂樓住戶不得不面對宛如烤箱般的居住環境，卻又因為保護屋頂文化的法規限制，無法加裝屋頂隔熱層或遮陽的百葉窗來阻絕陽光。 「人們覺得巴黎的屋頂很迷人，但現實情況是這些公寓裡住著許多付著高昂租金，卻只能擠在狹小房間裡的學生。」 法國住房基金會（Fondation pour le Logement）氣候倡議專員奧利維耶（Maider Olivier）指出，不只是閣樓屋頂，法國整體正面臨日益嚴峻的氣候不均等現象，尤其是那些居住在郊區、缺乏綠意遮蔽且容易吸熱的混凝土公寓裡的民眾。 居住在法國最貧困城鎮格里尼（Grigny）的阿布巴卡爾表示，他擔心公寓內的溫度已經超過40度，無法安心待著。 「我快要窒息了，我連電風扇都買不起，而我的公寓沒有安裝百葉窗。晚上我根本無法入睡，屋子簡直就像個熔爐。」 ▲ 法國巴黎的屋頂景觀。（Source： Unsplash ） 為什麼不裝冷氣？ 隨著極端高溫愈發頻繁，歐洲各國對冷氣設備的需求也迅速攀升。根據CNN報導，來自亞洲的冷氣製造商，包括韓國三星電子、日本三菱電機以及中國美的集團，近期在歐洲市場的銷售額皆有顯著成長，反映出歐洲消費者對冷氣的態度已有所轉變。 過去，歐洲普遍將冷氣視為一項可有可無的奢侈品，而非民生必需品，再加上安裝與能源使用的成本很高，並非所有人皆能負擔。法國政府2020年的一項調查顯示，全法國僅有約四分之一的住宅安裝了冷氣。 冷氣雖然能改善室內溫度，但卻會將熱氣排出屋外，使整座城市的溫度隨之升高，對於本就容易蓄熱的法國城市而言，大量使用冷氣反而可能進一步加劇熱島效應。 雖然法國電力主要來自核能與再生能源，對氣候傷害較小，看似能免於火力發電排放溫室氣體的惡性循環，但由於河水溫度過高、缺乏足夠的低溫冷卻水，多座核反應爐在熱浪期間被迫減速甚至關機。當民眾對冷氣與用電需求飆升，政府很可能轉而尋求火力發電來應急，成為政府2050氣候中和目標的一大障礙。 當塞納河成為巴黎的「冷氣」 儘管冷氣普及率相對較低，但巴黎早在1990年代就開始設置一套利用塞納河河水降溫的區域冷卻系統，如今成為歐洲最大的城市冷卻網路之一。 這套隱藏在巴黎地下的龐大系統，由超過100公里的管線組成，透過抽取塞納河水進行熱交換，將建築物內部的熱能帶走，再把冷水輸送至全市各地，已有超過800棟建築接入這套系統，包括羅浮宮、法國國會、大型百貨公司、辦公大樓與交通設施等。 相較於傳統冷氣將熱氣排放至街道，區域冷卻系統最大的優勢在於不會直接向城市環境釋放熱風，因此能降低熱島效應。同時，集中供冷也有助於減少能源消耗、降低冷媒使用量與碳排放。對於正努力實現氣候目標的巴黎而言，這被視為比大量安裝冷氣更具永續性的解決方案。 目前，巴黎市政府與營運企業Fraîcheur de Paris正持續擴建這項冷卻系統，目標在2042年前將管線總長擴增至245公里以上。隨著極端高溫日益頻繁，未來服務範圍也將逐步擴大至醫院、學校、托育中心及養老院等重要公共設施。 ▲ 由營運企業Fraîcheur de Paris公布的塞納河冷卻系統運作說明。 冷氣，到底要開還是不開？ 隨著民眾對冷氣的態度逐漸轉變，是否大幅提升冷氣使用率也成為近期法國政界的熱門辯論主題。 法國極右派政黨「國民聯盟」（RN）領袖瑪琳勒朋（Marion Anne Perrine Le Pen）就批評馬克宏政府與左翼政黨過度強調環保理念，卻忽視冷氣等高溫調適措施的必要性，導致法國在面對日益頻繁的熱浪時準備不足。 同時，瑪琳勒朋也再次呼籲政府推動國民聯盟提出的「冷氣計畫」，主張為全國學校與醫院全面加裝空調，並由政府提供總額200億歐元的免息貸款，協助3,000萬至4,000萬名屋主安裝冷氣。 「享受涼爽的權利絕非奢侈品。為了所有民眾的健康與福祉，現在正是採取行動的時刻。」 Alors que les périodes caniculaires vont être de plus en plus fréquentes et de plus en plus intenses en raison du changement climatique, il est temps d’enclencher un grand plan de climatisation, comme je le réclame maintenant depuis plusieurs années, notamment dans les bâtiments… https://t.co/PhBHiavelA — Marine Le Pen (@MLP_officiel) May 26, 2026 ▲ 瑪琳勒朋主張應盡快採取「冷氣計畫」。 不過，這項主張遭到法國極左派政黨「不屈法國」（La France insoumise）領袖梅蘭雄（Jean-Luc Mélenchon）反對，梅蘭雄認為以歐洲的普及率情況，要求家家戶戶都安裝冷氣並不現實，法國更應將重點放在建築改造、城市降溫與其他長期氣候調適措施，而非全面依賴空調設備。 然而，隨著熱浪一年比一年更頻繁、也更猛烈地襲擊法國，這場關於冷氣的爭論也逐漸從政治理念之爭，轉變為攸關公共安全的現實課題。在極端高溫逐漸成為新常態的情況下，法國究竟該選擇擴大使用冷氣，還是尋求更長遠的降溫方案，仍是各界持續辯論的焦點。 France issues red alert as heatwave breaks records and death toll mounts ‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows Europe sees more than 1,300 excess deaths amid brutal heatwave, WHO says France heatwave: Rising river temperatures trigger shutdown of nuclear reactors Paris mortuaries overwhelmed as France counts victims of devastating heatwave Heat catches Europe’s fashion industry unprepared as models face the sun in fur and wool « Quartiers chauds » : les quartiers populaires surexposés aux canicules Dreamy Paris rooftops become a heat-trapping nightmare Why Europe can't air condition its way out of extreme heat European summers are getting brutally hot. So why is air conditioning so rare? Zinc roofers of Paris win UNESCO cultural heritage status European heat wave brings in cool cash for Asian air-conditioner makers as sales surge Paris bans drinking alcohol in public as hospitals hit heatwave breaking point 'It's like a hotel tonight': Paris park welcomes residents seeking overnight respite from the heat Paris opens canal to swimmers after ban didn't work during last heatwave ‘El Niño is a distraction’: Why Europe’s deadly heatwave isn’t down to a natural weather phenomenon ‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con How Paris's Seine river keeps the Louvre cool in summer Air conditioning creates political divide after France records hottest day To use air con or not? The facts behind the politicised battle to stay cool in Europe La canicule diminue, mais les premiers signes de surmortalité apparaissent （本文由 地球圖輯隊 授權轉載；首圖來源： 巴黎市政府 ） 延伸閱讀： IPCC 主席：歐洲熱浪嚴重程度超出部分預測 法國又遭歷史性熱浪襲擊，巴黎的漂亮鋅屋頂現在卻讓頂樓變成「烤箱」 歐洲熱浪掀空調搶購潮 中廠牌熱銷／美的部分通路售罄 法國熱浪避難為先，巴黎迪士尼關閉戶外設施 歐洲熱浪意想不到的災區，交通系統癱瘓",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "5af8b96f287ff90ecd495d4a",
+      "source_type": "youtube",
+      "source_name": "股添樂 股市新觀點",
+      "title": "下半年最值得關注的一根針",
+      "url": "https://www.youtube.com/watch?v=kh2cEZhIlRM",
+      "published_at": "2026-07-05T06:54:50+00:00",
+      "author": "股添樂 股市新觀點",
+      "external_id": "kh2cEZhIlRM",
+      "text": "這個月重點就是七月中台積電法說會，共識都還算樂觀，不過法說會後，我認為市場會開始更重視AI下游變現的情況，這也會是下 ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "c6e8431f00265fa0043ffab9",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "竹市推動地政數位化 「數位櫃臺」打造便民新體驗",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494511",
+      "published_at": "2026-07-05T06:46:11+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494511",
+      "text": "新竹市政府推動地政業務數位化，鼓勵市民多加運用內政部「數位櫃臺」系統，辦理線上聲明、地籍異動即時通、住址隱匿、案件進度查詢及規費繳納等申請。市長高虹安表示，民眾只要透過自...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "927f1d13d2b880f5cc5550ef",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "太陽光電設施架設有學問 符合條件免課房屋稅",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494500",
+      "published_at": "2026-07-05T06:45:26+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494500",
+      "text": "近年再生能源發展蓬勃，愈來愈多民眾利用自家屋頂或自有空地設置太陽光電設施。新竹市長高虹安表示，民眾常關心設置太陽光電設施是否會增加房屋稅，其實須視設施搭建方式而定。若僅以...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "3d21e18000084a24a358c624",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "母以子貴！長廣AI載板設備稱霸市場 長興直奔漲停",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494510",
+      "published_at": "2026-07-05T06:41:22+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494510",
+      "text": "母以子貴！受惠持有長廣（7795）六成股權之故，上週五長興（1717）開高走高、尾盤直奔漲停81.6元，成交量近6萬張；法人形容長廣是「躲在最上游的AI印鈔機」，這檔「壓...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "a6c8a86df0de38210a42faa0",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "83.5 兆美元迎世紀大移轉，未來 20 年全球財富將重新洗牌",
+      "url": "https://finance.technews.tw/2026/07/05/largest-wealth-transfer-history-83-5-trillion-globally-next-20-years/",
+      "published_at": "2026-07-05T06:30:53+00:00",
+      "author": "遠見雜誌",
+      "external_id": "https://technews.tw/?p=1582003",
+      "text": "現代史上規模最大的跨世代財富傳承，正在拉開序幕。根據瑞銀集團（UBS）報告，未來 20 年內，預計將有高達 83.5 兆美元的財富，從嬰兒潮世代及年長創業家手中，轉移給他們的子孫。光是億萬富豪家族，在 2040 年前就將移轉約 6.9 兆美元。相較於上一代白手起家的傳統財富思維，這群準備接管家族資產的年輕一代，有著截然不同的財富觀，正準備以全新的方式，重新配置及運用這筆龐大資金。 第一代守成，下一代走向全球配置 根據美國財經媒體《CNBC》報導，新加坡「傳承財富顧問公司」（Legacy Wealth Advisors）執行長兼創辦人哈特（Elizabeth Hart）表示，第一代創業者多為... 繼續閱讀 Image caption 現代史上規模最大的跨世代財富傳承，正在拉開序幕。根據瑞銀集團（UBS） 報告 ，未來 20 年內，預計將有高達 83.5 兆美元的財富，從嬰兒潮世代及年長創業家手中，轉移給他們的子孫。光是億萬富豪家族，在 2040 年前就將移轉約 6.9 兆美元。相較於上一代白手起家的傳統財富思維，這群準備接管家族資產的年輕一代，有著截然不同的財富觀，正準備以全新的方式，重新配置及運用這筆龐大資金。 第一代守成，下一代走向全球配置 根據美國財經媒體《 CNBC 》報導，新加坡「傳承財富顧問公司」（Legacy Wealth Advisors）執行長兼創辦人哈特（Elizabeth Hart）表示，第一代創業者多為「建造者」，財富集中於自己深耕且熟知的單一資產類別，例如，家族企業、不動產或本地藍籌股。 哈特指出，年輕一代的繼承人很可能接受國際教育，傾向「以全球視角看待財富」，更習慣在各國間穿梭發展，也更願意接觸多元化投資標的，積極追求多樣化的資產配置。 這項轉變，可能讓一部分繼承的財富，流向有別於家族傳統配置的領域，尤其是不再高度集中於房地產。哈特指出，亞洲家庭過去幾代「幾乎只投資房地產」，但第二、三代繼承人已愈來愈傾向分散資金，至其他資產類別與地理區域。 年輕世代更敢投資！私募、加密貨幣成新寵 調查數據證實，新舊世代的理財偏好截然不同。法國外貿銀行投資管理公司（Natixis Investment Managers）調查發現，千禧世代比年長投資人更有意願投資私募資產，其中53%表示有興趣；高達62%的千禧世代曾與理財顧問討論加密貨幣，另有44%，計劃在未來一年增加或開始投資加密貨幣。 此外，年輕一代似乎也更願意承擔風險。法國外貿銀行投資管理公司的調查顯示，亞太地區78%的千禧世代，希望透過投資獲得超越市場的報酬，相較之下，只有38%的嬰兒潮世代，願意為了追求更高報酬而承擔風險。 年輕世代財富觀：更重視體驗與永續 英國家族辦公室「Prestel & Partner」共同創辦人普雷斯特爾（Tobias Prestel）表示，年輕一代愈來愈不把金錢視為目的，而是將其視為實現目標的工具。普雷斯特爾表示：「對大多數年長者而言，金錢很重要，而且愈多愈好。然而，對多數年輕人來說，金錢只是工具；比起享受擁有財富，他們更關心的是如何運用這項工具。」 這種觀念的轉變也正影響消費習慣。相較於蒐集名車等傳統象徵身分地位的收藏品，一些年輕繼承人更重視體驗、說走就走的行動力、國際化的生活方式。普雷斯特爾表示，年輕富裕族群較少熱衷收藏名車，反而更傾向在世界各地購置住宅，將休閒旅遊與全球房地產布局結合。 同時，年輕繼承人對永續投資與影響力投資的興趣也正在升溫，瑞銀發現，近半數新世代投資人已投入或渴望進一步了解相關領域。 財富能傳，信任難傳：家族溝通決定傳承成敗 這波財富傳承潮，也正改變家族管理財富的方式。瑞銀發現，愈來愈多家族第二代、第三代將繼承財富視為責任的交接，而非終將入手的意外之財。一位受訪者透露：「我和弟弟不認為繼承是一筆我們終將獲得的財富，而是我們肩負的責任，要做到和父親一樣好。」 然而，這場歷史性的財富傳承並非毫無風險。顧問指出，財富保存與延續的最大威脅往往來自家族內部。哈特一針見血地指出：「真正的裂痕不是缺乏金錢，而是缺乏溝通。」許多第一代創業者仍不願放手交出控制權，尤其是在亞洲，家族財富往往與家族的父權或母權核心人物緊密相連。 與此同時，繼承人希望提高透明度，做好接班規劃，並建立正式的家族資產治理架構。哈特強調：「即使已有接班計畫，摧毀家族財富的最大因素，仍是家族紛爭。」 顧問向《CNBC》表示，隨著財富逐漸轉移給下一代，成功的財富傳承，愈來愈仰賴培養繼承人的管理能力，而非單純的資產規劃而已。 （本文由 遠見雜誌 授權轉載；首圖來源： pixabay ） 延伸閱讀： 年輕人坐等繼承財富？研究：多數人等不到 25 年後普通房要百萬美元，研究：千禧世代退休後將面臨財富差距 逾七成房產掌握在 50 歲以上族群，台灣房市悄悄從交易市場走向繼承市場 台灣年輕人買不起房又低薪，股市成唯一希望 很難過著舒適生活，Z 世代成最貧世代",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "8224e4777a373c3a622827d2",
+      "source_type": "youtube",
+      "source_name": "籌碼獵人",
+      "title": "#台股 #ai股#台積電 #信驊  #創意  #聯發科  #世芯 #貿聯 #AI股#成長股",
+      "url": "https://www.youtube.com/watch?v=SrLT8_rwbPk",
+      "published_at": "2026-07-05T06:30:26+00:00",
+      "author": "籌碼獵人",
+      "external_id": "SrLT8_rwbPk",
+      "text": "台股, #股票, #股市, #台積電, #AI概念股, #AI供應鏈, #飆股, #權值股, #電子股, #投資理財#費城半導體#美股財報季#台積電#信驊# ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "6255481bcd09f810687ee8f6",
+      "source_type": "youtube",
+      "source_name": "DataDash",
+      "title": "Chips Used to Be Intel&#39;s Game — Then AI Changed Everything #semiconductors #ai #chips #stocks",
+      "url": "https://www.youtube.com/watch?v=lXdLAtnWQCQ",
+      "published_at": "2026-07-05T06:27:58+00:00",
+      "author": "DataDash",
+      "external_id": "lXdLAtnWQCQ",
+      "text": "25 years of the semiconductor revenue race in 60 seconds. Watch Intel dominate, Samsung surge on memory, TSMC quietly ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "14a582a8eee92ad221ce606b",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "被球砸傷竟改寫人生！66歲退休阿北靠1個點子 去年狂賺1.1億",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494483",
+      "published_at": "2026-07-05T06:25:03+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494483",
+      "text": "〔財經頻道／綜合報導〕66歲原本已退休的加拿大男子，因一次匹克球比賽中遭球擊中眼睛，不僅意外受傷，也因此萌生創業靈感。他與好友共同開發專為匹克球設計的護目裝備品牌，短短一年半便將產品銷售至全球5...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "44a66a0dec8cac171c1846df",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "蘇姿丰首度曬出父母年輕珍貴照 原因曝光了",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494456",
+      "published_at": "2026-07-05T06:21:05+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494456",
+      "text": "〔財經頻道／綜合報導〕美國4日迎來獨立250週年紀念日，AMD執行長蘇姿丰在社群平台首度曬出父母年輕時的舊照片，蘇姿丰由衷深謝美國給家人機會，父母當年赴美留學，帶著夢想與希望來此建立更好生活，這...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "bc6818cec7bdaf246b8c8122",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "英國皇家海軍首度海上試射 Nyan 自殺無人機，加速催生低成本不對稱「混合艦隊」",
+      "url": "https://technews.tw/2026/07/05/royal-navy-successfully-test-launced-nyan-kamikaze-drones-from-ships/",
+      "published_at": "2026-07-05T06:15:13+00:00",
+      "author": "Alan Chen",
+      "external_id": "https://technews.tw/?p=1582372",
+      "text": "為了應對現代不對稱戰爭威脅，英國皇家海軍在英格蘭南部海岸成功完成了一項里程碑試驗。 Nyan - The latest addition to our uncrewed air systems capabilities. A British-built One-Way Effector now proven across land and sea by the @RoyalNavy and @BritishArmy. Discover more 🔗 https://t.co/Ap79OQ9W3p pic.twitter.com/Vv2wA31zic — BAE Sy... 繼續閱讀 Image caption 為了應對現代不對稱戰爭威脅，英國皇家海軍在英格蘭南部海岸成功完成了一項里程碑試驗。 Nyan - The latest addition to our uncrewed air systems capabilities. A British-built One-Way Effector now proven across land and sea by the @RoyalNavy and @BritishArmy . Discover more 🔗 https://t.co/Ap79OQ9W3p pic.twitter.com/Vv2wA31zic — BAE Systems (@BAESystemsplc) July 3, 2026 Nyan One-way Strike Drone XV Patrick Blackett https://t.co/zzpXrcuFwn pic.twitter.com/S3oiasvB9V — rocketengine (@rocketengine) July 5, 2026 配合日前剛出爐的《國防投資計畫》，英國海、陸、空三軍跨軍種聯手，在名為 Neptune Reach 的演習中，首度從行進中的科技實驗船「派崔克布萊克特號」（Patrick Blackett）上，成功彈射發射了一款名為「Nyan」的單向攻擊（自殺式）無人機。 這款無人機在軍艦航行時由操作人員設定程式，隨後完全自主飛行至指定目標，宣示英國正加速邁向有人與無人平台深度融合的「混合型海軍」。 這款由 BAE 系統旗下 Callen-Lenz 研發的 Nyan 無人機，最大亮點在於其極高的性價比。其單價低於 10 萬英鎊（約新台幣 400 萬元），成本遠低於傳統的魚叉反艦飛彈，航程卻能達到 150 公里以上。 翼展約 2.9 公尺的機體主要由碳纖維製成，配備小型渦輪噴射發動機，並在外型與排氣噴嘴上融入低可偵測性的隱形設計，能大幅降低被敵方防空系統攔截的機率。Nyan 先前已在烏克蘭戰場完成實戰首秀，並在英國陸軍服役且量產超過千架，如今更成功適應海洋戰場環境。 這次海上試驗是英國三軍聯合「優勢計畫」的一部分，目標為海軍快速導入消耗性精準打擊戰力，未來官方更計劃在「伊麗莎白女王號」航空母艦上進行進一步試驗。 這呼應了英國國防部在審查報告中提出的「混合航艦航空團」願景，也就是利用 F-35B 戰機搭配大量廉價、單次使用的無人機來達到高低搭配。未來皇家海軍還企圖透過「皇家方舟計畫」（Project Ark Royal），在航艦上導入具備彈射與攔截起降能力的高性能無人機，全面擴大海上作戰的打擊範圍與節奏。 Royal Navy’s Sea Launch Of Combat-Proven Nyan Kamikaze Drone Points To Fleet’s ‘Hybrid’ Future （首圖來源： rocketengine ）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "a3c6e1911240a60271f6f361",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台塑化：6日凌晨1時起汽油每公升降6角 柴油降7角",
+      "url": "https://www.cna.com.tw/news/ahel/202607050099.aspx",
+      "published_at": "2026-07-05T05:58:33+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050099",
+      "text": "（中央社記者張建中台北5日電）台塑石化今天宣布，自7月6日凌晨1時起調降汽油批售價格每公升新台幣0.6元，調降柴油批售價格每公升0.7元，市場零售價格由加油站自行決定。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "c9e0a64be562bbe1819a2f08",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台電APP推3節電活動 每100點金點折抵1元電費",
+      "url": "https://www.cna.com.tw/news/afe/202607050098.aspx",
+      "published_at": "2026-07-05T05:53:30+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050098",
+      "text": "（中央社記者謝怡璇台北5日電）近期有民眾於社群平台分享，透過台電APP參加節電活動省下逾新台幣800元電費。台電表示，目前於APP上推出3項節電活動，累積每100點金點即可折抵電費1元，讓民眾落實節能減碳同時又能省荷包。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "96ee8070677b408c2dbc461c",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "聯寶 115年6月營收4929萬、年增2.18%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=c9757361-38b3-46a7-99f7-ee26fd297a97&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-05T05:45:00+00:00",
+      "author": "",
+      "external_id": "c9757361-38b3-46a7-99f7-ee26fd297a97",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "9181b5e85ceda746bede27c7",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "台電證實：住宅用戶節電即可累積金點折抵電費",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494418",
+      "published_at": "2026-07-05T05:43:56+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494418",
+      "text": "節電能累積金點折抵電費！台電表示，最近有民眾在社群平台上分享透過台電APP參加節電活動，就能累積金點折抵電費，這是真的。 台電指出，只要住宅用戶進入台灣電力APP「電...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "74876ddbd6574c641bb8af29",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "無懼外資賣超 台股單週漲點創史上第5大",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494395",
+      "published_at": "2026-07-05T05:39:34+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494395",
+      "text": "無懼外資週賣超高達1392億元，台股上週收復前一週跌幅，指數大漲2208.86點，寫下史上單週第5大漲點，週線漲幅4.96%；法人建議，台股多頭格局不變，但外資期貨空單仍...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "981b0e1438c8c6a5dbf140c7",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "新建物強制設太陽能 三大疑慮免驚",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494353",
+      "published_at": "2026-07-05T05:38:11+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494353",
+      "text": "內政部與經濟部推動《建築物設置太陽光電發電設備標準》，明定新建、增建或改建達1000平方公尺以上建物應強制設置太陽光電，不少民眾關心安全、房價轉嫁與維運三大問題，太陽光電...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "177f0fc7d733f9d8c759c3dc",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "世界盃賽事推動預測市場交易量飆升至歷史新高",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494373",
+      "published_at": "2026-07-05T05:31:15+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494373",
+      "text": "〔財經頻道／綜合報導〕《CNBC》報導，2026年FIFA世界盃預計將成為史上規模最大的博彩盛事，並推動預測市場平台6月交易量暴增。 根據數據分析平台Dune Analytics的用戶統計資...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "9550c5559ab8eaf278ed14ef",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "擁600萬存款卻不肯花1760元！70歲阿公「1句話」遭斷絕關係下場好淒涼",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494409",
+      "published_at": "2026-07-05T05:30:48+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494409",
+      "text": "〔財經頻道／綜合報導〕日本一名70歲退休男子，雖然每月可領20萬日圓（約新台幣3.9萬元）年金，還擁有3000萬日圓（約新台幣587萬元）存款，卻因過度節儉，連帶孫子去遊樂園都認為是「浪費錢」。...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "4a1867fbbc24063b9ae66fca",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "賓州大學最新研究：廢棄 PET 寶特瓶成功轉化為「電池級合成石墨」",
+      "url": "https://technews.tw/2026/07/05/pet-bottles-to-battery-grade-graphite/",
+      "published_at": "2026-07-05T05:30:22+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1578921",
+      "text": "全球廢棄塑膠垃圾迎接高價值轉型的新契機！美國賓州州立大學近日發表綠色創新，成功證明日常生活常見的廢棄 PET（聚對苯二甲酸乙二酯）寶特瓶，有機會轉成高品質的合成石墨，可用於電動車、智慧手機與儲能系統的電池級石墨。論文刊登於《Diamond and Related Materials》期刊。 石墨是鋰離子電池負極的核心材料，主要負責儲存與釋放電荷，在現代電池技術扮演至關重要的角色。團隊的製程相當巧妙：首先將廢棄的 PET 塑膠瓶粉碎，接著混入重量百分比僅約 2.5% 的氧化石墨烯（graphene oxide），並在精準控制的加熱條件下進行「石墨化」（graphitization）熱處理。... 繼續閱讀 Image caption 全球廢棄塑膠垃圾迎接高價值轉型的新契機！美國賓州州立大學近日發表綠色創新，成功證明日常生活常見的廢棄 PET（聚對苯二甲酸乙二酯）寶特瓶，有機會轉成高品質的合成石墨，可用於電動車、智慧手機與儲能系統的電池級石墨。 論文 刊登於《Diamond and Related Materials》期刊。 石墨是鋰離子電池負極的核心材料，主要負責儲存與釋放電荷，在現代電池技術扮演至關重要的角色。團隊的製程相當巧妙：首先將廢棄的 PET 塑膠瓶粉碎，接著混入重量百分比僅約 2.5% 的氧化石墨烯（graphene oxide），並在精準控制的加熱條件下進行「石墨化」（graphitization）熱處理。 實驗結果顯示，這種由寶特瓶轉化而來的合成石墨，晶體結構非常規整，有序程度甚至超越部分商用天然石墨，充分顯示身為高品質電池材料的龐大潛力。團隊解釋，氧化石墨烯在加熱過程扮演「模板」與引導角色，能有效帶領碳原子排列出高度有序的石墨結構。 （Source： 論文 ） 這項新技術的另一個重點，在完全避免傳統合成石墨製程常見的金屬催化劑（如鐵、鎳、鈷等）。團隊改用氧化石墨烯作為引導添加劑，不僅徹底根除成品殘留金屬雜質的風險，更能大幅減少化學試劑的使用與廢棄物生成，讓整套生產流程更乾淨簡化。 團隊強調，雖然目前的實驗結果非常有前景，但要走向商業化，仍需進一步驗證未來「放大生產」（規模化）的可行性，並測試電池長期使用的穩定性能。 這項技術若能成功商用，有望同時緩解全球嚴重的塑膠污染問題，並減輕電池核心原料的供應壓力。儘管短期這項技術尚無法立即投入市場，但無疑為新能源與循環經濟領域注入一劑強心針。 Your next EV battery could start life as a plastic water bottle Plastic Bottles May Transform Into Battery Graphite （首圖來源： Flickr/Steven Depolo CC BY 2.0） 延伸閱讀： 丹麥研究：將塑膠垃圾轉變成減碳神器 終於能告別超級細菌？KAIST 找到「氧化石墨烯」精準殺菌又不傷人體機制 新型石墨烯材料能量密度媲美電池，充電速度卻快數倍",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "a822adc94c8452b9682a7f7d",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "中東局勢降溫 OPEC+擬再度調升石油產量配額",
+      "url": "https://www.cna.com.tw/news/aopl/202607050079.aspx",
+      "published_at": "2026-07-05T04:16:47+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050079",
+      "text": "（中央社倫敦4日綜合外電報導）分析師告訴法新社，由於波斯灣國家正受到中東戰爭的衝擊，石油輸出國組織與夥伴國（OPEC+）其中7個成員國明天可能會提高石油產量配額。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "e06077189203ad4723643faa",
+      "source_type": "youtube",
+      "source_name": "龍叔説事",
+      "title": "全球AI戰局的「鎖鏈」：為何科技巨頭想要頂尖技術，第一個想到的永遠是台灣？",
+      "url": "https://www.youtube.com/watch?v=MJvSxaRoXyA",
+      "published_at": "2026-07-05T04:15:31+00:00",
+      "author": "龍叔説事",
+      "external_id": "MJvSxaRoXyA",
+      "text": "【影片大綱】 全球AI爭霸戰打得如火如荼，為什麼全世界的科技巨頭，在面對最核心的技術挑戰時，第一個想到的永遠是台灣？",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "6d36ffd2e36230970a311fbc",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台積電法說會7/16登場 聚焦全年成長目標和資本支出",
+      "url": "https://www.cna.com.tw/news/afe/202607050077.aspx",
+      "published_at": "2026-07-05T04:10:42+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050077",
+      "text": "（中央社記者張建中新竹5日電）晶圓代工廠台積電法人說明會將於7月16日登場，是市場研判下半年景氣的風向球，半導體業專家表示，台積電今年美元營收成長目標、資本支出，以及先進製程訂價、先進封裝產能擴充等都是市場關注重點。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "a5af1fcc171eadff288ad22b",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "大立光6月營收37.12億元 7月動能勝6月",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494304",
+      "published_at": "2026-07-05T03:45:46+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494304",
+      "text": "光學鏡頭龍頭廠大立光（3008）今日公告6月營收37.12億元，月減19%、年增10%；第二季營收達136.6億元，季減12%、年增17%；上半年累計營收292.09億元...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "e534550cb34597eb5941a92c",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "建築光電新制8月上路 業者喜迎太陽能屋頂建置潮",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494301",
+      "published_at": "2026-07-05T03:39:15+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494301",
+      "text": "內政部《建築物設置太陽光電發電設備標準》預計於8月1日正式施行，太陽能業者粗估，隨著新制上路，預估每年將新增約660MW裝置容量，有望帶動新一波光電建置潮，而太陽光電產業永續發...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "5244305d18b813c37d60a757",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "傳阿里巴巴禁止員工使用Anthropic Claude Code",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494329",
+      "published_at": "2026-07-05T03:34:57+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494329",
+      "text": "〔財經頻道／綜合報導〕《路透》援引知情人士消息報導，中國科技巨頭阿里巴巴（Alibaba）已禁止旗下員工在工作中使用Anthropic的AI程式開發工具Claude Code，原因與該工具被質疑...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "e55c00ab2cad73b0a6a18269",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台水7年降漏計畫AI助攻 115年底漏水率拚11.19%",
+      "url": "https://www.cna.com.tw/news/afe/202607050066.aspx",
+      "published_at": "2026-07-05T03:33:19+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050066",
+      "text": "（中央社記者謝怡璇台北5日電）台水去年開始推動為期7年的降低漏水率計畫，漏水率已降至11.52%。台水在尋找漏水點上採雙管齊下策略，由台水技術士初步聽音鎖定漏水點，後續透過AI監測判定漏水區域，準確率達9成，提升查漏效率，希望115年底如期達成漏水率年度目標11.19%。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "d75eaae0c686fda8e8569b0d",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "大立光6月營收創13個月低 7月拉貨動能可望好一些",
+      "url": "https://www.cna.com.tw/news/afe/202607050065.aspx",
+      "published_at": "2026-07-05T03:30:17+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050065",
+      "text": "（中央社記者張建中新竹5日電）光學鏡頭模組廠大立光自結6月營收新台幣37.12億元，為13個月來新低水準。大立光表示，觀察7月拉貨動能可望較6月好一些。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "234fa4676aa4aa5e81d6239c",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "中國加強扣押巴拿馬籍船舶後 巴國派團訪中",
+      "url": "https://www.cna.com.tw/news/acn/202607050064.aspx",
+      "published_at": "2026-07-05T03:27:14+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050064",
+      "text": "（中央社台北5日電）巴拿馬政府接管香港長和集團在巴拿馬運河兩個港口的經營權後，中國增加扣押巴拿馬籍船舶。巴拿馬政府公布，將派遣國家代表團於16日至18日訪問中國，討論「海上運輸協定」續簽，並就港口國監督展開技術交流，以加強海事領域的合作。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "a64e74d75b86a00b7c33ba50",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "藥華藥 115年6月營收23.33億、年增94.88%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=157283a8-ddc0-4e95-9a06-60fc9f91e54e&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-05T03:24:00+00:00",
+      "author": "",
+      "external_id": "157283a8-ddc0-4e95-9a06-60fc9f91e54e",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "07132a0357ca010bbf1ba8a3",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "AI取代人力受挑戰 多家企業陸續撤回裁員決策",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494278",
+      "published_at": "2026-07-05T03:04:26+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494278",
+      "text": "〔財經頻道／綜合報導〕《CNBC》報導，隨著人工智慧（AI）快速導入各行各業，過去2年不少企業曾以「AI可取代人力」為由進行裁員。然而，越來越多案例顯示，這樣的策略並沒有想像中成功，不少企業甚至...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "27fc077a99917255fdd9fa86",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "先唱衰 CPO 再推 ETF 撈底？分析機構 SemiAnalysis 遭爆「球員兼裁判」",
+      "url": "https://finance.technews.tw/2026/07/05/semianalysis-being-accused-of-false-reports-on-cpo-for-selling-short/",
+      "published_at": "2026-07-05T03:00:18+00:00",
+      "author": "Alan Chen",
+      "external_id": "https://technews.tw/?p=1582365",
+      "text": "知名半導體研究機構 SemiAnalysis 近期因「精準的時間差」深陷輿論風暴。 該機構在 6 月初發布報告，直指共同封裝光學（CPO）因良率與延誤問題，量產時程將推遲至 2028 或 2029 年，消息一出隨即重挫台美兩地的光通訊概念股。 結果到了月底，該機構便與 Tema 合作推出精準布局光學封裝的 ETF，並將先前被其報告重創而大跌的 Lumentum、AOI 等個股納入核心成分股。這種先釋放利空、再進場低接的劇本，引發市場強烈質疑其利用產業影響力操縱股價。 獨立研究淪為諮詢誘餌？行內人揭「套利潛規則」 事實上，AI 新創公司 Hot Aisle 執行長史蒂文斯... 繼續閱讀 Image caption 知名半導體研究機構 SemiAnalysis 近期因「精準的時間差」深陷輿論風暴。 該機構在 6 月初發布報告，直指共同封裝光學（CPO）因良率與延誤問題，量產時程將推遲至 2028 或 2029 年，消息一出隨即重挫台美兩地的光通訊概念股。 結果到了月底，該機構便與 Tema 合作推出精準布局光學封裝的 ETF，並將先前被其報告重創而大跌的 Lumentum、AOI 等個股納入核心成分股。這種先釋放利空、再進場低接的劇本，引發市場強烈質疑其利用產業影響力操縱股價。 獨立研究淪為諮詢誘餌？行內人揭「套利潛規則」 事實上，AI 新創公司 Hot Aisle 執行長史蒂文斯（Jon Stevens）先前就曾撰文，無情揭露這類機構的套利模式。他指出傳統市調機構的數據往往滯後，給了 SemiAnalysis 這類新興機構填補資訊空白的機會。然而該機構同時扮演「公開獨立研究」與「付費私人諮詢」的雙重角色，本質上存在著無可避免的利益衝突。 史蒂文斯犀利地拆解其運作手法：通常會先發布針對特定廠商技術的誇大、毀滅性負面報告，利用利空引發股價大跌與客戶恐慌；當面臨龐大輿論壓力的企業被迫花大錢向其購買私人諮詢服務後，該機構隨後的報告立場便會巧妙「軟化」。 AMD 蘇姿丰也曾交手，室友關係讓獨立性再打折 史蒂文斯以超微（AMD）為例，該機構在 2023 至 2024 年間極度看空 AMD 的 AI 布局，甚至在 2024 年 12 月發表重砲抨擊。隨後，AMD 執行長蘇姿丰公開與該機構主筆 Dylan Patel 進行「建設性對話」，在此次交流後，報告語氣便微妙地從「根本性缺陷」轉向「正在改善並具備市占潛力」，史蒂文斯直言：「若 AMD 沒付私人諮詢費才會令人震驚」。 更讓外界質疑的是，SemiAnalysis 主筆帕特爾（Dylan Patel）與知名 AI 播客主持人帕特爾（Dwarkesh Patel) 和 Anthropic 研究員道格拉斯（Sholto Douglas）三人其實同住一個屋簷下。這種與業界核心利益人士過從甚密的同居關係，意味著內部資訊與外部利益早已模糊不清，即使沒有違法，也嚴重扭曲了研究的客觀性。 在資訊即武器的 AI 時代，分析機構的隻字片語往往能左右數十億美元的資金流向。SemiAnalysis 這次 CPO 報告與新 ETF 上市的完美巧合，可能已讓半導體供應鏈開始心生警惕。 （首圖來源： Pixabay ）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "731cebd6b5d76beb584a39db",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "日本缺工缺出商機：物理 AI 浪潮下，台灣靠感測器整合、代工與融資卡位",
+      "url": "https://technews.tw/2026/07/05/tokyo-infinity-ventures-summit/",
+      "published_at": "2026-07-05T03:00:01+00:00",
+      "author": "創業小聚",
+      "external_id": "https://technews.tw/?p=1581905",
+      "text": "日本這兩年相當強調深度科技（Deep Tech）與人工智慧（AI）。人口老化導致勞動力短缺，逼出機器人與自動化的真實需求；精密製造與感測器產業長期積累的優勢，讓日本在「物理 AI」浪潮中握有一手好牌；九州更已啟動十億瓦（gigawatt）級的 AI 基礎設施建設，準備迎接下一輪運算需求。 東京IVS（Infinity Ventures Summit）活動，多位創業者、創投從不同角度描繪了這個市場的樣貌，不乏日本因為擁有深厚的製造業歷史而在這波AI產業浪潮裡的機會，那台灣與日本的定位差異是什麼？台灣新創現在在日本市場的切入點又會是什麼？ 日本市場的機會藏在人力缺口裡 自從黃仁勳提出「物... 繼續閱讀 Image caption 日本這兩年相當強調深度科技（Deep Tech）與人工智慧（AI）。人口老化導致勞動力短缺，逼出機器人與自動化的真實需求；精密製造與感測器產業長期積累的優勢，讓日本在「物理 AI」浪潮中握有一手好牌；九州更已啟動十億瓦（gigawatt）級的 AI 基礎設施建設，準備迎接下一輪運算需求。 東京IVS（Infinity Ventures Summit）活動，多位創業者、創投從不同角度描繪了這個市場的樣貌，不乏日本因為擁有深厚的製造業歷史而在這波AI產業浪潮裡的機會，那台灣與日本的定位差異是什麼？台灣新創現在在日本市場的切入點又會是什麼？ 日本市場的機會藏在人力缺口裡 自從黃仁勳提出「物理AI」（Physical AI）後，人型機器人的討論度越來越高，RLWRLD創辦人暨執行長Junghee Ryu、Valtec創辦人暨執行長葛維邦、Braid Technologies技術與創意總監Guido Cossu三位創業家闡述自己對這個名詞的定義。 ▲ RLWRLD創辦人暨執行長Junghee Ryu、Valtec創辦人暨執行長葛維邦、Braid Technologies技術與創意總監Guido Cossu（由左至右）三位創業家闡述自己的「物理AI」定義。 Junghee Ryu定義為大型語言模型基礎上，建立人型機器人的智慧；葛維邦強調AI要能解讀真實世界的狀況並做決策；Guido Cossu擴充定義，認為物理AI是要讓AI對真實世界負責，即時且正確。 Valtec是這場panel跟台灣關係最深的案例。這家由SparkLabs Taiwan投資的台灣新創，主力客群是遠洋漁業的漁船，尤其是鮪魚圍網船隊。葛維邦談到選擇日本設立公司的原因，關鍵在感測器。「日本生產全世界最好海事感測器，雷達裝在全球50%商用船隻，聲納也是。」日本在雷達、聲納等海事感測器的技術含量，直接決定了物理AI系統能拿到多好的數據，而Valtec已經和多家日本感測器廠商展開合作。 海上作業的不確定性，是葛維邦口中「最大的敵人」。無人機降落船上時，船體結構造成的側風（crosswind）會形成劇烈亂流，加上海水鹽害與紫外線對電子零件的侵蝕，整個海洋環境都是變數。他也把這種不確定性視為護城河：「能解決這些問題，客戶就會被鎖住，一般無人機在海上撐不了多久。」這道護城河背後有則真實的商業轉折：一位客戶原本使用直升機在船隊間巡邏，卻發生直升機意外損壞船體事故，單次損失高達600萬美元，促使客戶主動要求換用Valtec無人機系統。葛維邦也因此設計服務型商業模式，客戶不必為無人機硬體付費，只需支付服務費，無人機損耗由Valtec吸收。 RLWRLD與Braid Technologies則從不同角度呼應了物理AI實際部署的難題。Junghee Ryu提到，他們採用的視覺語言動作模型（Vision Language Action Model，VLA）建立在大型語言模型上，也繼承大型語言模型的幻覺問題，「有時候我們沒辦法預測機器人會做出什麼動作。」因此團隊在模型之外疊加一層傳統機器人控制邏輯，防止機器人出現異常動作。Guido Cossu則完全不採用這類依賴數據學習的模型，而是打造一層「符號層」（symbolic layer），用數學方式保證設計結果一定符合物理與工程限制，「這是我們必須向衛星火箭等客戶保證的事。」 日本市場的門檻，也呈現至決策流程。Guido Cossu觀察到，日本企業團隊對新技術接受度其實很高，問題出在流程，「要成為大型企業的供應商，可能要花兩三個月跑完層層審核」，且不能只跟工程師談，「工程師可能有興趣，但他們沒有採購的權力，最後還是要往上找到能拍板的人。」葛維邦有類似經驗，一開始跟研發部門一拍即合，對方甚至在自家船上裝了雷達，只差應用程式介面（API）串接，但案子進到策略與規劃團隊後，就得等待整個組織內部達成共識，進度明顯放慢。Junghee Ryu則採取自上而下與自下而上並行的策略，除了直接找有決策權的高層，也透過企業創投與Nvidia、AWS、微軟等大廠合作，借力打入市場。 台灣與日本互補，而非競爭 GMI Cloud創辦人暨執行長葉威延在另一場談AI基礎設施的對談，說明台灣與日本硬體布局的實際連結。 ▲ GMI Cloud創辦人暨執行長葉威延已經開始佈局日本。 GMI Cloud先在台灣建立AI Factory，分階段擴建，明年將進入第三、四期；下一步是把規模拉高到日本九州，當地興建十億瓦級的資料中心。選址九州的理由包括當地電力與光纖基礎設施完善，地方政府提供稅務優惠，土地成本也相對便宜。這個計畫的合作對象裡有兩家台灣企業的身影： 緯創 ，台灣第二大代工廠（OEM），負責硬體與伺服器建置；中華開發，台灣大型銀行，負責整個計畫的融資。 這個案例也呼應了葛維邦談到的台灣與日本供應鏈關係。葛維邦表示，日本和台灣雙方各自在不同世代建立起技術優勢，關係更接近互補而非競爭，「他們滿足了生態系裡不同的部分，所以更像是互補」。 不過台灣在物理AI這個新興領域裡，並非沒有明顯的缺點。Junghee Ryu受訪時直言，以AI基礎研究的論文產量看來，台灣與韓國、日本有明顯落差，「韓國科學家現在已跟美國、中國站在同個水位，但台灣和日本目前還沒有夠強的大學支撐AI基礎研究。」這也是RLWRLD選擇在韓國設立研發實驗室的原因之一。 日本物理AI市場需要的，是能承受海上鹽害與紫外線考驗的機體、能撐起十億瓦級電力負載的資料中心基礎設施，以及能在大型企業內部找到對的人拍板的耐心。台灣供應鏈已經在感測器整合、代工製造、融資力找到切入點，能否補上基礎研究這塊拼圖，決定的是台灣未來能在這波浪潮裡卡在哪個位置。 （本文由 創業小聚 授權轉載；首圖為Valtec創辦人暨執行長葛維邦。）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "42bdf5b222de79c3f37539f0",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "順達 115年6月營收12.68億、年增20.63%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=7f23d906-6ba0-4522-a7f4-07947f8162f5&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-05T02:50:00+00:00",
+      "author": "",
+      "external_id": "7f23d906-6ba0-4522-a7f4-07947f8162f5",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "ed4d73109176862c1a78edb6",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "法人：資金緊俏與台積電7/16法說 台股可能箱型整理",
+      "url": "https://www.cna.com.tw/news/afe/202607050046.aspx",
+      "published_at": "2026-07-05T02:49:36+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050046",
+      "text": "（中央社記者張建中台北5日電）法人表示，國際重量級企業如SpaceX接連上市及發債籌資，影響市場資金動能。台灣今年經濟成長看俏，且台積電法說會將於7月16日登場，台股波動可能相對較小，呈類股輪動局面，指數可能維持箱型整理走勢，月線則是短期重要支撐。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "2f53231c40d78ed70eac4ff1",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "買氣爆棚! 台股ETF上半年吸金近9000億元、0050拔頭籌",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494250",
+      "published_at": "2026-07-05T02:31:42+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494250",
+      "text": "台股今年以來表現亮眼，加權指數屢創新高，統計今年台股ETF上半年淨申購金額近9000億元，其中，吸金王以元大台灣50（0050）拔得頭籌、淨申購金額超過4500億元，至於...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "ffc4a994dd22f9ad23dbc349",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "地表最強生存者再進化，3D 列印微型潛水裝讓「賽博蟑螂」化身水下搜救部隊",
+      "url": "https://technews.tw/2026/07/05/3d-printed-diving-device-allows-cyber-cockroaches-operate-underwater-3-hours/",
+      "published_at": "2026-07-05T02:30:36+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1580256",
+      "text": "新加坡南洋理工大學（NTU）與日本早稻田大學的研究團隊攜手合作，成功為「賽博蟑螂」（cyborg cockroaches）開發專屬的迷你潛水裝置。 這項創新技術讓遠端遙控的「賽博蟑螂」具備水陸兩棲的移動力，能在水下持續活動長達 3 小時。團隊指出，這項技術有望用於地震與洪水後的災難搜救，以及深入浸水管線、排水道與隧道等險惡環境進行巡檢。 論文 6 月 29 日刊登於《Nature Communications》期刊。團隊說明，這套可穿戴式的微型潛水衣，設計上充滿巧思： 防水外殼：採用 3D 列印的透明樹脂製成，外層包覆柔軟的防水材質，確保裝置的水下密閉性。 化學微型... 繼續閱讀 Image caption 新加坡南洋理工大學（NTU）與日本早稻田大學的研究團隊攜手合作，成功為「賽博蟑螂」（cyborg cockroaches）開發專屬的迷你潛水裝置。 這項創新技術讓遠端遙控的「賽博蟑螂」具備水陸兩棲的移動力，能在水下持續活動長達 3 小時。團隊指出，這項技術有望用於地震與洪水後的災難搜救，以及深入浸水管線、排水道與隧道等險惡環境進行巡檢。 論文 6 月 29 日刊登於《 Nature Communications 》期刊。 團隊說明，這套可穿戴式的微型潛水衣，設計上充滿巧思： 防水外殼 ：採用 3D 列印的透明樹脂製成，外層包覆柔軟的防水材質，確保裝置的水下密閉性。 化學微型供氧系統 ：裝置用二氧化錳催化過氧化氫（雙氧水）分解，能穩定且受控產生氧氣，避免因一次性釋放大量氣泡而干擾昆蟲行動。 精準送氧導管 ：以多條微細的矽膠管，將氧氣直接輸送至昆蟲呼吸的「氣門」。 團隊特別選用體型較大、對極端環境耐受力強的馬達加斯加蟑螂（Madagascar hissing cockroach）實測。 實驗結果顯示，未穿戴裝備的蟑螂在水中僅約 2 分鐘便會停止活動；然配戴潛水裝置的個體，能在水下持續移動最長達 3 小時。移動效率方面，賽博蟑螂的陸地平均秒速 87.5 公釐，水中依然能保持秒速 78.4 公釐，幾乎不受水阻影響，並能順利在模擬淹水的管道中正常前進。 ▲ 模擬環境比較穿著潛水衣與未穿潛水衣的蟑螂表現。（Source： 論文 ） 團隊深耕生物控制領域多年，2021 年就示範如何用背部電極與微型電腦遠端操控蟑螂，更在 2024 年成功實現 20 隻賽博蟑螂的「群體合作移動」。 這次成功賦予水下能力，正式將這類生物機器人的活動版圖由陸地拓展至水域。研究員表示，之後將再測試這套系統在真空、高輻射及極端溫度等條件下的表現，期望將應用延伸至更廣泛的災害救援與未知領域探索；不過團隊也坦言，距離實際應用，仍需進行更多深入的研究與倫理討論，以審慎評估潛在風險與實用性。 数時間潜水できる\"サイボーグゴキブリ\"実現 人命救助で活躍期待 早大などが専用の潜水スーツ共同開発 Scientists just gave remote-controlled cockroaches scuba suits, and the cyborg insects can now breathe underwater for up to 3 hours Cyborg cockroaches dive and scout using on-board oxygen generator （首圖來源： Nanyang Technological University ） 延伸閱讀： 把蟑螂變成「生化小強」，未來人類可能得靠牠救援 新加坡科學家打造工業化機械蟑螂，自動生產線提升災難救援效率",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "f26d119ebd78fa86375c6101",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "金價重返4000美元 全球央行買盤成關鍵支撐",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494227",
+      "published_at": "2026-07-05T02:09:11+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494227",
+      "text": "受到升息恐慌的壓迫，6月黃金ER指數大跌12.07%，黃金現貨價格一度跌破每盎司4000美元，不過，聯準會新任主席華許表示，通膨風險已有所降溫，且6月非農新增就業人數僅5...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "41192b39d9db89076e8b8517",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "為何「黑莓機」股價創新高？手機輸家轉戰車載系統，變身實體 AI 新寵",
+      "url": "https://infosecu.technews.tw/2026/07/05/forget-the-cellphones-blackberry-stock-jumps-23-as-an-ai-play/",
+      "published_at": "2026-07-05T02:00:14+00:00",
+      "author": "商業周刊",
+      "external_id": "https://technews.tw/?p=1581427",
+      "text": "還記得曾是商務人士和政府官員標配、後來被 iPhone 等智慧手機打敗的「黑莓機」（Blackberry）嗎？ 對許多人來說，黑莓已是過時品牌，是蒙塵的記憶。但6月24日黑莓股價暴漲23%，創2021年11月以來新高。這不是懷舊股民的集體衝動，而是華爾街看到它還有潛力。 黑莓活著，只是變樣 股價大漲的關鍵，是叫QNX的軟體，充當物理AI系統「不會崩潰的神經系統」。換句話說，黑莓從過時的手機品牌，搖身變成AI時代隱形冠軍。 QNX規模有多大？黑莓執行長吉亞馬特歐（John Giamatteo）說，已在全球2.75億輛汽車運行。除了特斯拉，基本上「每家汽車製造商都在用我們的作業系統... 繼續閱讀 Image caption 還記得曾是商務人士和政府官員標配、後來被 iPhone 等智慧手機打敗的「黑莓機」（Blackberry）嗎？ 對許多人來說，黑莓已是過時品牌，是蒙塵的記憶。但6月24日黑莓股價暴漲23%，創2021年11月以來新高。這不是懷舊股民的集體衝動，而是華爾街看到它還有潛力。 黑莓活著，只是變樣 股價大漲的關鍵，是叫QNX的軟體，充當物理AI系統「不會崩潰的神經系統」。換句話說，黑莓從過時的手機品牌，搖身變成AI時代隱形冠軍。 QNX規模有多大？黑莓執行長吉亞馬特歐（John Giamatteo）說，已在全球2.75億輛汽車運行。除了特斯拉，基本上「每家汽車製造商都在用我們的作業系統」。更重要的是，輝達和AMD等晶片巨頭也在使用黑莓軟體構建智慧車和倉儲機器人。 財報不會騙人。第一季QNX營收達7230萬美元，年增26%，毛利率更達86%，是黑莓最成長最快最賺錢的業務，公司因此上調全年指引。 為什麼QNX那麼重要？ 最主要的原因：它提供無與倫比的安全性和可靠性。吉亞馬特歐說：「汽車製造商不會把攸關安全的軟體放進車裡，除非它達到最高的認證標準。」 QNX是「確定性」（deterministic）作業系統：給相同輸入，永遠產生相同輸出。不像概率性（probabilistic）生成式AI，你問同樣問題，每次可能得到不同的結果，這對QNX應用、攸關生命安全系統非常不可接受。 過去，黑莓機靠強大加密技術實現安全性，讓政府官員願意信任它，QNX也承襲這個武器來保護自動駕駛車和機器人。這也是黑莓股價暴漲的核心理由：實體AI正成為下一波AI投資熱點。 生成式AI已進入實用階段，但實體AI還在早期：自動駕駛、機器人、工業自動化、醫療設備。這些應用需要軟體與現實世界互動，對安全性和可靠性的要求遠高於虛擬AI。 黑莓的優勢正好是這些領域的深度耕耘。吉亞馬特歐在財報電話會議提到「訂單源源不絕，客戶參與度強勁」，這些都是實體AI市場加速中訊號。 不過，華爾街仍保持謹慎。九家分析機構對黑莓的平均評級是「持有」，平均目標價只有7.27美元，遠低於6月25日收盤的10.62美元。分析師更想知道的是：實體AI市場究竟有多大？黑莓在這個市場能佔多少份額？ 但對黑莓來說，這次23%漲幅代表市場終於看到：手機已死，但黑莓或許真的能活著進入下個時代。 Forget the Cellphones: BlackBerry Stock Jumps 23% as an AI Play BlackBerry CEO Sees Growth in Safety Software Resistant to AI Disruption BlackBerry is making a massive comeback. Just not the way you would think Why BlackBerry Stock Surged to a New 52-Week High Today （作者：黃苡宣；本文由《 商業周刊 》授權轉載；首圖來源： 黑莓 ） 延伸閱讀： iPhone 17帶頭衝，蘋果手機將奪回手機王寶座！市調：一路霸榜到「這時候」 輝達投資Nokia！忘掉手機吧，現在的諾基亞有多強？ BlackBerry QNX 技術已應用於逾 1.2 億台汽車",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "7ee289208ebe740ce7c8ffd0",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "虧損逾3300萬美元仍不停手！麻吉大哥再加碼比特幣與HYPE幣多單",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494217",
+      "published_at": "2026-07-05T01:54:43+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494217",
+      "text": "〔財經頻道／綜合報導〕知名加密貨幣投資人「麻吉大哥」黃立成近日再度加碼其在 Hyperliquid平台上的多頭部位，引發市場關注。 根據鏈上分析師Onchain Lens週六（4日）深夜在社...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "3e92fe6734fa28d6f542239d",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "鴻準 115年6月營收150.55億、年增10.66%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=b8aa4c01-5d54-424c-a25b-17b6d522f6a1&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-05T01:50:00+00:00",
+      "author": "",
+      "external_id": "b8aa4c01-5d54-424c-a25b-17b6d522f6a1",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "82af4bdedf4cc21a67b697e8",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高",
+      "url": "https://technews.tw/2026/07/05/this-surprising-factor-may-predict-heart-disease-decades-before-it-strikes/",
+      "published_at": "2026-07-05T01:30:08+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1580579",
+      "text": "《Nature Communications》3 月刊登研究指出，成年早期居住環境可能數十年後留下可測量的心血管風險痕跡。西北醫學（Northwestern Medicine）團隊分析 CARDIA（Coronary Artery Risk Development in Young Adults）長期追蹤資料後發現，成年早期暴露在較多不利鄰里條件者，日後出現冠狀動脈鈣化（coronary artery calcification，CAC）風險更高，且黑人（Black）參與者比白人（White）參與者更明顯。 團隊並未只檢視單一變項如收入或教育，而是建立一套新鄰里社會健康決定因素指數（ne... 繼續閱讀 Image caption 《Nature Communications》3 月刊登 研究 指出，成年早期居住環境可能數十年後留下可測量的心血管風險痕跡。西北醫學（Northwestern Medicine）團隊分析 CARDIA（Coronary Artery Risk Development in Young Adults）長期追蹤資料後發現，成年早期暴露在較多不利鄰里條件者，日後出現冠狀動脈鈣化（coronary artery calcification，CAC）風險更高，且黑人（Black）參與者比白人（White）參與者更明顯。 團隊並未只檢視單一變項如收入或教育，而是建立一套新鄰里社會健康決定因素指數（neighborhood social determinants of health index），整合多項社區條件，以更全面衡量環境對心血管健康的累積影響。共同作者西北大學費因伯格醫學院（Feinberg School of Medicine）預防醫學與兒科教授的 Lifang Hou 表示，此有助將心血管風險評估從個人生活型態，擴展到更完整的鄰里脈絡。 CARDIA 研究為長期追蹤的隊列研究，旨在觀察年輕成人的行為、環境及種族與性別等因素如何影響心血管疾病發展與老化。研究利用 CARDIA 的重複測量冠狀動脈鈣化指標，並以進階統計與機器學習方法檢視鄰里社會決定因素與心血管風險的關係，同時控制個人層級的混淆因子。 結果顯示，早年處於較不利社區環境者，往後出現冠狀動脈鈣化的機率較高，代表鄰里條件可能在生物層面留下長期影響。Hou 指出，這些發現不僅能促進臨床更貼近情境的風險評估，也可為社區與族群層級的預防策略提供方向。 團隊接下來將測試這套指數是否也適用其他心血管事件（如心肌梗塞與心臟衰竭），並希望找出可入的鄰里因素，以及不同族群與地理環境驗證這項方法。此外，團隊也計畫其他患者隊列與地理場域測試指數，評估鄰里條件隨時間變動會如何影響心血管疾病風險。 This Surprising Factor May Predict Heart Disease Decades Before It Strikes （首圖來源： Pixabay ） 延伸閱讀： 老化速度不只取決基因，研究：住哪裡也有關",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "380fce91485c5b401555bb39",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "圓剛 115年6月營收3.43億、年增4.96%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=a685d0ac-1d2f-461f-a8b3-14b0480d715a&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-05T01:20:00+00:00",
+      "author": "",
+      "external_id": "a685d0ac-1d2f-461f-a8b3-14b0480d715a",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "2289b8bc7cf556cc957030fc",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "圓展 115年6月營收2.63億、年增2.95%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=9222669c-e09d-4f71-912f-90535c4b2bb1&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-05T01:15:00+00:00",
+      "author": "",
+      "external_id": "9222669c-e09d-4f71-912f-90535c4b2bb1",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "9f462654d02ab51fddf64c74",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "信用風險惡化 武漢眾邦銀行遭接管",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494173",
+      "published_at": "2026-07-05T01:10:06+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494173",
+      "text": "中國首家遭接管的民營銀行 〔財經頻道／綜合報導〕中國國家金融監督管理總局本月3日發布公告，指武漢眾邦銀行出現嚴重信用風險，為保障存款人及其他客戶權益，決定自3日起對該行實施為期1年的接管措施...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "345c10c6f4495b30d99db293",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "台股「質押借款」規模飆破 4,500 億，解析投資人瘋開槓桿的熱門標的",
+      "url": "https://finance.technews.tw/2026/07/05/what-are-leveraged-investors-buying/",
+      "published_at": "2026-07-05T01:00:54+00:00",
+      "author": "財訊",
+      "external_id": "https://technews.tw/?p=1581950",
+      "text": "根據金管會證期局數據，截至第一季為止「不限用途款項借貸」金額已經來到 4,500 億元。2016 年開放後，2023 年突破 1,000 億，在 2025 年初就接近 4,000 億元。雖然第二季因川普關稅「解放日」導致台股大跌，借貸量大幅縮減，但不過六個月，第四季就重回快速成長軌道。 《財訊》雙週刊指出，所謂「不限用途款項借貸」，指的是客戶以股票、債券等有價證券做為擔保品，向券商融資，也就是質押。 截至6月底為止，約六成選擇以ETF做為擔保品，其中強調長期領息的高息及債券型ETF，也因為股價相對穩定，成為熱門質押標的，前10名有7檔。 在個股的部分，前十名以... 繼續閱讀 Image caption 根據金管會證期局數據，截至第一季為止「不限用途款項借貸」金額已經來到 4,500 億元。2016 年開放後，2023 年突破 1,000 億，在 2025 年初就接近 4,000 億元。雖然第二季因川普關稅「解放日」導致台股大跌，借貸量大幅縮減，但不過六個月，第四季就重回快速成長軌道。 《財訊》雙週刊指出，所謂「不限用途款項借貸」，指的是客戶以股票、債券等有價證券做為擔保品，向券商融資，也就是質押。 截至6月底為止，約六成選擇以ETF做為擔保品，其中強調長期領息的高息及債券型ETF，也因為股價相對穩定，成為熱門質押標的，前10名有7檔。 在個股的部分，前十名以金融股（台新新光金、凱基金、台企銀、 玉山金 、 永豐金 、 中信金 ）與權值股（ 鴻海 、 台積電 ）為主。 另一個投資人槓桿管道，也就是向券商融資買股的部分，截至6月底為止，張數前五名分別是 群創 、 聯電 、 友達 、 力積電 與 華邦電 ；另外同樣超過十萬張的還有 旺宏 ，明顯偏向近期熱門的面板及記憶體族群。 根據《財訊》雙週刊報導，在融資買進ETF的部分，以元大台灣50反一（00632R）與元大台灣50正二（00631L）買氣最熱烈，均超過20萬張。另外超過10萬張的還有富邦Nasdaq反1（00671R）、主動復華未來50（00991A）與主動統一升級50（00403A），這也反映近期市場對於期貨型ETF以及主動ETF的追捧。 業者分析，學生族以及剛出社會的新鮮人多屬於信用小白，在申辦信貸上難以壓低利率；此外，融資買股雖然利率在6%以上，但不像信貸需要每月還款，適合喜愛短線操作的年輕世代。 對於台灣投資人槓桿逐漸加高的現象，貝萊德投信董事長謝宛芝也提醒，儘管資本市場高風險、高報酬，投資人應該針對自己的投資組合作情境分析，遇到狀況時如何因應調整，「台股現在到4萬點，一天1,000多點上下，這個幅度是很正常的，但如果遇到下檔，你是不是有做好Margin call（追加保證金）的準備，會不會必須變賣原先不想動的資產，這就是投資人要做的風險管理。」 （本文由 財訊 授權轉載） 延伸閱讀： 一份調查報告揭台灣用電焦慮 AI時代，核綠共存成能源轉型新課題 蔡宏圖大考驗！揭國泰金「鐵拳事件」背後的治理危機 韓股熔斷元凶是槓桿ETF？SK海力士兩倍ETF爆紅 揭開個股型ETF真相",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "606b91f76be96ed8aed2af41",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台電以AI預測太陽光電風電 48小時滾動調度穩供電",
+      "url": "https://www.cna.com.tw/news/afe/202607050018.aspx",
+      "published_at": "2026-07-05T00:52:35+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-05/202607050018",
+      "text": "（中央社記者謝怡璇台北5日電）台灣再生能源發電量成長，但「看天吃飯」的發電特性，使電力調度變成與大自然的競賽。台電透過AI模型與氣象預測，從太陽光電的區域性預測到風力發電的深度學習架構，增加電力系統調度彈性。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "122a6becc78d00eaed20a793",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "別讓 AI 牽著走！掌握三大編輯思維，成為不被淘汰的高價值人才",
+      "url": "https://technews.tw/2026/07/05/ai-editor-mindset-master-output-fact-checking/",
+      "published_at": "2026-07-05T00:30:13+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1578380",
+      "text": "生成式 AI 與代理式工作流程快速普及，越來越多使用者體認到：真正有效的 AI 應用，不在於「使用頻率與數量」，而在於人類能否像專業編輯，具備篩選、修正與拒絕 AI 產出的能力。這種「編輯思維」正逐漸成為新世代 AI 素養的核心，也再次證明人類判斷力的不可替代性。 作者結合自身的寫作經驗指出，正如優秀的編輯能將零散的想法梳理成清晰、有價值的內容，所有人面對 AI 時也應秉持相同態度。 與 AI 協作時，首要之務是確立最終目標並打破「黑箱」迷思。不應將 AI 當成只要輸入指令就會自動產出完美答案的工具；相反地，使用前就必須釐清任務目的。例如，撰寫產品更新電子報時，若能提示詞（Prom... 繼續閱讀 Image caption 生成式 AI 與代理式工作流程快速普及，越來越多使用者體認到：真正有效的 AI 應用，不在於「使用頻率與數量」，而在於人類能否像專業編輯，具備篩選、修正與拒絕 AI 產出的能力。這種「編輯思維」正逐漸成為新世代 AI 素養的核心，也再次證明人類判斷力的不可替代性。 作者結合自身的寫作經驗指出，正如優秀的編輯能將零散的想法梳理成清晰、有價值的內容，所有人面對 AI 時也應秉持相同態度。 與 AI 協作時，首要之務是 確立最終目標 並打破「黑箱」迷思。不應將 AI 當成只要輸入指令就會自動產出完美答案的工具；相反地，使用前就必須釐清任務目的。例如，撰寫產品更新電子報時，若能提示詞（Prompt）明確交代信件用途、公司使命與目標受眾，語言模型便能生產更貼近實務需求的優質初稿。 除了給予清晰的初始設定，以「 精準回饋 」提升協作品質也是最佳化產品的關鍵。無論是使用能記憶上下文的 ChatGPT、Claude，還是訓練對話式的 AI 代理，使用者都應避免給出如「寫得不好」這類模糊的評價，盡量提供具體且可執行的修正指令，明確要求 AI 調整語氣、釐清溝通對象或改變敘事方向。這樣的互動模式不僅能大幅提升內容的精準度，更能幫助使用者釐清任務的本質與標準。 最後，將 AI 視為協作夥伴的同時，更要 嚴守事實查核 以防範 AI「幻覺」。儘管技術發展迅速，AI 仍常常生成看似合理卻與事實不符的內容。正如《紐約時報》數據所指，新 AI 系統某些測試的幻覺率曾高達 79%。使用者必須以專業編輯的嚴格標準逐一把關，從驗證資料來源、檢查論點是否過度延伸，到實際測試程式碼是否能順利運作，將事實查核視為協作過程絕對不可省略的防線。 文章最後強調，將 AI 定位為「協作工具」，並由人類扮演「編輯」的角色，不僅能確保最終成果的品質，更能反過來鍛鍊使用者自身的綜合能力。不斷判斷與引導，這樣寫作、設計、行銷、程式開發與領導管理等專業素養，也將能全面提升。 The New AI Skill Is Thinking Like An Editor What makes an effective editor? Flexibility, mutual trust and chocolate chips （首圖來源： Unsplash ） 延伸閱讀： 請 AI 幫忙寫文章，研究：最後耗損更多認知資源 文字工作者將被淘汰？Google 主管：人文素養反而是 AI 時代的最強護城河",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "594d60d07d5fc8c3a9d77074",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "劉泰英爆料 國民黨黨產還很多",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5492869",
+      "published_at": "2026-07-04T23:45:06+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5492869",
+      "text": "前國民黨黨管會主委劉泰英說，國民黨黨產當初有很多是借名登記在人頭名下，因為政權更替、改朝換代，還有人頭過世，很多都追回不來了，變成借名人頭的家產。 劉泰英說，在他尚未...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "c61d49a4fa17c839fe5e38b3",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "千億都更案1》環亞百貨都更案 總銷逾1103億元改寫紀錄",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5493563",
+      "published_at": "2026-07-04T23:35:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5493563",
+      "text": "台北市環亞百貨都更案、更新後粗估總銷金額逾1103億元，直接超越同地段的台塑總部都更案的1012億元，寫下史上都更案總銷最高紀錄。根據台北市都更處公告，環亞百貨都更案已在...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b300a0726237470b0d48fb5f",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "近期股市「既樂觀又恐懼」！巴菲特說「11個字」警語",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494012",
+      "published_at": "2026-07-04T23:33:53+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494012",
+      "text": "初次上稿07-04 22:32 更新時間07-05 07：33 〔財經頻道／綜合報導〕今年以來，美股標普500指數、納斯達克綜合指數和道瓊工業平均指數經歷前所未有的漲幅，但最近幾週出現波...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "8d6648899525b3cb0641d896",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "世界黃金協會最新報告：下半年金價4100美元附近波動 可能漲至「這區間」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494049",
+      "published_at": "2026-07-04T23:30:21+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494049",
+      "text": "初次上稿07-04 22:08 更新時間07-05 07：30 〔財經頻道／綜合報導〕世界黃金協會（WGC）預測，2026年下半年黃金價格可能在每盎司4100美元附近波動，但如果地緣政治...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "d159a7c55246aa6c9aafd54f",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "芝加哥大學首創「柔性 AI 貼片」，能毫秒內警告心律異常",
+      "url": "https://technews.tw/2026/07/05/wearable-ai-computing-patch/",
+      "published_at": "2026-07-04T23:30:12+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1578407",
+      "text": "芝加哥大學研究團隊與阿貢國家實驗室攜手合作，開發出可直接貼附在皮膚的「柔性 AI 運算貼片」。這款貼片能在人體即時分析健康數據，讓可穿戴醫療裝置大幅躍進，具備宛如「個人專屬醫師」的功能。論文 5 月 20 日發表於《Nature Electronics》期刊。 有別於市面必須將數據上傳遠端伺服器才能分析的智慧手錶或感測器，這款新型貼片主打設備端直接做 AI 推論。它能毫秒內完成運算，大幅度降低傳輸延遲。團隊強調，這對於「心室顫動」等攸關生死的心律異常尤其關鍵，因為心臟電波傳導速度極快，傳統依賴遠端處理的模式往往會錯失搶救良機。 為了讓貼片同時兼具柔軟度與強大運算能力，研究員採可印刷... 繼續閱讀 Image caption 芝加哥大學研究團隊與阿貢國家實驗室攜手合作，開發出可直接貼附在皮膚的「柔性 AI 運算貼片」。這款貼片能在人體即時分析健康數據，讓可穿戴醫療裝置大幅躍進，具備宛如「個人專屬醫師」的功能。論文 5 月 20 日發表於《 Nature Electronics 》期刊。 有別於市面必須將數據上傳遠端伺服器才能分析的智慧手錶或感測器，這款新型貼片主打設備端直接做 AI 推論。它能毫秒內完成運算，大幅度降低傳輸延遲。團隊強調，這對於「心室顫動」等攸關生死的心律異常尤其關鍵，因為心臟電波傳導速度極快，傳統依賴遠端處理的模式往往會錯失搶救良機。 為了讓貼片同時兼具柔軟度與強大運算能力，研究員採可印刷於彈性材料的有機電化學電晶體，更設計出能在紫外光照射下硬化成精細結構的高分子凝膠，使每平方公分面積內能製作高達一萬個電晶體。創新架構讓裝置不僅能像人類皮膚自由伸展，同時完美保留執行類神經網路所需的算力。 ▲ 芝加哥大學研發的新型「柔性 AI 貼片」能像皮膚般貼合身體，隨時分析健康數據。（Source： The University of Chicago ） 系統驗證階段，團隊透過來自捐贈人類心臟的映射資料測試，並取得兩項重要成果。首先，精準定位心臟電波方面，即使將貼片拉伸至原長度的 1.5 倍以上，系統仍能以高達 99.6% 的準確率找出電波的波前位置。其次，心血管疾病風險預測方面，將使用者血脂、血糖、最高心率及心電圖等個人健康數據輸入陣列後，內建神經網路便能估算心肌梗塞等心臟病發作風險，準確率達 83.5%。 團隊表示，下一步計畫是將技術與柔性無線通訊及更進階的感測器整合，致力打造能即時蒐集、分析並直接回應健康資料的完整監測平台。負責人之一指出，新技術的核心價值在於讓運算「真正發生在身體附近」而非遙遠的雲端，最終目標是讓未來的穿戴式或植入式裝置變得更聰明，成為真正意義上「個人隨身醫生」。 Scientists Create AI Skin Patch That Acts Like an Instant Personal Doctor （首圖來源： The University of Chicago ） 延伸閱讀： 穿戴裝置越來越普及，醫療端卻無法充分利用收集的大量數據 從實驗室走向真實世界：穿戴裝置如何以長期大規模數據改寫醫學研究",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "632273761af3262178f9fddf",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "千億都更案2》超級2大案聚集敦北 全台都更燙金一條街",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5493569",
+      "published_at": "2026-07-04T23:30:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5493569",
+      "text": "兩大千億都更案出現在台北市松山區，且都在敦化北路上，堪稱都更燙金一條街。根據台北市都更處資料，台塑都更案、環亞百貨都更案是少數兩個重建後，總銷金額突破1千億元的都更案，房產業者...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "5d4246e464de00c05405749f",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "哪國最愛去菲律賓玩？「這國」擠下南韓成大黑馬",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494076",
+      "published_at": "2026-07-04T23:25:53+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494076",
+      "text": "初次上稿07-04 22:25 更新時間07-05 07：27 〔財經頻道／綜合報導〕由於美國與菲律賓關係密切，加上美元走強帶來有利的匯率，越來越多的美國人選擇菲律賓作為度假目的地，使得...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "2c1503ee161d7f3bd6d18885",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "韓股飆逾100％卻遭外資空前拋售 148兆韓元撤資原因曝",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5494103",
+      "published_at": "2026-07-04T23:25:38+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5494103",
+      "text": "初次上稿07-04 23:44 更新時間07-05 07：25 南韓綜合股價指數（Kospi）今年上半年飆漲逾100%，史上首度漲破8000大關，寫下新高紀錄，然...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "f32d53dfcfbb1647bce65d22",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "熱門族群》AI技術落地規模擴大 機器人族群添柴火",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5493169",
+      "published_at": "2026-07-04T23:10:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5493169",
+      "text": "中國上海國際具身智能產業博覽會本月2日至4日登場，人形機器人成為市場焦點，其中大廠宇樹、優必選新品推升台系合作夥伴能見度。儘管上週台灣加權指數逢高震盪，機器人族群仍在題材...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "5d42d979bd20cb16fa75895c",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "夠麻吉 公告本公司名稱由「夠麻吉股份有限公司」更名為「納維康生技股份有限公司」，公告期間：115年6月29日至115年9月28日",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=b39794fb-61ec-456e-b957-e3193ddedeb2&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-04T23:05:00+00:00",
+      "author": "",
+      "external_id": "b39794fb-61ec-456e-b957-e3193ddedeb2",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "dc543fea82991a15c0049faf",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "寶雅 公告本公司股票面額變更由「新台幣10元」變更為「新台幣1元」公告期間：115年7月2日至115年10月1日",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=dd26d722-c19e-433a-92d6-95a11d627001&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-04T23:05:00+00:00",
+      "author": "",
+      "external_id": "dd26d722-c19e-433a-92d6-95a11d627001",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "bc8544033946fba8c1a3ad4e",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "緯軟 公告本公司名稱由「緯創軟體股份有限公司」更名為「緯致科技股份有限公司」，公告期間：115年6月2日至115年9月1日。",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=5204e0c2-a3c8-4674-a94c-cabd4b658dcb&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-04T23:05:00+00:00",
+      "author": "",
+      "external_id": "5204e0c2-a3c8-4674-a94c-cabd4b658dcb",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b93f25cb050a4469173ccd65",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "上緯投控 公告本公司名稱由「上緯國際投資控股股份有限公司」更名為「上緯國際控股股份有限公司」，公告期間：115年6月11日至115年9月10日。",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=b68b80e6-db79-4b32-b857-bad553e60215&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-04T23:05:00+00:00",
+      "author": "",
+      "external_id": "b68b80e6-db79-4b32-b857-bad553e60215",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "1d4675ac1d7a7b80ed523dfa",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "三晃 公告本公司名稱由「三晃股份有限公司」更名為「國慶科技股份有限公司」，公告期間：115年07月01日至115年9月30日。",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=8da9d779-7d93-4478-bff9-b87bb3fe2836&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-04T23:05:00+00:00",
+      "author": "",
+      "external_id": "8da9d779-7d93-4478-bff9-b87bb3fe2836",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "3a08358b2c62ab94573f237f",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "熱門族群》 無人機條例朝野版本齊發 軍工股亮燈表態",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5493004",
+      "published_at": "2026-07-04T23:00:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5493004",
+      "text": "在行政院版「國防自主無人載具採購特別條例草案」以及國民黨團版、民眾黨團版等可望一併交付委員會審查的激勵，上週五無人載具相關的軍工股，包括雷虎（8033）、漢翔（2634）...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "a1fb557cb6181822602e6572",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "大立光 115年6月營收37.12億、年減10.46%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=e064152e-65e5-4af2-8f25-a3e6289a176b&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-04T22:59:00+00:00",
+      "author": "",
+      "external_id": "e064152e-65e5-4af2-8f25-a3e6289a176b",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "fd203988c573e9acc878355a",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "萬潤訂8/3為除息交易日，現金股利發放日8/21",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=3e55afe9-e6cf-48c5-891b-380b463b3d50&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-04T22:24:00+00:00",
+      "author": "",
+      "external_id": "3e55afe9-e6cf-48c5-891b-380b463b3d50",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "dc17cde8df3bce3b1bbdc31e",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "一個AI兩個亞洲》台日韓股大贏家 中港股淪輸家",
+      "url": "https://ec.ltn.com.tw/article/paper/1761366",
+      "published_at": "2026-07-04T21:30:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/paper/1761366",
+      "text": "〔編譯魏國金／綜合報導〕今年一至六月，韓國、台灣與日本股市分別上漲一〇一％、五十九％與三十九％，是亞洲表現最佳的三大市場，反觀香港恒生科技指數因投資人紛紛從中國網路股撤資，重挫十九％，這道劃分贏家與輸家的界線，便是人工智慧（AI）供應鏈。 今年以來台日韓股漲39至101％ 港科技股反跌19％ …",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "e993dfd5b2cd2f571570d8bc",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "AI吃電》AIDC設置審查 選址比總容量重要",
+      "url": "https://ec.ltn.com.tw/article/paper/1761369",
+      "published_at": "2026-07-04T21:30:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/paper/1761369",
+      "text": "〔記者林菁樺／台北報導〕AI資料中心（AIDC）帶動全球算力競賽，也讓各國面臨電網承載壓力。雖然單一AIDC用電量多介於三十至五十MW，不及一座台積電晶圓廠約二〇〇MW，但因占地小、可快速落腳都會區，而高密度用電容易造成局部電網超載，因此包括台灣在內，各國近年已從過去「有電即可申請」，逐步轉向兼顧能…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "c99da9b695455e26b25b7201",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "韋伯望遠鏡直擊 10 倍速造星現場，超高解析度解密 M82 雪茄星系 1,650 萬顆恆星",
+      "url": "https://technews.tw/2026/07/05/webb-telescope-m82-16-5-million-stars-starburst-galaxy-evolution-mystery/",
+      "published_at": "2026-07-04T16:00:31+00:00",
+      "author": "台北 天文館",
+      "external_id": "https://technews.tw/?p=1580575",
+      "text": "NASA、ESA 與 CSA 合作的詹姆斯‧韋伯太空望遠鏡（JWST）利用近紅外相機（NIRCam），成功解析著名星暴星系 M82（Messier 82，又稱 NGC 3034、雪茄星系）約 1,650 萬顆恆星，讓天文學家首次得以如此細緻地觀察這座正經歷劇烈恆星形成的星系。 M82位於大熊座，距離地球約1,200萬光年，直徑約4萬光年，由德國天文學家約翰‧埃勒特‧波德（Johann Elert Bode）於1774年發現。由於星系盤傾斜朝向地球，外觀看起來狹長如雪茄，因此有「雪茄星系」之稱。更特別的是，它誕生新恆星的速度約為銀河系的10倍，是研究星系演化與恆星形成的重要天然實驗室。 ... 繼續閱讀 Image caption NASA、ESA 與 CSA 合作的詹姆斯‧韋伯太空望遠鏡（JWST）利用近紅外相機（NIRCam），成功解析著名星暴星系 M82（Messier 82，又稱 NGC 3034、雪茄星系）約 1,650 萬顆恆星，讓天文學家首次得以如此細緻地觀察這座正經歷劇烈恆星形成的星系。 M82位於大熊座，距離地球約1,200萬光年，直徑約4萬光年，由德國天文學家約翰‧埃勒特‧波德（Johann Elert Bode）於1774年發現。由於星系盤傾斜朝向地球，外觀看起來狹長如雪茄，因此有「雪茄星系」之稱。更特別的是，它誕生新恆星的速度約為銀河系的10倍，是研究星系演化與恆星形成的重要天然實驗室。 研究團隊表示，M82至今仍充滿許多未解之謎，例如究竟是什麼事件引發如此驚人的恆星形成活動？這股由星系中心向外噴發物質的現象又持續了多久？韋伯望遠鏡憑藉優異的紅外線觀測能力，可穿透濃密塵埃，清楚呈現扭曲延展的星系盤，以及過去無法分辨的數百萬顆恆星。 首圖影像中閃耀的藍色光點就是被解析出的個別恆星，不過這仍只是M82全部恆星的一小部分，更多亮度較低的恆星仍隱藏在觀測極限之外。研究人員指出，這些恆星如同保存完整的「化石紀錄」，記錄著M82數十億年來的形成與演化歷程，也讓天文學家能更精確重建它的造星歷史。 極高的恆星產生速率雖然讓M82顯得充滿活力，卻也將逐漸終結自身製造恆星的能力。 大量新生恆星釋放出的強烈恆星風與超新星爆發，持續將氣體與塵埃從星系盤上下兩側噴向星際空間，形成壯觀的雙極噴流（bipolar outflow）。這些外流的物質呈現沙漏狀，且具有明顯的層狀結構：靠近星系盤的黃色細絲主要是游離氣體，更外圍的橙色區域則富含多環芳香烴（PAHs）等微小塵埃顆粒，可作為追蹤星際物質的重要指標。隨著製造恆星的原料持續被帶離星系，未來新恆星的產生速率終將受到抑制。 研究團隊強調，若要真正理解星系如何演化，不能只依靠單一望遠鏡。 韋伯提供高解析度的近紅外線觀測，而哈伯太空望遠鏡則保留豐富的可見光資料，兩者結合後，能同時描繪恆星、氣體與塵埃的分布與交互作用，大幅拓展對星系演化的研究深度。兼具劇烈恆星形成活動、大量星際物質外流與其組成複雜等特性的M82，也因此成為鄰近宇宙中最具代表性的星暴星系之一，將持續協助天文學家深入探索恆星形成、物質循環，以及星系演化的關鍵機制。 ▲ 這組並列比較圖展示了 M82 星系的同一區域，左側為哈伯太空望遠鏡的觀測影像，右側為韋伯太空望遠鏡的觀測結果。 Webb Maps Millions of Stars in Messier 82 （本文由 台北天文館 授權轉載；圖片來源： NASA ） 延伸閱讀： 時速 300 萬公里的宇宙熱風，日本 XRISM 望遠鏡揭開雪茄星系 M82 的噴發祕密 韋伯望遠鏡破譯早期宇宙「小紅點」之謎，揪出被氣體包覆的超大質量黑洞 韋伯太空望遠鏡驚見 120 億年前「混亂星系」，推翻星系演化時間表",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "de0c7b8b2f75acafc3302d6f",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "NASA 露西號直擊花生小行星唐納德約翰森，尋獲太陽系早期水證據",
+      "url": "https://technews.tw/2026/07/05/lucy-close-flyby-peanut-shaped-asteroid-donald-johanson-reveals-ancient-water-traces-complex-rotation/",
+      "published_at": "2026-07-04T16:00:25+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1578431",
+      "text": "美國太空總署（NASA）的「露西號」（Lucy）探測器在探索主小行星帶時傳回重大科學進展。 最新觀測揭示，小行星「唐納德約翰森」（Donaldjohanson）是外觀宛如花生的雙葉天體，表面更保留了古老液態水作用的珍貴證據。論文 18 日發表於《Science》期刊，為人類理解太陽系早期物質在碰撞、陽光與水的影響下如何演化，提供重要線索。 根據研究數據，露西號於 2025 年 4 月 20 日，以時速約 48,000 公里，在距離僅約 1,046 公里的極近距離下飛掠唐納德約翰森，成功拍攝下首批高解析度影像並收集了詳細的科學量測資料。畫面顯示，這顆小行星呈現「雙葉」（bilobat... 繼續閱讀 Image caption 美國太空總署（NASA）的「露西號」（Lucy）探測器在探索主小行星帶時傳回重大科學進展。 最新觀測揭示，小行星「唐納德約翰森」（Donaldjohanson）是外觀宛如花生的雙葉天體，表面更保留了古老液態水作用的珍貴證據。論文 18 日發表於《 Science 》期刊，為人類理解太陽系早期物質在碰撞、陽光與水的影響下如何演化，提供重要線索。 根據研究數據，露西號於 2025 年 4 月 20 日，以時速約 48,000 公里，在距離僅約 1,046 公里的極近距離下飛掠唐納德約翰森，成功拍攝下首批高解析度影像並收集了詳細的科學量測資料。畫面顯示，這顆小行星呈現「雙葉」（bilobate）結構，由兩個岩體透過狹窄的「頸部」相連，表面同時分布著多個撞擊坑、山脊與複雜的地形痕跡。 有趣的是，唐納德約翰森的自轉並非沿單一軸穩定旋轉，而像一個搖晃的陀螺：大約每 10.5 個地球日進行一次端對端（end-over-end）翻轉，同時以 26.5 天的週期沿著長軸方向來回搖擺（rocking）。 團隊解釋，這種複雜的轉動狀態，部分歸因於長期受太陽光照射所引發的「YORP 效應」。數千萬年間，此效應導致自轉逐漸減緩，鬆散的岩塊與碎屑在重力與離心力的雙重作用下重新分布，不僅改變了表面的整體形貌，也讓原先銳利的隕石坑邊緣變得平滑（鈍化）。 露西號飛掠期間，成功偵測到小行星表面含有「富鐵黏土礦物」（iron-rich phyllosilicates）。這類礦物必須在曾有液態水存在的環境下才能生成。科學家進一步推論，由於黏土成分以鐵為主，而非被鎂元素取代，代表唐納德約翰森與液態水接觸的時間相對短暫；如果長期浸在水中，黏土的鐵通常會逐步被鎂等元素取代。 這與近年來人類近距離探測的「貝努」（Bennu）及「龍宮」（Ryugu）兩顆小行星形成強烈對比，後兩者主要含「富鎂黏土」，顯示它們在早期母體階段，曾經歷過更長時間的水介質作用。 年齡與軌道史方面，團隊估算唐納德約翰森約 1.55 億年前，由劇烈的星際撞擊碎片重新聚合而成，且形成後大多安穩停在主小行星帶。貝努與龍宮不僅歷史更為悠久（推估形成於 10 億至 20 億年前），後來還發生軌道遷移，逐漸移動到靠近地球的軌道。這些差異為解開母體天體、行星遷移及太陽系早期環境之謎，提供了極具價值的線索。 科學家強調，露西號此次成功觀測唐納德約翰森，同時也是為未來拜訪木星「特洛伊小行星群」的完美實戰演練。目標任務團隊將繼續引導露西號深入太空，比較不同族群的小行星成分與演化史，進一步拓展我們對宇宙的認知。 NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid （首圖來源： NASA ） 延伸閱讀： 露西號團隊以掩星方式發現特洛伊小行星的衛星 露西號藉地球重力彈弓調整方向前，得先閃過一堆障礙物",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "ea111dbfd143936b22697e3b",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "台端 依臺灣證券交易所股份有限公司臺證上一字第1121801204號函辦理",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=d9eec91a-611f-4d61-8a90-b7788e9e5053&utm_source=9668185718561857965656576626&utm_medium=RSS",
+      "published_at": "2026-07-04T15:50:00+00:00",
+      "author": "",
+      "external_id": "d9eec91a-611f-4d61-8a90-b7788e9e5053",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "331fdd919f087393692ec707",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "今彩539第115162期 頭獎1注中獎",
+      "url": "https://www.cna.com.tw/news/ahel/202607040193.aspx",
+      "published_at": "2026-07-04T14:09:26+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-04/202607040193",
+      "text": "（中央社台北4日電）今彩539第115162期開獎，中獎號碼15、37、10、02、31；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "f9ef22982a48a4d0dbc669c9",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "今彩539第115162期開獎",
+      "url": "https://www.cna.com.tw/news/ahel/202607040183.aspx",
+      "published_at": "2026-07-04T12:42:01+00:00",
+      "author": "",
+      "external_id": "CNA/2026-07-04/202607040183",
+      "text": "（中央社台北4日電）今彩539第115162期開獎，中獎號碼15、37、10、02、31。3星彩中獎號碼369，4星彩中獎號碼0883。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "8a643bf076bfa6ef54b95baa",
+      "source_type": "youtube",
+      "source_name": "鐘崑禎分析師_摩爾證券投顧",
+      "title": "美股休市也擋不住！台股夜盤先噴，週一「這幾檔」來不及了！",
+      "url": "https://www.youtube.com/watch?v=7Duv5uhWQn0",
+      "published_at": "2026-07-04T12:30:28+00:00",
+      "author": "鐘崑禎分析師_摩爾證券投顧",
+      "external_id": "7Duv5uhWQn0",
+      "text": "美股休市，台指夜盤照樣大漲   壓不住的多頭氣勢，下週該鎖定誰？ 下週台股三大重點一次看懂，提前卡位第三季主升段！",
+      "metadata": {
+        "query": "美股 台股 供應鏈",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    }
+  ],
+  "entities": [
+    {
+      "date": "2026-07-05",
+      "entity_type": "stock",
+      "entity_id": "2330",
+      "label": "台積電(2330)",
+      "industry": "半導體",
+      "count": "22",
+      "source_count": "13",
+      "evidence": "TSMC|台積電"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "stock",
+      "entity_id": "2317",
+      "label": "鴻海(2317)",
+      "industry": "電子代工",
+      "count": "8",
+      "source_count": "4",
+      "evidence": "2317|鴻海"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "stock",
+      "entity_id": "2454",
+      "label": "聯發科(2454)",
+      "industry": "半導體",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "聯發科"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "stock",
+      "entity_id": "3231",
+      "label": "緯創(3231)",
+      "industry": "AI伺服器",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "緯創"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "stock",
+      "entity_id": "2882",
+      "label": "國泰金(2882)",
+      "industry": "金融",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "國泰金"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "stock",
+      "entity_id": "2891",
+      "label": "中信金(2891)",
+      "industry": "金融",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "中信金"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "stock",
+      "entity_id": "2303",
+      "label": "聯電(2303)",
+      "industry": "半導體",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "聯電"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "industry",
+      "entity_id": "半導體",
+      "label": "半導體",
+      "industry": "半導體",
+      "count": "25",
+      "source_count": "13",
+      "evidence": "AI晶片|先進製程|半導體|晶圓代工"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "industry",
+      "entity_id": "電動車",
+      "label": "電動車",
+      "industry": "電動車",
+      "count": "13",
+      "source_count": "1",
+      "evidence": "電動車|電池"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "industry",
+      "entity_id": "金融",
+      "label": "金融",
+      "industry": "金融",
+      "count": "8",
+      "source_count": "5",
+      "evidence": "升息|銀行"
+    },
+    {
+      "date": "2026-07-05",
+      "entity_type": "industry",
+      "entity_id": "AI伺服器",
+      "label": "AI伺服器",
+      "industry": "AI伺服器",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "散熱"
+    }
+  ],
+  "signals": [
+    {
+      "entity_type": "stock",
+      "entity_id": "2317",
+      "label": "鴻海(2317)",
+      "current_count": 8,
+      "source_count": 4,
+      "average_previous": 1.6,
+      "surge_ratio": 5.0,
+      "consecutive_days": 4,
+      "reason": "聲量約為近5日均值的5.0倍；連續4日出現"
+    },
+    {
+      "entity_type": "industry",
+      "entity_id": "半導體",
+      "label": "半導體",
+      "current_count": 25,
+      "source_count": 13,
+      "average_previous": 31.4,
+      "surge_ratio": 0.8,
+      "consecutive_days": 5,
+      "reason": "連續5日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2330",
+      "label": "台積電(2330)",
+      "current_count": 22,
+      "source_count": 13,
+      "average_previous": 23.0,
+      "surge_ratio": 0.96,
+      "consecutive_days": 5,
+      "reason": "連續5日出現"
+    },
+    {
+      "entity_type": "industry",
+      "entity_id": "電動車",
+      "label": "電動車",
+      "current_count": 13,
+      "source_count": 1,
+      "average_previous": 11.0,
+      "surge_ratio": 1.18,
+      "consecutive_days": 5,
+      "reason": "連續5日出現"
+    },
+    {
+      "entity_type": "industry",
+      "entity_id": "金融",
+      "label": "金融",
+      "current_count": 8,
+      "source_count": 5,
+      "average_previous": 16.6,
+      "surge_ratio": 0.48,
+      "consecutive_days": 5,
+      "reason": "連續5日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2454",
+      "label": "聯發科(2454)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 2.6,
+      "surge_ratio": 0.77,
+      "consecutive_days": 5,
+      "reason": "連續5日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3231",
+      "label": "緯創(3231)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 1.6,
+      "surge_ratio": 1.25,
+      "consecutive_days": 4,
+      "reason": "連續4日出現"
+    }
+  ],
+  "llm_summary": null,
+  "report_markdown": "# 每日股票新聞觀察報告 - 2026-07-05\n\n資料視窗：2026-07-04T19:04:56.155601+08:00 至 2026-07-05T19:04:56.155601+08:00。本報告是研究輔助與觀察清單，不構成個人化投資建議。\n\n## 今日概況\n\n- 收集來源數：107\n\n- 股票關鍵字：7\n\n- 產業關鍵字：4\n\n## 重複出現的產業\n\n| 名稱 | 次數 | 來源數 | 證據詞 |\n|---|---:|---:|---|\n| 半導體 | 25 | 13 | AI晶片|先進製程|半導體|晶圓代工 |\n| 電動車 | 13 | 1 | 電動車|電池 |\n| 金融 | 8 | 5 | 升息|銀行 |\n| AI伺服器 | 1 | 1 | 散熱 |\n\n## 重複出現的個股\n\n| 名稱 | 次數 | 來源數 | 證據詞 |\n|---|---:|---:|---|\n| 台積電(2330) | 22 | 13 | TSMC|台積電 |\n| 鴻海(2317) | 8 | 4 | 2317|鴻海 |\n| 聯發科(2454) | 2 | 2 | 聯發科 |\n| 緯創(3231) | 2 | 2 | 緯創 |\n| 國泰金(2882) | 1 | 1 | 國泰金 |\n| 中信金(2891) | 1 | 1 | 中信金 |\n| 聯電(2303) | 1 | 1 | 聯電 |\n\n## 聲量訊號\n\n| 類型 | 名稱 | 今日次數 | 來源數 | 近期待均 | 放大倍數 | 連續天數 | 原因 |\n|---|---|---:|---:|---:|---:|---:|---|\n| stock | 鴻海(2317) | 8 | 4 | 1.60 | 5.00 | 4 | 聲量約為近5日均值的5.0倍；連續4日出現 |\n| industry | 半導體 | 25 | 13 | 31.40 | 0.80 | 5 | 連續5日出現 |\n| stock | 台積電(2330) | 22 | 13 | 23.00 | 0.96 | 5 | 連續5日出現 |\n| industry | 電動車 | 13 | 1 | 11.00 | 1.18 | 5 | 連續5日出現 |\n| industry | 金融 | 8 | 5 | 16.60 | 0.48 | 5 | 連續5日出現 |\n| stock | 聯發科(2454) | 2 | 2 | 2.60 | 0.77 | 5 | 連續5日出現 |\n| stock | 緯創(3231) | 2 | 2 | 1.60 | 1.25 | 4 | 連續4日出現 |\n\n## 重要來源\n\n1. [#台股,#台灣股市,#股票投資,#股市分析,#金融市場,#外資動向,#散戶投資,#ETF投資  #半導體](https://www.youtube.com/watch?v=m0flJebbJLI) - Julito Baylon, 2026-07-05T10:30:23+00:00, 摘要/描述\n2. [台灣對美國和全球有多重要？外媒一文揭「不能倒下」關鍵原因](https://ec.ltn.com.tw/article/breakingnews/5494646) - 自由時報 財經頻道, 2026-07-05T10:25:32+00:00, 摘要/描述\n3. [投資小白快看！韓央行罕見示警 這2檔槓桿ETF恐成散戶巨虧地雷](https://ec.ltn.com.tw/article/breakingnews/5494545) - 自由時報 財經頻道, 2026-07-05T10:24:14+00:00, 摘要/描述\n4. [週一「這幾檔」來不及了！#台股 #股票 #投資 #CPO #矽光子 #光通訊 #台積電 #AI概念股 #半導體股 #族群輪動 #飆股 #ETF](https://www.youtube.com/watch?v=RKuR2oSXhpM) - 建豪觀盤, 2026-07-05T10:22:56+00:00, 摘要/描述\n5. [漲價題材關鍵股操作價格曝！禾伸堂周一可望破千 蘇威元：興勤、富鼎、和晶可佈局！ @TaiwanLBJnews   #shorts](https://www.youtube.com/watch?v=IaLU5YeNqtE) - 57東森財經新聞, 2026-07-05T10:00:17+00:00, 摘要/描述\n6. [【全球政經周報】台股五貸同堂！AI泡沫恐拖垮房市？高利率風暴下聯準會轉鷹、日圓貶值、歐洲滯脹一次看20260705 @中天財經頻道CtiFinance](https://www.youtube.com/watch?v=uL2jI9Vnyi4) - 中天電視, 2026-07-05T10:00:07+00:00, 摘要/描述\n7. [決定全球AI晶片生死的,竟不是台積電,是一間沒招牌的鐵皮屋](https://www.youtube.com/watch?v=eJ7LLb3dU0M) - 山海之間, 2026-07-05T10:00:07+00:00, 摘要/描述\n8. [【全球政經周報】台股五貸同堂！AI泡沫恐拖垮房市？高利率風暴下聯準會轉鷹、日圓貶值、歐洲滯脹一次看20260705 @中天財經頻道CtiFinance](https://www.youtube.com/watch?v=81NKmEORSpw) - 中天財經頻道, 2026-07-05T10:00:06+00:00, 摘要/描述\n9. [半導體股暴跌7.7%｜台積電聯發科面臨AI過熱警訊【7月5日】](https://www.youtube.com/watch?v=5Mwa4LxFCZo) - Japan Market Daily Radio 繁體中文, 2026-07-05T09:39:48+00:00, 摘要/描述\n10. [台股短線交易，最怕看錯這個訊號 #台股 #短線 #股票 #投資 #財經](https://www.youtube.com/watch?v=i0NoHUDUOZ4) - BabaaaA, 2026-07-05T09:30:16+00:00, 摘要/描述\n11. [專家：記憶體邁入超級循環 新產能和CSP投資牽動後市](https://www.cna.com.tw/news/afe/202607050152.aspx) - 中央社 產經證券, 2026-07-05T09:27:29+00:00, 摘要/描述\n12. [OECD公布工時最長和最短國家！韓國人辛酸第六名](https://ec.ltn.com.tw/article/breakingnews/5494606) - 自由時報 財經頻道, 2026-07-05T09:12:29+00:00, 摘要/描述\n13. [當野生動物來敲門：告別傳統防護手段，全球重塑「人獸共存」新防線](https://technews.tw/2026/07/05/globally-redefining-new-defense-line-human-animal-coexistence/) - TechNews 科技新報, 2026-07-05T09:00:39+00:00, 摘要/描述\n14. [(完整版)台股週線飆2千點!七月無腦衝上五萬點?無人機最關鍵零組件＋漲價利多，隱藏版飆股藏在這！車廠黑手轉人形機器人，看一檔轉機黑馬股!翻轉投資思維!... 2026.07.05【財經週日趴 全集】](https://www.youtube.com/watch?v=CdOwikcm6U0) - 民視讚夯 Formosa TV Thumbs Up, 2026-07-05T09:00:17+00:00, 摘要/描述\n15. [每天自備午餐！他們靠這些招累積4200萬 40歲直接「提早退休」](https://ec.ltn.com.tw/article/breakingnews/5494592) - 自由時報 財經頻道, 2026-07-05T08:59:36+00:00, 摘要/描述\n16. [轟到你沒油！俄羅斯能源神話崩潰 急向「這國」低頭求援](https://ec.ltn.com.tw/article/breakingnews/5494509) - 自由時報 財經頻道, 2026-07-05T08:56:34+00:00, 摘要/描述\n17. [阿里旗下平台賣違法藥物 與美司法部和解並支付192億元](https://ec.ltn.com.tw/article/breakingnews/5494620) - 自由時報 財經頻道, 2026-07-05T08:54:20+00:00, 摘要/描述\n18. [今天盤面重點，不是漲最多的那一群 #台股 #盤勢 #股票 #投資 #財經](https://www.youtube.com/watch?v=9MSn0Bqu3PA) - Dddxz1, 2026-07-05T08:50:15+00:00, 摘要/描述\n19. [#台股 #AI #台積電 #半導體 #MOSFET #股票分析 #投資 #財經 #youtubeshorts](https://www.youtube.com/watch?v=ZHEaRJgLj4c) - 股海麵包老特, 2026-07-05T08:38:37+00:00, 摘要/描述\n20. [鴻海第2季營收攀歷年同期新高 第3季可望季增年增](https://www.cna.com.tw/news/afe/202607050128.aspx) - 中央社 產經證券, 2026-07-05T08:35:36+00:00, 摘要/描述\n\n## 使用注意\n\n- 頻率代表媒體與影片討論熱度，不等於基本面改善或股價方向。\n- YouTube 字幕可能缺漏、錯字或與口語內容不一致。\n- RSS 摘要可能只含部分內文，重要結論需回原文驗證。\n- 任何觀察都應搭配財報、法說、估值、籌碼與風險控管。\n"
+}
