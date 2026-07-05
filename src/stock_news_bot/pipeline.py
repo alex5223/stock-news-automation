@@ -217,7 +217,7 @@ def _snapshot_payload(
 
 
 def _analyze_entities(analysis_config: dict[str, Any], items: list[SourceItem], report_date: date) -> list[dict[str, str]]:
-    stock_dictionary = StockDictionary.from_csv(analysis_config.get("stock_alias_path", "data/tw_stocks_sample.csv"))
+    stock_dictionary = StockDictionary.from_csv(analysis_config.get("stock_alias_path", "data/tw_stocks_full.csv"))
     industry_terms = analysis_config.get("industry_terms", {}) or {}
 
     stock_mentions_by_item: list[dict[str, EntityMention]] = []
@@ -266,7 +266,7 @@ def _stock_rows(
                 "date": report_date.isoformat(),
                 "entity_type": "stock",
                 "entity_id": ticker,
-                "label": f"{entry.name}({ticker})",
+                "label": f"{entry.display_name}({ticker})",
                 "industry": entry.industry,
                 "count": str(count),
                 "source_count": str(source_counts[ticker]),

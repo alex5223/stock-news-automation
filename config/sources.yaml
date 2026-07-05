@@ -68,7 +68,7 @@ rss:
       focus: "待補官方RSS網址"
 
 analysis:
-  stock_alias_path: data/tw_stocks_sample.csv
+  stock_alias_path: data/tw_stocks_full.csv
   min_signal_count: 2
   surge_ratio_threshold: 2.0
   industry_terms:

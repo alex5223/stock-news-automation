@@ -31,7 +31,8 @@ CLI 會自動讀取專案根目錄的 `.env`。
 ## 設定重點
 
 - `config/sources.yaml`: RSS、YouTube 查詢、產業詞、儲存與 LLM 設定。
-- `data/tw_stocks_sample.csv`: 股票代號、公司名、別名與產業對照表。
+- `data/tw_stocks_full.csv`: 正式股票字典來源，包含代號、公司全名、短名、別名、產業與市場別。
+- `data/tw_stocks_sample.csv`: 精簡版範例字典，保留作為參考與小型測試資料。
 - `.github/workflows/daily-report.yml`: GitHub Actions 每日排程。
 
 專案目前已內建多個台灣財經與科技產業 RSS，包括 Anue 鉅亨網、經濟日報、MoneyDJ 理財網、自由時報財經頻道、TechNews、中央社產經證券、中央社科技新聞與商業周刊。`工商時報` 與 `Yahoo奇摩股市` 仍保留空白 URL，等你補上確認過的官方 feed。YouTube 頻道請填 channel ID；若只想用關鍵字搜尋，保留 `queries` 即可。

@@ -324,8 +324,12 @@
             <td>設定範本。</td>
           </tr>
           <tr>
+            <td><code>data/tw_stocks_full.csv</code></td>
+            <td>正式股票字典來源，包含 ticker、完整名稱、簡稱、別名、產業與市場別。</td>
+          </tr>
+          <tr>
             <td><code>data/tw_stocks_sample.csv</code></td>
-            <td>股票代號、公司名稱、別名、產業對照表範例。</td>
+            <td>股票代號、公司名稱、別名、產業對照表精簡範例。</td>
           </tr>
           <tr>
             <td><code>data/history/.gitkeep</code></td>
@@ -459,7 +463,7 @@ fi</code></pre>
       <ol>
         <li>在有 Python 的環境執行：<code>pip install -e .[dev]</code> 與 <code>python -m pytest</code>。</li>
         <li>填入正式 RSS feed URL、YouTube 查詢詞與可信任頻道 ID。</li>
-        <li>擴充 <code>data/tw_stocks_sample.csv</code>，至少加入常追蹤的台股與常見別名。</li>
+        <li>優先維護 <code>data/tw_stocks_full.csv</code>；<code>data/tw_stocks_sample.csv</code> 保留作為教學或最小測試資料。</li>
         <li>確認 GitHub repository settings 允許 GitHub Actions 使用 <code>GITHUB_TOKEN</code> 寫入。</li>
         <li>手動觸發 workflow 一次，確認 <code>data/history/YYYY-MM-DD.json</code> 會被 commit/push。</li>
         <li>決定 snapshot 是否要保存全文；若 repo 膨脹是顧慮，可以只保存來源摘要與 entity/signal 統計。</li>

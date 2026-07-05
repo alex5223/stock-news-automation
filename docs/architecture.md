@@ -53,7 +53,7 @@
 
 做法：
 
-- 股票字典：`data/tw_stocks_sample.csv` 維護 `ticker,name,aliases,industry`，例如「台積電」「台積」「2330」「TSMC」會對到同一檔。
+- 股票字典：正式來源是 `data/tw_stocks_full.csv`，支援 `ticker,name,short_name,aliases,industry,market`。`short_name` 會優先作為顯示名稱，`aliases` 與 `short_name` 會一起參與比對。`data/tw_stocks_sample.csv` 仍保留作為精簡範例與回退參考。
 - 產業字典：在 `config/sources.yaml` 的 `analysis.industry_terms` 維護產業與關鍵詞。
 - 頻率統計：逐篇文章/影片計算股票與產業出現次數，也統計有幾個來源提到。
 - 趨勢訊號：和 `data/runtime/daily_entities.csv` 的歷史資料比對，找出連續上榜與聲量放大。
@@ -128,7 +128,7 @@ GitHub Actions schedule 文件：
 ## 5. 建議的使用流程
 
 1. 補齊 `config/sources.yaml` 中的 RSS URL、YouTube 關鍵字與頻道 ID。
-2. 擴充 `data/tw_stocks_sample.csv`，把你關心的個股與常見別名補齊。
+2. 優先維護 `data/tw_stocks_full.csv`；`data/tw_stocks_sample.csv` 保留作為精簡範例、教學或小型測試資料。
 3. 先不開 LLM，跑幾天確認資料收集與字典命中是否合理。
 4. 開啟 LLM 摘要，確認摘要有引用來源、列風險、沒有過度給買賣建議。
 5. 接上 Google Sheets 和 GitHub Actions，開始累積歷史聲量。

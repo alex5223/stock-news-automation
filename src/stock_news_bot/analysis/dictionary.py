@@ -14,8 +14,14 @@ from ..models import EntityMention
 class StockEntry:
     ticker: str
     name: str
+    short_name: str
     aliases: tuple[str, ...]
     industry: str
+    market: str
+
+    @property
+    def display_name(self) -> str:
+        return self.short_name or self.name
 
 
 class StockDictionary:
@@ -32,15 +38,21 @@ class StockDictionary:
             for row in reader:
                 ticker = (row.get("ticker") or "").strip()
                 name = (row.get("name") or "").strip()
-                if not ticker or not name:
+                short_name = (row.get("short_name") or "").strip()
+                canonical_name = short_name or name
+                if not ticker or not canonical_name:
                     continue
-                aliases = _dedupe_aliases([ticker, name, *((row.get("aliases") or "").split("|"))])
+                aliases = _dedupe_aliases(
+                    [ticker, name, short_name, *((row.get("aliases") or "").split("|"))]
+                )
                 entries.append(
                     StockEntry(
                         ticker=ticker,
-                        name=name,
+                        name=name or canonical_name,
+                        short_name=short_name,
                         aliases=tuple(aliases),
                         industry=(row.get("industry") or "").strip(),
+                        market=(row.get("market") or "").strip(),
                     )
                 )
         return cls(entries)
@@ -68,7 +80,7 @@ class StockDictionary:
             mentions[ticker] = EntityMention(
                 entity_type="stock",
                 entity_id=ticker,
-                label=f"{entry.name}({ticker})",
+                label=f"{entry.display_name}({ticker})",
                 count=len(spans),
                 industry=entry.industry,
                 evidence=evidence,
