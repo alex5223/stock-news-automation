@@ -42,6 +42,25 @@ def test_stock_dictionary_from_full_csv_style_uses_short_name_for_label(tmp_path
     assert mentions["2330"].label == "台積電(2330)"
 
 
+def test_stock_dictionary_loads_project_full_csv():
+    dictionary = StockDictionary.from_csv("data/tw_stocks_full.csv")
+
+    entry = dictionary.get("1101")
+    mentions = dictionary.match("台泥今天與TCC一起被市場討論。")
+
+    assert entry is not None
+    assert entry.ticker == "1101"
+    assert entry.name == "臺灣水泥股份有限公司"
+    assert entry.short_name == "台泥"
+    assert "台泥" in entry.aliases
+    assert "TCC" in entry.aliases
+    assert entry.industry == "水泥工業"
+    assert entry.market == "上市"
+    assert entry.display_name == "台泥"
+    assert mentions["1101"].label == "台泥(1101)"
+    assert mentions["1101"].count >= 2
+
+
 def test_count_industry_terms():
     mentions = count_industry_terms("AI伺服器帶動散熱與高速傳輸需求。", {"AI伺服器": ["AI伺服器", "散熱", "高速傳輸"]})
 
