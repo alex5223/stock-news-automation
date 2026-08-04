@@ -1,0 +1,3852 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T11:31:58.108393+08:00",
+  "window": {
+    "since": "2026-08-03T11:31:58.108393+08:00",
+    "until": "2026-08-04T11:31:58.108393+08:00",
+    "timezone": "Asia/Taipei"
+  },
+  "counts": {
+    "sources": 137,
+    "entities": 112,
+    "signals": 68
+  },
+  "sources": [
+    {
+      "id": "21d5ddb37f7c2b783c3d2fa9",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "烏軍獲億元合約挹注升級 5 萬架 AI 無人機，突破 GPS 限制改寫戰場規則",
+      "url": "https://technews.tw/2026/08/04/ukrainian-forces-upgrade-50000-ai-drones/",
+      "published_at": "2026-08-04T03:30:27+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1597112",
+      "text": "烏克蘭戰場上廣泛使用的廉價自殺式無人機，正迎來一波關鍵的技術進化。美國國防科技公司 Auterion 近期與烏克蘭無人機製造商 SkyFall 攜手合作，將先進的 AI 自主導引系統整合至 Shrike 第一人稱視角（FPV）無人機中。這項升級讓原本單價僅約 400 美元、高度仰賴人工操控的攻擊無人機，躍升為具備末端自動追蹤與鎖定移動目標能力的智慧武器。 根據最新消息，烏克蘭軍方已於 7 月中旬開始接收這批搭載 Auterion「Skynode S」打擊套件的升級版 Shrike 無人機，雙方預計在未來幾個月內完成高達 5 萬架的交付。 這批龐大訂單背後是由一份價值約 1 億美元的... 繼續閱讀 Image caption 烏克蘭戰場上廣泛使用的廉價自殺式無人機，正迎來一波關鍵的技術進化。美國國防科技公司 Auterion 近期與烏克蘭無人機製造商 SkyFall 攜手合作，將先進的 AI 自主導引系統整合至 Shrike 第一人稱視角（FPV）無人機中。這項升級讓原本單價僅約 400 美元、高度仰賴人工操控的攻擊無人機，躍升為具備末端自動追蹤與鎖定移動目標能力的智慧武器。 根據最新消息，烏克蘭軍方已於 7 月中旬開始接收這批搭載 Auterion「Skynode S」打擊套件的升級版 Shrike 無人機，雙方預計在未來幾個月內完成高達 5 萬架的交付。 這批龐大訂單背後是由一份價值約 1 億美元的合約支撐。據悉，資金來自一個未公開名稱的歐洲國家；路透社先前曾披露出資方為德國，而 Auterion 也證實，其位於德國慕尼黑的團隊正全力負責履行這項合約。 破解電戰干擾與 GPS 失效 在現代戰場上，強烈的電子干擾常導致無人機失效，這套新系統的運作方式完美針對了這項痛點： 手動鎖定與自動接管 ：操作員先手動將無人機導航至戰區，選定距離最遠約半英里（約 800 公尺）內的目標後，即可切換至「發射後不管」（fire-and-forget）的末端導引模式。 無懼斷線與干擾 ：只要無線電連線暢通，操作員隨時能中止攻擊或更改目標。若無人機因地形遮蔽、建築物阻擋或敵方電戰干擾而失去訊號，系統會立刻接管，完全仰賴機載主攝影機的影像資訊自主追蹤並撞向目標，全程不需依賴 GPS。 Auterion 執行長 Lorenz Meier 說明，這項設計的核心，是將原本毫無運算能力、沒有 AI 的傳統飛控器，全面替換為內建微處理器與 AI 技術的航電系統。 放眼未來「蜂群」作戰 這項技術突破，也是烏克蘭戰場經驗「快速迭代」的具體展現。曾八度造訪烏克蘭的 Meier 指出，烏軍與當地企業對初期的技術失敗有著極高容忍度，他們能夠迅速修正產品，並透過前線的戰場回饋持續改良。 此外，Auterion 強調這套系統具備極高的戰術擴充潛力。未來待軟體更新到位後，單一操作員將有望指揮無人機「蜂群」進行協同攻擊。該公司日前已在美國佛羅里達州 Camp Blanding 的軍方實彈演訓中，成功展示了一名操作員同時指揮三架自主攻擊無人機，精準打擊三個不同目標的驚人實力。 儘管武器自動化程度大幅提升，Auterion 仍重申立場，希望在目標選擇上保留人類的最後決定權。Meier 強調，在當前戰場上，攸關生死的判斷仍必須交由人類做出。然而他也坦言，若未來敵對陣營同樣大量部署自主武器系統，未來的戰爭型態恐怕將不可避免地逼近「自主對自主」（autonomous vs. autonomous）的高速對抗。 US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own Ukraine’s cheap robot drones extract a heavy price from Russia （首圖為 Skynode S，來源： Auterion ） 延伸閱讀： 飛 2,500 公里、歷時 12 小時！烏克蘭無人機創最遠程紀錄，重創西伯利亞煉油廠 烏克蘭無人機量產瓶頸，全歐洲擴產小型火箭引擎 從求援到軍武輸出國，烏克蘭靠「實戰測試」讓反無人機技術進軍全球 烏克蘭猛攻俄最大電商倉庫，戰火逼近俄國民眾生活",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "7d9ad0e6c10de85d40450b58",
+      "source_type": "youtube",
+      "source_name": "冷說財經",
+      "title": "台積電毛利率破紀錄！但股價為何還跌15%？ #podcast #美股 #ai",
+      "url": "https://www.youtube.com/watch?v=YsuwVMuZsTk",
+      "published_at": "2026-08-04T03:26:44+00:00",
+      "author": "冷說財經",
+      "external_id": "YsuwVMuZsTk",
+      "text": "台積電最新財報，毛利率衝上67.7%，創歷史紀錄。 在產能極度緊張的同時，還能維持這麼高的利潤率——這說明台積電沒有為了搶 ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "2ceb8e5d3f4d954880929082",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "別再關注黃金和銅了 ! 美媒揭 : 非洲最新的掏金熱潮來自「這2產品」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527576",
+      "published_at": "2026-08-04T03:26:35+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527576",
+      "text": "〔財經頻道／綜合報導〕非洲下一波出口熱潮，不是黃金或銅，而是藍莓、橘子等高價值農產品。《經濟學人》指出，水果出口激增顯示高價值農業如何促進工業化，這顯示高科技農業不僅能創造外匯與就業，也可能成...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "226e849df5b817633cbac0ec",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "慶祝處置制度鬆綁！29檔處置股12檔飆漲停",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527824",
+      "published_at": "2026-08-04T03:22:05+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527824",
+      "text": "昨日證交所、櫃買中心同步公告修改台股注意暨處置相關規定，根據新制，處置期間將縮短為5日、當沖占比達標者則為7日，撮合時間不論是第一次還是第二次處置，皆調整為每2分鐘一次，...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "504dceb6221060a9a68796b2",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "健身與飲食健康風潮帶動，乳清蛋白成美國產業新寵",
+      "url": "https://technews.tw/2026/08/04/fitness-healthy-eating-trends-drive-whey-protein-popularity-us-industry/",
+      "published_at": "2026-08-04T03:20:56+00:00",
+      "author": "中央社",
+      "external_id": "https://technews.tw/?p=1597102",
+      "text": "乳清蛋白過去視為製作起司的副產品，如今卻因社群媒體掀起的高蛋白飲食風潮，成為大受追捧的膳食補充品，而這股熱潮正大幅重塑美國乳業生態。 法新社報導，乳清蛋白（Whey protein）過去長期以混合粉形式添加於食品，或製成蛋白棒販售，如今已遍布美國超市多類商品，從早餐穀片、貝果、椒鹽脆餅到泡麵等產品都加入乳清蛋白。 一些大型食品品牌也搭上這股潮流，例如菲多利（Frito-Lay）推出「高蛋白納喬起司」（Protein Nacho Cheese）口味的多力多滋（Doritos），星巴克（Starbucks）則上架一系列「高蛋白」飲品。 現年25歲的建築設計協調員羅沃茨基（Carl... 繼續閱讀 Image caption 乳清蛋白過去視為製作起司的副產品，如今卻因社群媒體掀起的高蛋白飲食風潮，成為大受追捧的膳食補充品，而這股熱潮正大幅重塑美國乳業生態。 法新社報導，乳清蛋白（Whey protein）過去長期以混合粉形式添加於食品，或製成蛋白棒販售，如今已遍布美國超市多類商品，從早餐穀片、貝果、椒鹽脆餅到泡麵等產品都加入乳清蛋白。 一些大型食品品牌也搭上這股潮流，例如菲多利（Frito-Lay）推出「高蛋白納喬起司」（Protein Nacho Cheese）口味的多力多滋（Doritos），星巴克（Starbucks）則上架一系列「高蛋白」飲品。 現年25歲的建築設計協調員羅沃茨基（Carly Rowcotsky）告訴法新社：「7年前，很多人會為了訓練而攝取它，但現在我覺得它已非常普及。」 羅沃茨基一邊說，一邊喝下一杯亮粉紅色乳清蛋白飲，瓶身標示每份含有15公克蛋白質。她表示，她過著積極的生活型態，並攝取乳清蛋白，幫助自己在運動後修復肌肉。 她還說：「我沒有太多時間準備自己的餐點，因此有某種補充品可以攝取很方便。」 賓州州立大學（Penn State University）供應鏈管理教授尼柯森（Chuck Nicholson）指出，這股熱潮由多項因素推動。 尼柯森告訴法新社：「社群媒體確實促使許多人認為，蛋白質是一種非常健康的替代選項。」他提及，「蛋白質最大化」等飲食趨勢興起，許多網友試圖盡可能提高蛋白質攝取量，甚至到了過度攝取的地步。 此外，尼柯森還表示，美國對乳清蛋白及其他蛋白質補充品的需求「很大程度上受到GLP相關藥物，以及人們接受的飲食建議所帶動」。 （譯者：陳正健；首圖來源： Unsplash ） 延伸閱讀： 別被包裝騙了，美心臟科醫師破解三大「假面養生食物」 健康老化祕訣很簡單，研究：少吃一點 美國官方釋出 2026 新版飲食指南，強調原型食物至上",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "7516fa2e8d38a94cbe5ad438",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "國家住都中心董座花敬群：民眾黨團是不實指控、扭曲事實",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527803",
+      "published_at": "2026-08-04T03:20:05+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527803",
+      "text": "針對民眾黨黨團指控國家住都中心董事長花敬群圖利兆基一事，花敬群親上火線澄清，並直指民眾黨黨團是不實指控，甚至扭曲事實以及抹黑，並反問民眾黨黨團，兆基自包租代管第一期就是民...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "c824ceeb1c42cd4670c5fad9",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "474 GW 接電需求塞爆電網，德州出手嚴審資料中心",
+      "url": "https://technews.tw/2026/08/04/474-gw-power-demand-strains-grid-texas-strictly-reviews-ai-data-centers/",
+      "published_at": "2026-08-04T03:19:56+00:00",
+      "author": "蘇 子芸",
+      "external_id": "https://technews.tw/?p=1597083",
+      "text": "隨著 AI 資料中心用電需求快速攀升，美國德州開始收緊大型用電專案審查。德州州長 Greg Abbott 指示德州公共事業委員會（PUCT）及德州電力可靠性委員會（ERCOT），針對所有正在申請併入 ERCOT 電網的資料中心進行全面查核與審計，在審查完成前不得繼續推動；凡未符合規定的專案，將直接被拒絕接入德州電網。 Abbott 表示，保障德州居民的安全及生活品質是政府首要任務。目前 ERCOT 正受理約 474 GW 的新用電申請，規模已超過德州電網歷史最高尖峰用電需求的 5 倍以上，其中約 90% 來自資料中心。州政府認為，如此龐大的新增負載恐影響電網可靠性與供電穩定，因此要求所有... 繼續閱讀 Image caption 隨著 AI 資料中心用電需求快速攀升，美國德州開始收緊大型用電專案審查。德州州長 Greg Abbott 指示德州公共事業委員會（PUCT）及德州電力可靠性委員會（ERCOT），針對所有正在申請併入 ERCOT 電網的資料中心進行全面查核與審計，在審查完成前不得繼續推動；凡未符合規定的專案，將直接被拒絕接入德州電網。 Abbott 表示，保障德州居民的安全及生活品質是政府首要任務。目前 ERCOT 正受理約 474 GW 的新用電申請，規模已超過德州電網歷史最高尖峰用電需求的 5 倍以上，其中約 90% 來自資料中心。州政府認為，如此龐大的新增負載恐影響電網可靠性與供電穩定，因此要求所有資料中心在取得接電資格前，必須先完成全面查核。 根據 Abbott 要求，PUCT 與 ERCOT 將針對每一項資料中心計畫蒐集完整資訊，包括是否依賴州政府提供稅務優惠、補助或其他公共資金，以及是否自行負擔建設成本。此外，業者也須揭露供電規畫，包括預估年度及尖峰用電量、是否建置現場發電設備、採用何種發電方式，以及降低對 ERCOT 電網依賴的相關措施。 同時，政府也要求業者說明年度及尖峰用水需求、供水來源、採用的冷卻技術，以及噪音、光害、交通及緊急應變等社區影響，並揭露專案所有權及實際控制權。 近年 AI 帶動資料中心快速擴建，美國電力需求也持續上修。BloombergNEF 最新預估指出，到 2035 年，美國資料中心用電量將占全美總用電約 20%，總需求將達 194 GW，較目前約 5.9% 的占比大幅提升。另一方面，全球最大資料中心聚落北維吉尼亞日前因輸電線路異常，導致約 3 GW 的資料中心負載瞬間自公共電網切離。 市場認為，隨著 AI 算力需求持續成長，資料中心競爭已逐漸從晶片、土地及資金，延伸至電力供應、輸電能力及能源自主。若大型資料中心因電網審查、接電延後或能源基礎設施不足而延誤建置，不僅可能推升整體開發成本，也將影響 AI 算力如期部署及企業投資效益，進一步增加大型科技業者資本支出的不確定性。 （首圖來源： pixabay ） 延伸閱讀： AI 資料中心狂蓋像開新副本，居民先為生活成本買單 美國資料中心需求上修至 194 GW，2035 年將占全國 20% 用電 AI 的未來，會不會建立在更高的電力成本上？",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "3cdabc5a5b6af77034455491",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "安森美財報優、受惠 AI 資料中心需求 盤後勁揚",
+      "url": "https://finance.technews.tw/2026/08/04/on-semiconductor-beats-earnings-expectations/",
+      "published_at": "2026-08-04T03:10:46+00:00",
+      "author": "MoneyDJ",
+      "external_id": "https://technews.tw/?p=1597066",
+      "text": "美國功率半導體大廠安森美（ON Semiconductor）財報優於預期，受惠於 AI 資料中心對電源管理晶片需求的快速成長；盤後股價勁揚近 6%。 綜合外媒報導，安森美3日美股盤後公布，第二季營收年增9%至16.04億美元，優於分析師預估的15.89億美元；經調整每股盈餘74美分，同優於市場預期的71美分。自由現金流年增四倍至4.254億美元。 （Source：安森美） 財測方面，安森美預估第三季營收將介於16.5億至17.5億美元之間，中值高於市場預估的16.7億美元；預估經調整每股盈餘介於81~93美分，高於預期。 安森美執行長Hassane El-Khoury指... 繼續閱讀 Image caption 美國功率半導體大廠安森美（ON Semiconductor）財報優於預期，受惠於 AI 資料中心對電源管理晶片需求的快速成長；盤後股價勁揚近 6%。 綜合外媒報導，安森美3日美股盤後公布，第二季營收年增9%至16.04億美元，優於分析師預估的15.89億美元；經調整每股盈餘74美分，同優於市場預期的71美分。自由現金流年增四倍至4.254億美元。 （Source： 安森美 ） 財測方面，安森美預估第三季營收將介於16.5億至17.5億美元之間，中值高於市場預估的16.7億美元；預估經調整每股盈餘介於81~93美分，高於預期。 安森美執行長Hassane El-Khoury指出，AI資料中心仍是成長最快的業務，預估2026年來自資料中心的營收將較2025年的約2.5億美元翻倍成長，凸顯智慧電源產品組合的實力、客戶對AI伺服器電源樹（Power Tree）的採用提升。 安森美為全球領先的功率半導體與感測器供應商，產品廣泛應用於電動車、工業自動化、AI資料中心及能源基礎設施，近年積極布局AI伺服器電源管理市場，也受惠於AI基礎設施的投資。 安森美的長期核心業務仍以汽車及工業市場為主，汽車客戶營收占比超過五成。不過，近年AI資料中心對高效率電源管理晶片需求快速增加，使公司成功拓展新的高成長市場，降低對傳統終端市場的依賴。 分析人士預期，以安森美2026年全年營收約65億美元計算，AI資料中心業務占比可望提升至約8%，成為推升整體營運的重要引擎。 安森美7月宣布以70億美元併購人機介面與觸控板晶片大廠Synaptics，以強化在「實體人工智慧」（Physical AI）領域的戰略布局。消息宣布後股價一度修正，但之後反彈。 安森美股價3日收在80.40美元，年初迄今上漲近五成；財報公布後盤後上漲近6%。 （本文由 MoneyDJ新聞 授權轉載；首圖來源： 安森美 ） 延伸閱讀： 安森美攻實體 AI、砸 70 億美元併 Synaptics 盤後摔 安森美出售兩座工廠，超豐電子取得菲律賓廠",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "9f21cc6b375124b6414dcbf8",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "健信 公告本公司115年第二季合併財務報告董事會召開日期為115年08月12日",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=3b6a108e-09e9-4c14-941e-6c83d1e51237&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T03:05:00+00:00",
+      "author": "",
+      "external_id": "3b6a108e-09e9-4c14-941e-6c83d1e51237",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "5445a1f39c0701bf90ee1818",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "韓國名校畢業生求職碰壁，轉而赴日就業找出路",
+      "url": "https://finance.technews.tw/2026/08/04/korean-elite-graduates-job-hunt-struggles-turn-japan-employment/",
+      "published_at": "2026-08-04T03:00:37+00:00",
+      "author": "中央社",
+      "external_id": "https://technews.tw/?p=1597094",
+      "text": "日本創業家春日井萌（Moe Kasugai）當年就讀首爾延世大學（Yonsei University）時，發現在這所韓國聲譽卓著的大學中，即使是一些天資聰穎的畢業生，有時也難以找到工作。 因此，她於2019年推出一項服務，協助韓國求職者與日本企業媒合。 春日井萌成立的新創公司KOREC，上月在首爾舉行為期兩天的就業博覽會。現年35歲的春日井萌說：「他們那麼聰明，卻找不到工作，這讓我很驚訝。許多人還會說日語，因此我想，他們去日本發展可能還比較好。我希望能幫他們一把。」 路透社報導，韓國青年面臨理想基層職缺長期短缺現象，因為諸如三星（Samsung）等企業傾向雇用有經驗的員工，許... 繼續閱讀 Image caption 日本創業家春日井萌（Moe Kasugai）當年就讀首爾延世大學（Yonsei University）時，發現在這所韓國聲譽卓著的大學中，即使是一些天資聰穎的畢業生，有時也難以找到工作。 因此，她於2019年推出一項服務，協助韓國求職者與日本企業媒合。 春日井萌成立的新創公司KOREC，上月在首爾舉行為期兩天的就業博覽會。現年35歲的春日井萌說：「他們那麼聰明，卻找不到工作，這讓我很驚訝。許多人還會說日語，因此我想，他們去日本發展可能還比較好。我希望能幫他們一把。」 路透社報導，韓國青年面臨理想基層職缺長期短缺現象，因為諸如三星（Samsung）等企業傾向雇用有經驗的員工，許多年長員工也仍待在崗位上。與此同時，在人口老化的日本，企業難以招募到足夠新血，填補針對社會新鮮人所設、提供結構化培訓的就職方案職缺。 儘管韓國現在的平均薪資略高過日本，專注於科技人才媒合的韓國Wanted Lab與日本LAPRAS，今年加入較早進入市場的Mynavi行列，推出類似KOREC的服務，顯示這類需求日益增加。 韓國首都首爾今年也舉辦至少三場以日本為主的就業博覽會，參與徵才的企業包括佳能影像系統（Canon Imaging Systems）與工業自動化集團阿自倍爾株式會社（Azbil）。根據最新的6月月度數據，韓國的青年失業率達7.0%，日本整體失業率則為2.5%。 根據韓國勞動研究院（Korea Labor Institute）資料，日本持有工作簽證的外籍人士中，多數從事藍領，但日本就職的8萬多名韓國人，任職零售、資訊科技與遊戲開發等領域的專業職位。 韓國人力資源開發院（Human Resources Development Service of Korea）資料顯示，去年有2,257名韓國青年透過政府支持的計畫前往日本就業，比2024年成長47%，使日本成為他們海外工作的首選。赴美工作的比率則減少29%。 韓國人才填補日本人力缺口 儘管這兩個民主國家有時關係緊張，主要源於日本過去對韓國的殖民統治，但雙方關係日益密切的現象，不僅限於就業領域。 根據韓國統計局數據，2025年，韓國男性與日本女性結婚的件數比去年增加26%，達到2020年的兩倍；儘管整體國際結婚市場維持平穩，韓國女性與日本男性結婚的件數也增加29%。 今年造訪日本的韓國人數創紀錄新高，現在成為日本最大的入境旅客來源。 KOREC舉辦的博覽會吸引100名求職者參與，當時參加的大學生金詩賢（Kim Si-hyeon，音譯）說：「在我認識想在日本求職的朋友中，大多數早就對在日本生活抱有興趣。」許多人跟金詩賢一樣，都被日本企業提供的在職培訓前景吸引，而韓國企業通常不會向應屆畢業生提供這類計畫。 就讀東國大學（Dongguk University）日文系四年級的金詩賢說：「韓國企業通常偏好有經驗的員工，而日本企業還是會招募新鮮人。」她補充說，她正在尋找資訊科技或人工智慧（AI）領域的工作。 韓國外國語大學（Hankuk University of Foreign Studies）教授李昌敏（Lee Chang-min，音譯）表示，韓國勞動力對日本企業特別具有吸引力。他說：「就語言與文化而言，韓國應徵者的素質高出得多。能達到實際工作所需日語水準的外國應徵者並不多。」 日本顧問公司Energize負責人服部智也（Tomoya Hattori）表示，他並不特別在意招募對象的國籍，但他認為韓國求職者展現的競爭力、速度與勤奮精神具有吸引力。 日企留才挑戰多 然而，招募外國人才也對日本企業帶來挑戰。KOREC的春日井萌表示，許多韓國人為了追求職涯發展與更優渥的薪水，傾向跳槽，這對習慣於終身雇用的日本企業而言，構成留住人才的問題。 她說：「這對日本企業來說確實是一大障礙。然而，近年來日本年輕人跳槽的情況變得日益普遍，因此我覺得日本企業的觀念最終會有所調整。」 李昌敏教授表示，如果培訓時間很長、在公司狹隘的職務範圍外發揮長才的機會有限、升職速度又緩慢，外籍員工離職的風險就會特別高。 （編譯：張曉雯；首圖來源： Unsplash ） 延伸閱讀： SK 海力士大舉招募數百名晶片設計人才！韓業界憂形成「人才黑洞」 90 萬美元天價獎金背後，AI 晶片狂熱加劇韓國「K 型」貧富鴻溝",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "0731a631d396738cc54266d4",
+      "source_type": "youtube",
+      "source_name": "TVBS財經",
+      "title": "外資淨空單破9萬口...台股8月怎走?不甩韓股!聯發科.國巨.華邦電漲停20260803｜主播#張蕙纖 分析師#吳岳展｜T台最錢線 PODCAST｜【#TVBS財經 X #TVBS新聞】",
+      "url": "https://www.youtube.com/watch?v=WuJ5Tt5Ca_k",
+      "published_at": "2026-08-04T03:00:12+00:00",
+      "author": "TVBS財經",
+      "external_id": "WuJ5Tt5Ca_k",
+      "text": "台北股市籌碼面出現重大警訊！根據最新三大法人籌碼變化數據顯示，外資於台指期佈局避險空單力道持續加碼，單日大舉加碼 7523 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "57c39a8625a75dc0881a6d5a",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "波音釋長期展望，看好市場成長與持續換機需求",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=ef771d75-8bde-495f-ab2a-6666aebb5dff&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:59:00+00:00",
+      "author": "",
+      "external_id": "ef771d75-8bde-495f-ab2a-6666aebb5dff",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "466526bf668fa293a1b88395",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "宏太-KY第二季合併財報，預計8/12提報董事會",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=10b5b5bc-18d8-496d-8e68-a1790507173f&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:58:00+00:00",
+      "author": "",
+      "external_id": "10b5b5bc-18d8-496d-8e68-a1790507173f",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "729c3696a89bd74250f833fc",
+      "source_type": "youtube",
+      "source_name": "USTV 非凡電視",
+      "title": "台股變革!處置天數10天變5天 撮合統一2分鐘  處置期全面縮短 高當沖比防投機12天減為7天｜非凡財經新聞｜20260803 #shorts",
+      "url": "https://www.youtube.com/watch?v=bJVhYPy66FI",
+      "published_at": "2026-08-04T02:57:50+00:00",
+      "author": "USTV 非凡電視",
+      "external_id": "bJVhYPy66FI",
+      "text": "台股 #處置期 #變革 ※下載非凡新聞ＡＰＰ看更多：https://reurl.cc/jr7A5p ※下載非凡商業ＡＰＰ學理財：https://reurl.cc/oYLj9j 更多 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "3f4b8c8416b6c4812708e467",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "TPU 晶片銷售落後輝達，巴克萊看好 Google 攜博通可望創造 2,520 億美元商機",
+      "url": "https://technews.tw/2026/08/04/barclays-see-google-tpu/",
+      "published_at": "2026-08-04T02:56:47+00:00",
+      "author": "林 妤柔",
+      "external_id": "https://technews.tw/?p=1597139",
+      "text": "巴克萊銀行（Barclays）最新報告指出，Google 若調整其 AI 晶片業務模式，TPU 未來最高可望創造 2,520 億美元營收。該銀行認為，TPU 作為目前業界最廣泛使用的客製化 AI 晶片之一，若 Google 與資產管理公司黑石集團、Apollo Global 及晶片設計公司博通合作成立合資企業，有望進一步擴大 TPU 生態系。 目前 Google 不像輝達直接將 AI 晶片銷售給 CoreWeave 等資料中心業者，而是透過 Google Cloud 提供 TPU 運算服務。根據 Google 第二季財報顯示，Google Cloud 營收年增 82%，達 248 億美元。 ... 繼續閱讀 Image caption 巴克萊銀行（ Barclays ）最新報告指出， Google 若調整其 AI 晶片業務模式， TPU 未來最高可望創造 2,520 億美元營收。該銀行認為， TPU 作為目前業界最廣泛使用的客製化 AI 晶片之一，若 Google 與資產管理公司黑石集團、 Apollo Global 及晶片設計公司博通合作成立合資企業，有望進一步擴大 TPU 生態系。 目前 Google 不像輝達直接將 AI 晶片銷售給 CoreWeave 等資料中心業者，而是透過 Google Cloud 提供 TPU 運算服務。根據 Google 第二季財報顯示， Google Cloud 營收年增 82% ，達 248 億美元。 Barclays believes Google can generate $252.7 billion in sales of TPU externally in 2028 by shifting TPUs from internal GCP rentals to an off-platform merchant model, backed by JVs with Blackstone and Broadcom scaling past 11 GW. External ASP would grow from $20,000 in 2026 to… pic.twitter.com/6aXSVbxAHA — P Equity Research 📰 (@pequityresearch) August 2, 2026 事實上，在 ChatGPT 問世前， Google 已率先布局 AI 運算基礎設施。 Google 自 2015 年開始導入自研 TPU ，較亞馬遜提早約三年投入相關發展，並於 2018 年正式對外開放 TPU 服務。投資機構 D.A. Davidson 去年 9 月曾指出， Google TPU 業務未來潛在價值可達 9,000 億美元。 巴克萊最新報告指出，若 Google 將 TPU 業務從 Google Cloud 轉型為非平台商業模式， 2028 年最高可創造 2,520 億美元營收。不過這種模式需要 Google 與 Apollo Global 、黑石集團及客製化 AI 晶片設計商博通成立合資公司，透過外部資本共同建置 TPU 基礎設施，再由合資企業向市場提供 AI 運算服務。 巴克萊估算，若此模式全面推進， Google 屆時可部署約 11.5GW （吉瓦）的 TPU 運算容量，支撐上述營收規模（以 2028 年為基準預估）。 Google 於 5 月宣布與黑石集團合作，利用 TPU 提供「運算即服務」（ CaaS ）。 巴克萊也認為， Google 與 Apollo 、黑石集團的合作將成為推動 TPU 業務成長的主要動能。博通 6 月聯手 Apollo 與黑石集團成立規模高達 350 億美元的 AI 基礎設施投資平台，用於部署 Google TPU 。巴克萊預期，該合作年底可望為 Google 貢獻約 200 億美元營收，隨著 TPU 部署容量於 2027 年擴增至 3.2GW ，相關營收可望進一步提升至 670 億美元。 Google Trails NVIDIA in AI Chip Sales, yet a Broadcom-Backed Pivot Could Unlock $252 Billion （首圖來源： Unsplash ） 延伸閱讀： 晶片股槓桿交易火熱！SK 海力士、美光、輝達成 ETF 吸金王 駁 AI 供應鏈瓶頸疑慮！蔡司強調產能充足、與 ASML 技術藍圖規畫至 2040 年",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "44fb4b276294c9ecdfe1a105",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "傳三星縮減陸手機市場布局 關閉銷售未達標門市",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=c96873f8-3271-4d0b-a6e1-936255eccd50&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:56:00+00:00",
+      "author": "",
+      "external_id": "c96873f8-3271-4d0b-a6e1-936255eccd50",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "bdd5a41aa28de5794ae04878",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "焦點股》環球晶：法說前買盤湧入 強攻漲停",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527768",
+      "published_at": "2026-08-04T02:54:22+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527768",
+      "text": "矽晶圓大廠環球晶（6488）今（4）日下午將召開法說會，法說會前買盤積極湧入，股價開高走高，早盤攻上漲停價952元，截至上午10時18分仍緊鎖漲停，成交量7259張，漲停...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b78b003939d833b0600ef876",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "AI 算力需求強勁，輝達 A100 至 B200 租賃價格全面走高",
+      "url": "https://finance.technews.tw/2026/08/04/nvidia-a100-h100-and-h200-gpu-rental-rates-continue-to-price-upwards/",
+      "published_at": "2026-08-04T02:50:43+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1597132",
+      "text": "AI 基礎設施持續擴張，NVIDIA 多款 GPU 的租賃價格近期不但沒有因新供應增加而下滑，反而多個世代同步上揚。最新市場資料顯示，H100、H200 與 B200 的每小時租金都較先前走高，連較舊的 A100 也維持上行，顯示市場對 AI 算力的需求仍然強勁。 根據 Silicon Data 與多份雲端 GPU 價格追蹤資料，H100 在 2026 年 1 月時每小時租金還略低於 2 美元，如今已升至 2 美元以上，並接近 3 美元；H200 則從年初的較低水準攀升至約 5.50 至 5.80 美元區間。B200 的租金也從 1 月時略低於 5 美元，推升至約 5.50 至 5.80... 繼續閱讀 Image caption AI 基礎設施持續擴張，NVIDIA 多款 GPU 的租賃價格近期不但沒有因新供應增加而下滑，反而多個世代同步上揚。最新市場資料顯示，H100、H200 與 B200 的每小時租金都較先前走高，連較舊的 A100 也維持上行，顯示市場對 AI 算力的需求仍然強勁。 根據 Silicon Data 與多份雲端 GPU 價格追蹤資料，H100 在 2026 年 1 月時每小時租金還略低於 2 美元，如今已升至 2 美元以上，並接近 3 美元；H200 則從年初的較低水準攀升至約 5.50 至 5.80 美元區間。B200 的租金也從 1 月時略低於 5 美元，推升至約 5.50 至 5.80 美元。另有市場快照顯示，H100 SXM 的中位數按需價格約為 3.47 美元，H200 SXM 約為 4.56 美元，A100 80GB PCIe 則約為 1.44 美元，反映不同世代 GPU 仍各自維持一定租賃價值。 這波價格走勢也牽動市場對 GPU 折舊年限的看法。外界長期爭論 AI GPU 究竟應採三年折舊，還是更長的使用年限；如今租金持續走高，支持較長使用壽命的觀點似乎更站得住腳。對超大規模雲端業者而言，若能延長 GPU 資產的估計使用年限，年度折舊費用就可能下降，進而對獲利形成支撐。 市場分析同時指出，價格上升不一定代表供給短缺加劇，也可能與模型推理效率提升有關。當同樣的硬體能服務更多 token 時，單位節點的經濟價值就會提高，進一步支撐 GPU 租金。另一方面，資料中心新算力的交付週期仍長，新增容量未必能立即緩解需求壓力，讓雲端 GPU 價格在不同供應商與合約型態之間維持明顯差距。 What GPU Depreciation? NVIDIA A100, H100, And H200 GPU Rental Rates Continue To Price Upwards, As B200s Hover At Just Shy Of $6/Hour The GPU Daily, 2 August 2026: H100 pricing, OpenAI, Jensen Huang GPU Cloud Pricing Comparison 2026 — 57 GPUs, 34+ Providers, Live GPU Rental Rates — Daily H100, H200, B200 Price Benchmark GPU Rental Prices & Availability — Real-Time Tracking CCIR — Compute Credit Index Research （首圖來源：輝達）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "b8ac94d6a066a9630bcfe9da",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "力積電爆量漲停！市場聚焦下午營運說明 網喊：絕地逢生",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527762",
+      "published_at": "2026-08-04T02:50:04+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527762",
+      "text": "〔財經頻道／綜合報導〕晶圓代工廠力積電（6770）今（4日）股價開高走強，以55元開出、上漲0.3元，隨後買盤快速湧入，約上午9時54分攻上漲停鎖死。截至上午10時40分，成交量已突破14.5萬...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "800acbfd2a1b44a53ff8bbd6",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "宏太-KY 公告本公司115年第二季合併財務報告董事會召開日期",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=a0ccdb3a-d7b0-41c2-a3b8-e9c45de16a78&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:50:00+00:00",
+      "author": "",
+      "external_id": "a0ccdb3a-d7b0-41c2-a3b8-e9c45de16a78",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "a43aff791fe66562f3b08ec0",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "旺矽Q2獲利戰高 下半年動能更強",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=1ec734e4-24ba-4d52-80a0-9f158e077fd6&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:48:00+00:00",
+      "author": "",
+      "external_id": "1ec734e4-24ba-4d52-80a0-9f158e077fd6",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "2a58f05455b86f82c9edb4ea",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "國家住都中心：兆基自柯市府就是台北市主要合作對象",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527756",
+      "published_at": "2026-08-04T02:47:53+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527756",
+      "text": "針對民眾黨黨團指控國家住都中心董事長花敬群與兆基前董事長李建成交情好，甚至直指國家住都中心圖利，對此，國家住都中心今發聲明表示，兆基屋管主要承接六都的社會住宅包租代管案件...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b5c0668fbbb03c606a97dd2b",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "億光美國控告日亞化侵權，強化智慧財產權",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=6b053ecd-5e61-4903-8af4-ba6f1dde88f9&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:47:00+00:00",
+      "author": "",
+      "external_id": "6b053ecd-5e61-4903-8af4-ba6f1dde88f9",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "ab5fc0be4df4efd739cfd9bc",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "焦點股》技嘉：H2優於H1 帶量奮起",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527754",
+      "published_at": "2026-08-04T02:46:59+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527754",
+      "text": "顯卡大廠技嘉（2376）受惠於旗下AI伺服器業務展望強勁，管理層看好下半年營運表現將優於上半年，激勵股價士氣，今日在買盤點火之下，技嘉開低走高，股價高低振幅逾5.5%；截...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "1517fa923dddcc830e6888e8",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "外資急撤出！美私募基金5折拋售中國商辦 謝金河再曝1趨勢",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527608",
+      "published_at": "2026-08-04T02:46:23+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527608",
+      "text": "財信傳媒集團董事長謝金河指出，外資私募基金與地產投資管理公司，正尋求以大幅折價出售在中國的商業房地產，隨後再買進日本標的，正好和1990年日本泡沫經濟情況相反，是「騰籠換鳥的新動...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "094a1a26b0c977cde7d57f8e",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "信錦Q2本業估為谷底，LEO支架新單Q4出貨",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=1e1cf259-6051-4fdf-9835-01bd2876e066&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:45:00+00:00",
+      "author": "",
+      "external_id": "1e1cf259-6051-4fdf-9835-01bd2876e066",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "30dc0fdcacb59b2a90a83565",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "焦點股》台燿：銅箔基板持續調漲 連拉3根漲停",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527750",
+      "published_at": "2026-08-04T02:44:09+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527750",
+      "text": "銅箔基板（CCL）廠台燿（6274）受惠高階銅箔出貨比重拉高，獲利連續4季創下新高，為因應客戶需求，台燿擴大資本支出，後市受到內外資一致看好，台燿股價今日再拉出第3根漲停...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "a4e7a3fa2ad8ba9f0a19ee35",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "擷發科AIVO視覺平台拓7大應用 從半導體到智慧交通",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=d00391de-a883-4922-9248-6aeab1d9ede8&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:44:00+00:00",
+      "author": "",
+      "external_id": "d00391de-a883-4922-9248-6aeab1d9ede8",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b524a2d585527c0b5be0e6ee",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "陸十五五電力規劃，2030年初步建成新型電力系統",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=7e4a7125-4f54-40c8-b44f-e30b15f98841&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:44:00+00:00",
+      "author": "",
+      "external_id": "7e4a7125-4f54-40c8-b44f-e30b15f98841",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "fc8fef7a01c33e923fa9c31d",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "富邦金六度發布TCFD報告書 再獲BSI最高肯定",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=205fb2b6-ab76-4ee8-813d-559f97b79839&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:43:00+00:00",
+      "author": "",
+      "external_id": "205fb2b6-ab76-4ee8-813d-559f97b79839",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "7476ed7dc9331e5a436f265f",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "千附精密量子電腦Q3續出貨，H2毛利率目標看30%",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=d0b2870c-f3b1-4b08-b2e6-e1af479792e4&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:41:00+00:00",
+      "author": "",
+      "external_id": "d0b2870c-f3b1-4b08-b2e6-e1af479792e4",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "0a0601a49983c9efcd41cc91",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "《日股早盤》部分半導體軟、日經跌421點 鎧俠漲",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=a7c96601-a783-447a-85d9-84524884bdee&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:41:00+00:00",
+      "author": "",
+      "external_id": "a7c96601-a783-447a-85d9-84524884bdee",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b368356a84ef4869dca8839f",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "馬斯克德州晶片廠施工加速，ATCF 空拍曝光地基工程已成形",
+      "url": "https://finance.technews.tw/2026/08/04/drone-flyover-reveals-rapid-progress-at-elon-musks-new-atcf-chip-fab/",
+      "published_at": "2026-08-04T02:40:08+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1597087",
+      "text": "特斯拉與 SpaceX 的德州「先進技術晶片製造廠」（Advanced Technology Chip Fab，ATCF）近日透過無人機空拍畫面顯示出更明顯的施工進展。長期追蹤 Giga Texas 與 Starbase 工程的無人機攝影師 Joe Tegtmeyer 在社群平台分享影像，這座今年 3 月 21 日才宣布的新晶片廠，短短數月內已從整地階段快速推進，最新進度甚至形容為「又加速一檔」。 從 7 月下旬更新可見，ATCF 目前最明顯的變化集中主體基礎工程，整體輪廓已相當清楚，且基礎結構正向南側延伸。Tegtmeyer 指出，部分區域已鋪上碎石混合層，地基 GeoPiers 工程... 繼續閱讀 Image caption 特斯拉與 SpaceX 的德州「先進技術晶片製造廠」（Advanced Technology Chip Fab，ATCF）近日透過無人機空拍畫面顯示出更明顯的施工進展。長期追蹤 Giga Texas 與 Starbase 工程的無人機攝影師 Joe Tegtmeyer 在社群平台分享影像，這座今年 3 月 21 日才宣布的新晶片廠，短短數月內已從整地階段快速推進，最新進度甚至形容為「又加速一檔」。 從 7 月下旬更新可見，ATCF 目前最明顯的變化集中主體基礎工程，整體輪廓已相當清楚，且基礎結構正向南側延伸。Tegtmeyer 指出，部分區域已鋪上碎石混合層，地基 GeoPiers 工程也在同步進行，南端還有整地作業。幾天後他再度表示，現場不僅建築形狀愈來愈明確，施工材料也持續堆放，顯示工程節奏正在加速。 How does the Advanced Technology Chip fab (joint venture between @Tesla and @SpaceX ) look today? Most of the progress is on the main foundation which for now appears rectangular, GeoPiers are at work on the part of the foundation that has had gravel mix placed on the top soil and… pic.twitter.com/bCGjveCqIp — Joe Tegtmeyer 🚀 🤠🛸😎 (@JoeTegtmeyer) July 22, 2026 Tegtmeyer 提到，近幾天內又有四項新許可申請送件，內容涉及容納總承包商與臨時特斯拉辦公室的大型拖車區。這或為後續設備進場與內部配置準備的重要訊號，代表工地後端作業也在進行。 ATCF 是特斯拉與 SpaceX 的合資設施，定位為整體 AI 晶片開發計畫的前段開發基地，並非將在德州格萊姆斯郡興建的更大型 Terafab。外界預估，ATCF 將把邏輯、記憶體與先進封裝整合至同屋簷下，支援特斯拉電動車、Robotaxi、Optimus 機器人，以及地球軌道 AI 資料中心的晶片需求。 此計畫也反映馬斯克旗下企業持續擴張德州經濟規模。補充資訊指出，特斯拉、SpaceX 與 xAI 推動 Terafab 構想，並在德州中部帶動更大的半導體與製造布局；德州中部經濟成長，也部分受惠這些馬斯克系企業擴張。 Drone flyover reveals rapid progress at Elon Musk’s new ATCF chip fab — Texas site prepares for all-in-one logic, memory, and packaging facility Austin could gain 40,000 aerospace and defense jobs in coming years （首圖來源： SpaceX ）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "bc0803a336c17172ff95d034",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "錸德 公告本公司115年第二季財務報告董事會預計召開日期為115年8月12日",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=f7c48c31-b0d0-4100-aa5f-e819abea3765&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:40:00+00:00",
+      "author": "",
+      "external_id": "f7c48c31-b0d0-4100-aa5f-e819abea3765",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "576e2c9baf499513c0de63b0",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "焦點股》華新科：第2季EPS創19季新高 甫出關一度亮燈",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527745",
+      "published_at": "2026-08-04T02:38:48+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527745",
+      "text": "被動元件二哥華新科（2492）今日甫從處置股票出關，早盤股價一度直奔漲停263元，截至10:18分為止，股價上漲20元、暫報259.5元，成交量約2.2萬張。 華新科...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "6158d482f17143d260d48a37",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "Hugging Face：中國在AI競賽領先 開放模型居​​主導地位",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=4baadd84-95dd-47b3-8373-bc63a73cccc1&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:38:00+00:00",
+      "author": "",
+      "external_id": "4baadd84-95dd-47b3-8373-bc63a73cccc1",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "b29ac28b2ddbdf7480b46fcc",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "北美水電通路龍頭Ferguson躋身標普500 股價揚",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=1f51bcd9-7770-4d83-aaeb-bd557891b6ab&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:38:00+00:00",
+      "author": "",
+      "external_id": "1f51bcd9-7770-4d83-aaeb-bd557891b6ab",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "cf4c1863286eb3c050d9bc86",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "全家餐飲上半年每股賺4.15元 創歷史新高",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527739",
+      "published_at": "2026-08-04T02:36:57+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527739",
+      "text": "全家國際餐飲（7708）公佈第二季合併營收為7.46億元，季增3.5%、年增13.44%，稅後淨利0.56億元，季增16.3%、年增44.76%。 累計上半年合併營收...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "f79e1c68a2f698c0d97cd32b",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "熊本地震重創日本車企！日產預估減產5千輛 3大車廠延長停產1次看",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527602",
+      "published_at": "2026-08-04T02:35:15+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527602",
+      "text": "〔財經頻道／綜合報導〕熊本地震引發的零件供應中斷危機持續擴大，導致日本多家知名汽車製造商面臨嚴峻的產能考驗，包含本田、日產及豐田在內的車企紛紛宣布延長或擴大旗下工廠的停產計畫，其中日產汽車預估這...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "e6afc9a75b490ce50fc82416",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "台美集保結算機構深化合作 強化複委託交割安全",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527731",
+      "published_at": "2026-08-04T02:34:09+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527731",
+      "text": "因應國人投資美國證券規模持續成長，以及美國市場加速推動延長交易時間，集保結算所7月28日由董事長林丙輝率團，偕同富邦證券、永豐金證券等國內主要複委託證券商，拜會美國證券集...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "991f6eb199919b5eb7bc9c45",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "台燿Q2獲利創高 Q3迎漲價、泰國新產能成長動能",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=aed656a1-7273-464c-85d9-109ff3f121f7&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:33:00+00:00",
+      "author": "",
+      "external_id": "aed656a1-7273-464c-85d9-109ff3f121f7",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "abf3c1b059f91dd1ab912694",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "Seagate看旺HAMR發展，全新卡位高密度儲存商機",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=c4cce404-cd68-4f15-a879-87568b6474f0&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:32:00+00:00",
+      "author": "",
+      "external_id": "c4cce404-cd68-4f15-a879-87568b6474f0",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "f6242f3c979ff7064f561ad5",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "AI 失控風波，白宮召四大科技巨頭談資安測試",
+      "url": "https://infosecu.technews.tw/2026/08/04/white-house-summons-four-tech-giants-security-testing-ai-control-controversy/",
+      "published_at": "2026-08-04T02:30:40+00:00",
+      "author": "中央社",
+      "external_id": "https://technews.tw/?p=1597088",
+      "text": "據媒體報導與知情人士透露，白宮已邀請 Meta、Anthropic、OpenAI 及 Google 等四大科技巨頭於 4 日舉行閉門會議，共商針對美國先進 AI 模型所訂的「政府自願性資安測試」。 路透社報導，此舉背後反映出美國政府對人工智慧（AI）技術失控的深切疑慮。Anthropic與OpenAI近日相繼證實，旗下AI工具在測試過程中竟「自動入侵」其他公司的系統。這讓美國國會議員大為緊張，擔憂日益強大的AI系統恐遭濫用，甚至被轉化為發動或輔助網路攻擊的武器。 一名白宮官員今天證實，川普政府已敲定這套「自願性資安測試」的最終細節，目的是評估美國最頂尖AI模型的「駭客與潛入能力」，... 繼續閱讀 Image caption 據媒體報導與知情人士透露，白宮已邀請 Meta、Anthropic、OpenAI 及 Google 等四大科技巨頭於 4 日舉行閉門會議，共商針對美國先進 AI 模型所訂的「政府自願性資安測試」。 路透社報導，此舉背後反映出美國政府對人工智慧（AI）技術失控的深切疑慮。Anthropic與OpenAI近日相繼證實，旗下AI工具在測試過程中竟「自動入侵」其他公司的系統。這讓美國國會議員大為緊張，擔憂日益強大的AI系統恐遭濫用，甚至被轉化為發動或輔助網路攻擊的武器。 一名白宮官員今天證實，川普政府已敲定這套「自願性資安測試」的最終細節，目的是評估美國最頂尖AI模型的「駭客與潛入能力」，並準備與產業界展開協商。不過白宮並未透露具體與會者名單，也沒說測試評估指標、結果通報機制，以及相關數據是否對外公開。 科技媒體The Information指出，川普政府已向OpenAI和Google遞出邀請函。Meta發言人則向外界證實已收到邀請，知情人士另透露Anthropic也在受邀之列。 當前這波AI資安風暴正持續擴大。由15名共和黨籍州檢察長組成的聯合小組今向OpenAI發出存證信函，要求業者妥善保存所有相關文件。此前，OpenAI曾公開承認旗下AI系統「突破防護隔離」，自動駭入AI平台Hugging Face的系統。 檢察長們引述早先報導指出，這個失控的AI代理程式（AI agent）甚至還留下詳細筆記，教導未來的AI衍生版本如何繞過內部的安全防線。檢察長們警告，OpenAI此舉恐已觸犯各州的消費者保護法。 為平息這場危機，OpenAI執行長阿特曼（Sam Altman）上週親訪白宮，與官員討論自願測試細節和即將發布的新產品。OpenAI今天更發布聲明，呼籲川普政府應將商務部的AI安全專家擺在資安測試的核心位置；OpenAI並提到中國，強調中國政府在AI發展上的策略較美國更為統一與集中。 美國總統川普早在今年6月便下令幕僚擬定一系列測試，以實測美國最頂尖AI系統的實戰駭客能力。 不過川普政府與Anthropic的關係向來緊張。Anthropic今年稍早曾明確拒絕美軍拿公司的AI模型用於「國內監控」與「全自動武器系統」，之後便遭美國政府列入國安黑名單報復。 然而，Anthropic上週也坦承，部分自家AI模型在內部資安測試時，意外入侵3家其他公司的系統；美國兩大AI大廠相繼爆出AI脫序事件，也讓白宮這場資安大會備受全球矚目。 （譯者：陳亦偉；首圖來源： Unsplash ） 延伸閱讀： AI 模型自動發起網攻，法律責任歸屬成新難題 AI 越界意外頻傳，OpenAI 前董事籲業者提高透明度 AI 失控網攻引憂，川普：評估管制措施但不想限制",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "b573cfb50131d9bef9f4f9cd",
+      "source_type": "youtube",
+      "source_name": "TVBS財經",
+      "title": "台股逆勢收紅 外資賣超加空單要小心了? 7月劇烈修正杜金龍曝3止跌訊號浮現 20260803｜主播#王馨儀 ｜1700最錢線新聞 PODCAST｜【#TVBS財經 X #TVBS新聞】",
+      "url": "https://www.youtube.com/watch?v=ujq2Xzem8vg",
+      "published_at": "2026-08-04T02:30:25+00:00",
+      "author": "TVBS財經",
+      "external_id": "ujq2Xzem8vg",
+      "text": "快來加入金選情報員跟鈔能情報員的行列➔https://bit.ly/42tIcCJ ✓《財經鈔能力》完整版財富自由快來這取經➔https://bit.ly/4efbDMH ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "fbf21e2c0e31b46be9c47d4d",
+      "source_type": "youtube",
+      "source_name": "三立財經iNEWS",
+      "title": "【#盤中解析】台股大漲後再測4萬3！外資空單創高不用怕？分析師提醒漲多別追、跌深別亂賣｜三立財經iNEWS",
+      "url": "https://www.youtube.com/watch?v=xyWXNLfXAVA",
+      "published_at": "2026-08-04T02:30:06+00:00",
+      "author": "三立財經iNEWS",
+      "external_id": "xyWXNLfXAVA",
+      "text": "台股 #台積電 #聯發科 #外資空單 #ABF載板 #記憶體 #華邦電 #力積電 #處置股 #證交所 #台股反彈 掌握世界脈動、理財大小事， ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "3d4e0cfc272a1ab6cf043832",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "5-6月統一發票 千萬特別獎開出18張、200萬特獎22張",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527618",
+      "published_at": "2026-08-04T02:30:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527618",
+      "text": "財政部今天下午將公布5-6月期統一發票中獎清冊，根據財政部統計，本期1000萬元特別獎開出18張、200萬特獎開出22張。其中，有位幸運兒在萊爾富新北市石門海角店花49元...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "123aee6cb48c8a3a940e7b70",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "你有錢養老嗎？最新退休金門檻曝光",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527712",
+      "published_at": "2026-08-04T02:26:45+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527712",
+      "text": "〔財經頻道／綜合報導〕退休到底要準備多少錢才夠？最新調查顯示，想要安心退休，平均需要準備約146萬美元（約新台幣4374萬元），比去年增加20萬美元（約新台幣648萬元）。不過，專家提醒，退休規...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "7f769970213891e34c556593",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "74歲阿北退休好崩潰！月領2萬連半價便當都買不起",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527682",
+      "published_at": "2026-08-04T02:26:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527682",
+      "text": "〔財經頻道／綜合報導〕74歲的重信（化名）退休後每月僅靠約10萬日圓（約新台幣2萬元）年金生活，扣掉房租和水電等固定開銷後，剩下的錢不到3.5萬日圓（約新台幣7193元），必須支付整個月的餐費、...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "0a40eece1e4c844647c55046",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "數發部攜5大業者推「詐騙網站即時警示」 民眾誤點詐騙網址第一時間攔阻",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527719",
+      "published_at": "2026-08-04T02:25:20+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527719",
+      "text": "為強化網路防詐能力，數位發展部攜手中華電信、台灣大哥大、遠傳電信、趨勢科技及走著瞧（Gogolook）等五大產業夥伴，正式推出「詐騙網站即時警示機制」，並於即日起上線，透...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "16c868ecb37c365d1477034a",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "優盛 115年第2季綜合損益表，每股虧損0.20元",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=76af0e63-02e0-44c7-bd9b-9b10a18c198d&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:25:00+00:00",
+      "author": "",
+      "external_id": "76af0e63-02e0-44c7-bd9b-9b10a18c198d",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "18472d2c92a19ba63429c3d1",
+      "source_type": "rss",
+      "source_name": "MoneyDJ 理財網",
+      "title": "聯致 115年上半年度綜合損益表，每股盈餘0.02元",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=a0343440-3acc-487d-8ade-2625499ca904&utm_source=96681857963718571866665768&utm_medium=RSS",
+      "published_at": "2026-08-04T02:25:00+00:00",
+      "author": "",
+      "external_id": "a0343440-3acc-487d-8ade-2625499ca904",
+      "text": "內文連結",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "cc128ee5983b19f1fd973198",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "烏克蘭猛攻俄最大電商倉庫，戰火逼近俄國民眾生活",
+      "url": "https://technews.tw/2026/08/04/ukraine-attacks-russia-largest-ecommerce-warehouse-war-nears-russian-citizens/",
+      "published_at": "2026-08-04T02:20:07+00:00",
+      "author": "中央社",
+      "external_id": "https://technews.tw/?p=1597072",
+      "text": "俄羅斯最大電商「野莓」夜間再度淪為烏克蘭襲擊目標，該公司位於伏拉迪米爾州的一處倉庫遭無人機攻擊起火。BBC 說明野莓公司為何被盯上，以及烏方攻擊的後續效應。 最近幾週，烏克蘭接連襲擊野莓（Wildberries）多處物流樞紐，並稱這些地點是合理攻擊目標，因為它們為俄軍提供無人機零組件、導航設備及其他裝備。 克里姆林宮否認線上平台被用於軍需物資的供應，但平台上有販售防彈衣等各類軍事相關商品，還有既可民用也可用於無人機生產的物品。 伏拉迪米爾州（Vladimir）州長阿夫杰耶夫（Alexander Avdeyev）今天表示，州內遇襲倉庫受損，人員皆已撤離，但有4人受傷。 2... 繼續閱讀 Image caption 俄羅斯最大電商「野莓」夜間再度淪為烏克蘭襲擊目標，該公司位於伏拉迪米爾州的一處倉庫遭無人機攻擊起火。BBC 說明野莓公司為何被盯上，以及烏方攻擊的後續效應。 最近幾週，烏克蘭接連襲擊野莓（Wildberries）多處物流樞紐，並稱這些地點是合理攻擊目標，因為它們為俄軍提供無人機零組件、導航設備及其他裝備。 克里姆林宮否認線上平台被用於軍需物資的供應，但平台上有販售防彈衣等各類軍事相關商品，還有既可民用也可用於無人機生產的物品。 伏拉迪米爾州（Vladimir）州長阿夫杰耶夫（Alexander Avdeyev）今天表示，州內遇襲倉庫受損，人員皆已撤離，但有4人受傷。 20 russian logistics warehouses in 16 days. The latest: Wildberries in Vladimir Oblast. The illusion that russia can wage war without paying a price is burning away. pic.twitter.com/sHbxQC2tGW — UAVoyager🇺🇦 (@CrimeanVoyager) August 3, 2026 野莓是怎樣的一家公司？ 英國廣播公司（BBC）介紹，野莓成立於2004年，是俄羅斯最大線上零售商，經常被譽為「俄羅斯版亞馬遜公司（Amazon.com Inc.）」。公司員工人數約4萬8,000人，執行長金恩（Tatyana Kim）是俄羅斯首批女性億萬富翁之一。 野莓連結俄國各地的獨立賣家與買家，平台負責商品倉儲及配送，並處理支付事宜。 根據「富比世」（Forbes）雜誌俄國版，野莓與廣告公司Russ合併而成的RWB集團今年估值約126億美元（約新台幣4,092億元）。 烏克蘭已攻擊多少倉庫？ BBC指出，自7月中旬以來，烏克蘭已攻擊俄羅斯境內至少十多處野莓公司的倉庫。這些倉庫大多位於俄國西部，遠離烏克蘭戰事的前線。 富比世俄國版報導，市場研究機構「數據洞察」（Data Insight）估計，本月2日前，野莓約17%至22%的物流空間曾受無人機攻擊影響。 該機構估算，受損倉儲空間介於89.3萬至115萬平方公尺之間。而野莓的母公司RWB曾表示，旗下物流設施總面積約520萬平方公尺。 這不代表該公司1/5的倉庫全毀，有些設施僅部分受損，且已有幾處恢復運作。 野莓公司如何因應？ 野莓上週曾表示，旗下倉庫接連遇襲，公司已向受害者及商品受損的賣家提供補償。 7月28日一份聲明表示，公司已向「重傷」人員及罹難者家屬支付逾4,000萬盧布（約新台幣1,621萬元）補償。 兩天後的另一份聲明又指出，第二波撥款惠及超過9萬7,000家中小企業，首波則有逾8萬8,000個商家獲得支持。 上述聲明發布後，該公司倉庫又遇襲，包括在伏拉迪米爾州的攻擊事件。 這些攻擊如何影響俄羅斯經濟？ BBC分析，一直到最近，對於許多俄羅斯人來說，戰爭還是遠在天邊的事，看似不影響他們的生活，但這種情況正在改變。 烏克蘭出動無人機攻擊俄羅斯煉油廠，導致今夏俄國多地出現燃料短缺。現在對野莓公司倉庫的攻擊，讓戰火更靠近俄國民眾的生活，畢竟野莓平台就占了俄羅斯全國線上訂單逾5成。 在7月底烏克蘭連續攻擊野莓公司的倉庫後，總統澤倫斯基（Volodymyr Zelenskyy）曾表示：「我們正合情合理地把戰火帶回俄羅斯。」 BBC指出，俄國有許多中小企業仰賴野莓等線上市集，而支援中小企業一直是總統普丁（Vladimir Putin）的優先要務之一，即使在戰爭期間亦然。俄方也將中小企業當成對抗西方制裁、維繫國內韌性的骨幹。 但俄國政府已無法讓中小企業不受戰爭波及，今年以來企業歷經多次打擊。 今年1月，增值稅自20%調升至22%，部分企業享有的稅務優惠也被取消。 根據企業資訊平台Kontur.Fokus資料，2026年第1季，俄國中小企業歇業數達20萬9,000家，較2025年同期攀升9%。 （譯者：楊昭彥；首圖來源：shutterstock） 延伸閱讀： 烏克蘭精確攻擊俄羅斯半導體廠，已遭台灣列入制裁名單難恢復生產 飛 2,500 公里、歷時 12 小時！烏克蘭無人機創最遠程紀錄，重創西伯利亞煉油廠 烏軍無人機攻勢加劇俄燃油危機 衝擊農業",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "7309b5695362efd7f17f7f29",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "瞄準北美市場，萊茵金屬推出首款飛彈巡防艦產品",
+      "url": "https://technews.tw/2026/08/04/rheinmetall-unveiled-first-guided-missile-frigate-aiming-us-market/",
+      "published_at": "2026-08-04T02:18:30+00:00",
+      "author": "Alan Chen",
+      "external_id": "https://technews.tw/?p=1597107",
+      "text": "以生產主戰坦克火砲與裝甲車輛聞名的德國萊茵金屬（Rheinmetall），近日正式發表一款全新的飛彈巡防艦概念「GMF 140」（Guided-Missile Frigate 140）。 這款全長達 140 公尺的水面作戰艦艇，不僅是萊茵金屬進軍造船領域後的首款重大作品，該公司更公開宣稱將優先拿這艘新艦投入北美地區未公開的艦艇採購標案，展現其擴張海事版圖的極大野心。 深度整合美製神盾與 64 單元 VLS，打造全方位打擊平台 根據萊茵金屬發布的最新聲明，GMF 140 的設計定位為多功能高階巡防艦，任務範疇涵蓋區域防空、彈道飛彈防禦（BMD）、反潛作戰（ASW）以及長程打擊任務。 ... 繼續閱讀 Image caption 以生產主戰坦克火砲與裝甲車輛聞名的德國萊茵金屬（Rheinmetall），近日正式發表一款全新的飛彈巡防艦概念「GMF 140」（Guided-Missile Frigate 140）。 這款全長達 140 公尺的水面作戰艦艇，不僅是萊茵金屬進軍造船領域後的首款重大作品，該公司更公開宣稱將優先拿這艘新艦投入北美地區未公開的艦艇採購標案，展現其擴張海事版圖的極大野心。 深度整合美製神盾與 64 單元 VLS，打造全方位打擊平台 根據萊茵金屬發布的最新聲明，GMF 140 的設計定位為多功能高階巡防艦，任務範疇涵蓋區域防空、彈道飛彈防禦（BMD）、反潛作戰（ASW）以及長程打擊任務。 為了符合美系運作體系並提高市場接受度，GMF 140 具備極高度的「美系戰系相容性」，預計可直接整合美製主相控陣雷達選項，及搭載神盾戰鬥系統。 在火力配置方面，GMF 140 最受矚目的亮點在於配備了高達 64 單元的「打擊型」垂直發射系統（Strike-Length VLS），這讓它具備投射極音速武器、彈道飛彈與長程巡弋飛彈的能力。 此外艦體還可依客戶需求進一步整合反艦飛彈、魚雷發射管、近迫雷射定向能武器，以及一門 5 吋（127 公釐）主砲，整體火力相當剽悍。 潛在買家現況 儘管萊茵金屬發言人面對媒體詢問時，對具體鎖定哪一國標案守口如瓶，但從目前北美三國的海軍現狀來看，GMF 140 瞄準的對象相當明顯。 美國海軍方面，今年 4 月才剛向亨廷頓英格爾斯工業（HII）旗下的英格爾斯造船廠頒發價值 2.83 億美元 的合約，用以支援新一代巡防艦的前期設計與長交期材料採購。根據美軍預算規劃，美軍預計於 2027 財年採購 1 艘、2029 財年採購 1 艘，並於 2031 財年再追加 2 艘 新巡防艦，時間點與萊茵金屬的提案時機相當巧合。 相對之下，加拿大與墨西哥的介入機率則較低。加拿大目前正傾全力推動「河流級驅逐艦」（River-class Destroyer）計畫，先前已頒發 15 艘 基於英國 26 型巡防艦（Type 26）設計的建造合約給歐文造船廠，而墨西哥海軍自從 2020 年讓本土建造的 POLA-101 巡防艦正式服役後，目前尚無任何公開的後續艦採購計畫。 完成併購後火力全開，萊茵金屬加速轉型 這家過去以豹 2 坦克主砲與 KF51 步兵戰車享譽全球的德國軍工大廠，在今年初完成收購德國本土造船廠「呂森海軍艦艇公司」（Naval Vessels Lürssen, NVL）後，便正式取得水面戰艦的設計與製造能力。 萊茵金屬管理層先前曾公開預估，隨著公司全面佈局傳統水面戰艦與水上無人載具，海軍業務將會迎來大規模訂單並帶動公司營收大幅增長。 Rheinmetall unveils new guided-missile frigate projected for North American tender （首圖來源： Rheinmetall ）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "74278c25cf48b78ff7c63f42",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "焦點股》南電：7月營收報喜！ 急拉漲停重回千元俱樂部",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527704",
+      "published_at": "2026-08-04T02:18:26+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527704",
+      "text": "IC載板廠南電（8046）7月合併營收報喜，創下近43個月新高，今日股價走揚，早盤攻上漲停，重回千元俱樂部。 南電目前進行5分鐘分盤處置，截至10:00左右，南電股價...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "1e094cf8f1af44f53345668e",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "台積電捐贈2.5億日圓 支援熊本災後重建與復原",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527709",
+      "published_at": "2026-08-04T02:16:58+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527709",
+      "text": "日本熊本上月28日發生芮氏規模7.1強震，台積電（2330）熊本廠也因此受影響，隨著熊本JASM廠區完成復原，台積電昨（3）日也在日本官方X上表示，將捐贈2.5億日圓（約...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "679ca4ca000a0a67832f6e61",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "多瑙河乾旱陷缺電危機，羅馬尼亞炸河床搶救核電廠",
+      "url": "https://technews.tw/2026/08/04/danube-river-drought/",
+      "published_at": "2026-08-04T02:14:10+00:00",
+      "author": "黃 嬿",
+      "external_id": "https://technews.tw/?p=1597097",
+      "text": "歐洲熱浪加乾旱，使多瑙河水位創歷史新低，核電廠缺乏冷卻水，東歐國家核電廠被迫關閉，電力產量下降，羅馬尼亞還因此宣布全國進入緊急狀態，為延長核電廠的運轉時間，羅馬尼亞海軍炸毀多瑙河中的岩石，將河水改道流向核電廠。 氣候危機持續加劇極端天氣，流經德國、奧地利、匈牙利、羅馬尼亞等 10 個國家的多瑙河，在多處河段創下史上最低水位。匈牙利首都布達佩斯水位一度僅剩 10 公分，遠低於 2018 年的 33 公分紀錄，羅馬尼亞境內多瑙河流量更降至正常值不到三分之一。 多瑙河河水退去後，大量河床裸露，露出巨石、二戰沉沒軍艦、未爆彈，甚至古代猛獁象遺骸。保加利亞居民形容，河面淺到幾乎可以徒步走到對岸的羅馬... 繼續閱讀 Image caption 歐洲熱浪加乾旱，使多瑙河水位創歷史新低，核電廠缺乏冷卻水，東歐國家核電廠被迫關閉，電力產量下降，羅馬尼亞還因此宣布全國進入緊急狀態，為延長核電廠的運轉時間，羅馬尼亞海軍炸毀多瑙河中的岩石，將河水改道流向核電廠。 氣候危機持續加劇極端天氣，流經德國、奧地利、匈牙利、羅馬尼亞等 10 個國家的多瑙河，在多處河段創下史上最低水位。匈牙利首都布達佩斯水位一度僅剩 10 公分，遠低於 2018 年的 33 公分紀錄，羅馬尼亞境內多瑙河流量更降至正常值不到三分之一。 多瑙河河水退去後，大量河床裸露，露出巨石、二戰沉沒軍艦、未爆彈，甚至古代猛獁象遺骸。保加利亞居民形容，河面淺到幾乎可以徒步走到對岸的羅馬尼亞。 核電被迫停機 低水位也重創核能發電。匈牙利唯一的帕克斯核電廠已運轉 44 年，平時供應全國近一半電力，如今因多瑙河水位過低，已連日降載發電，政府坦言，若旱情持續，核電廠恐只能再維持數天運轉。 羅馬尼亞目前只有一座切爾納沃德核電廠，設有兩部反應爐，完全仰賴多瑙河提供冷卻水。核電占羅馬尼亞總發電量 20.5%， 由於水位持續下降，其中一部反應爐已停機，另一部也面臨冷卻水不足的危機。 現在各國開始節電。羅馬尼亞宣布警戒狀態，汽車製造商達契亞 (Dacia) 與福特 (Ford) 暫停部分生產線，降低用電需求，匈牙利則呼籲民眾與企業節約用電，並限制部分鐵路運輸。 引水工程送水入核電 為了保住最後一部反應爐，羅馬尼亞採取罕見的緊急工程。軍方在多瑙河的支流巴拉運河使用約 180 公斤炸藥，炸除阻礙水流的巨石，爆炸瞬間水柱衝天。接著工程人員再興建低矮的臨時導流壩，將更多河水引入核電廠取水渠道，增加冷卻水供應。 羅馬尼亞國防部長表示，只要核電廠能多運轉一天，就是重大收穫，它一天所創造的效益，是這項工程成本的三倍。這項非常措施凸顯歐洲危機的嚴重性 ， 高溫和乾旱導致河流水位下降，引發人們對供水、內河運輸和發電的擔憂。 旱情恐打破 500 年紀錄 更令人擔憂的是，短期內看不到緩解跡象。世界天氣歸因 (World Weather Attribution, WWA) 分析指出，今年歐洲乾旱並非只是降雨不足，而是極端高溫使河流、土壤與植被中的水分快速蒸發。研究估計，在全球暖化影響下，這種極端蒸發條件出現的機率，比工業革命前高出約 80 倍。 WWA 也指出， 2022 年被歐盟定義為 500 年最嚴重的乾旱，今年旱期還沒結束，但 2026 年至今為止發生的乾旱，比 2022 年提早約兩個月開始，科學家擔憂累積效應將更為嚴重。 極端氣候正在改寫歐洲賴以發展數百年的河川文明，特大乾旱接連襲來，將迫使中歐與東歐重新調整能源、交通、農業與城市發展模式，以適應新的氣候現實。 Romania blasts rock to divert water from drought-hit Danube to nuclear reactor Danube drought exposes everything from shipwrecks to centuries-old projectiles (首圖來源：Flickr/ GeorgT. CC BY2.0)",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "387a459843e3c4dcff4be8eb",
+      "source_type": "youtube",
+      "source_name": "黃靖哲分析師-運達證券投顧",
+      "title": "供應鏈的上下游關係 電子股的必要知識 !｜【財經小學堂】運達投顧 黃靖哲分析師 20260804 #價格 #投資 #台股",
+      "url": "https://www.youtube.com/watch?v=BELNgPo2l20",
+      "published_at": "2026-08-04T02:12:58+00:00",
+      "author": "黃靖哲分析師-運達證券投顧",
+      "external_id": "BELNgPo2l20",
+      "text": "加入靖哲老師官方LINE@ 帶你漲停！漲停！再漲停！https://lin.ee/tVoiAzL 【⚠️指揮官作戰命令】 投資第一手   賺錢一定有   ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "2f8bbdab1be7f8053155ff26",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "日銀縮減買債額、日本貨幣基數創 2007 年來最大減幅",
+      "url": "https://finance.technews.tw/2026/08/04/boj-cuts-bond-purchases-japan-monetary-base-largest-decline-2007/",
+      "published_at": "2026-08-04T02:10:40+00:00",
+      "author": "MoneyDJ",
+      "external_id": "https://technews.tw/?p=1597065",
+      "text": "日本央行（日銀 BOJ）縮減買債額，日本貨幣基數連 23 個月萎縮，創 2007 年來最大減幅。 日銀4日資料顯示，因日銀縮減公債收購額，2026年7月日本貨幣基數（Monetary Base）平均餘額較去年同月大減13.8%至554兆9,259億日圓，連23個月陷入萎縮，減幅較6月年減13.7%呈現擴大，創2007年3月大減19.1%後最大減幅，平均餘額創2020年6月544兆233億日圓後新低。 貨幣基數包括流通紙幣、流通硬幣以及顯示金融機構手頭資金總量的「支票帳戶」（Checking Account、或稱現金往來帳戶）；貨幣基數是創造貨幣供給的基礎，能產生貨幣乘數效果，故亦可... 繼續閱讀 Image caption 日本央行（日銀 BOJ）縮減買債額，日本貨幣基數連 23 個月萎縮，創 2007 年來最大減幅。 日銀4日資料顯示，因日銀縮減公債收購額，2026年7月日本貨幣基數（Monetary Base）平均餘額較去年同月大減13.8%至554兆9,259億日圓，連23個月陷入萎縮，減幅較6月年減13.7%呈現擴大，創2007年3月大減19.1%後最大減幅，平均餘額創2020年6月544兆233億日圓後新低。 貨幣基數包括流通紙幣、流通硬幣以及顯示金融機構手頭資金總量的「支票帳戶」（Checking Account、或稱現金往來帳戶）；貨幣基數是創造貨幣供給的基礎，能產生貨幣乘數效果，故亦可稱為準備貨幣或強力貨幣。 7月日本流通中的日銀券（紙幣）金額較去年同月減少1.9%至115兆60億日圓，連32個月減少；流通中貨幣（硬幣）金額減少1.1%至4兆5,831億日圓；「支票帳戶」餘額大減16.6%至435兆3,368億日圓，連22個月減少。 日銀日前宣布，2026年7~9月期間公債月收購額目標為2兆5,000億日圓（4~6月期間的月收購額為2兆7,050億日圓），「五年以上十年以下」公債收購額目標為6,700億日圓（7,200億日圓）、「十年以上25年以下」為2,000億日圓（2,400億日圓）、「25年以上」為1,500億日圓（1,500億日圓）、「三年以上五年以下」為6,400億日圓（6,900億日圓）、「一年以上三年以下」為7,100億日圓（7,650億日圓）、「一年以下」為1,000億日圓（1,000億日圓）、「物價連動債」為300億日圓（400億日圓）。 貨幣政策正常化的一環，日銀自2024年8月起實施縮減長期公債收購額的措施。日銀最初是以「每季減少4,000億日圓的速度」縮減買債額，2026年1~3月時日銀公債月收購額規模從2024年7月的5.7兆日圓縮減至2.9兆日圓，之後日銀自2026年4月起將買債縮減額規模從「每季減少4,000億日圓」砍半至「每季減少2,000億日圓」，預估在2027年1-3月時日銀公債月收購額規模將縮減至2.1兆日圓。 日銀6月16日宣布，計畫2027年4月起停止「縮減買債額」措施，即不再進一步減少公債購買規模，之後每月將維持約2.1兆日圓的購債水準。 （本文由 MoneyDJ新聞 授權轉載；首圖來源：科技新報）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "c229f6fa9ab7df57fe7d26c6",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "黃金最好的買點出現了！專家急喊：別錯過重新布局機會",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527580",
+      "published_at": "2026-08-04T02:10:38+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527580",
+      "text": "〔財經頻道／綜合報導〕黃金市場在最近幾個月出現從高檔拉回的狀況，但市場分析師認為，這波修正反而為長線投資人提供具吸引力的重新進場機會。貴金屬策略專家、abrdn投資策略主管明特（Robert M...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "e27f668834e7739ec335a2f7",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "豪語奪 Vera 載板 100% 獨家訂單！高盛調高景碩目標價至 1,125 元",
+      "url": "https://finance.technews.tw/2026/08/04/vera-cpu/",
+      "published_at": "2026-08-04T02:10:16+00:00",
+      "author": "姚 惠茹",
+      "external_id": "https://technews.tw/?p=1597130",
+      "text": "受惠次世代 AI 的強勁需求，高盛證券 (Goldman Sachs) 出具最新研究報告，看好景碩第二季法說會釋出樂觀展望，並受惠 AI 晶片封裝尺寸及層數不斷增加，不排除 2027 至 2028 年 ABF 載板市場將出現供應短缺的現象，因此重申對景碩的「買進」評級，並將目標價上修至 1,125 元。 高盛表示，景碩法說會中展現強烈企圖心，目標奪得 Vera CPU 載板 100% 的市占率，並預估其 AI GPU 載板市占率將在未來幾季攀升至 20%，更預期 AI 相關應用將在 2026 年貢獻景碩約 10% 的總營收，預計 2027 年進一步大幅擴大至 15% 到 20%。 產品... 繼續閱讀 Image caption 受惠次世代 AI 的強勁需求，高盛證券 (Goldman Sachs) 出具最新研究報告，看好 景碩 第二季法說會釋出樂觀展望，並受惠 AI 晶片封裝尺寸及層數不斷增加，不排除 2027 至 2028 年 ABF 載板市場將出現供應短缺的現象，因此重申對景碩的「買進」評級，並將目標價上修至 1,125 元。 高盛表示，景碩法說會中展現強烈企圖心，目標奪得 Vera CPU 載板 100% 的市占率，並預估其 AI GPU 載板市占率將在未來幾季攀升至 20%，更預期 AI 相關應用將在 2026 年貢獻景碩約 10% 的總營收，預計 2027 年進一步大幅擴大至 15% 到 20%。 產品報價與營運表現方面，高盛指出，景碩預期第三與第四季 ABF 與 BT 載板價格平均將季增約 8%，且 ABF 載板價格的漲勢將快於 BT 載板，因此看好第三季、第四季營收將雙雙維持 10% 的季成長，毛利率更可望從第二季的 26% 躍升至 27% 至 29% 區間。 放眼長線，高盛指出，完全不計算 ABF 載板潛在漲價效益的情況，景碩有信心 2027 與 2028 年的營收每年將至少成長 30%，同時憑藉產品組合改善與產能利用率提升，毛利率有望在這兩年「每年皆提升 5 個百分點」。 高盛說明，為因應龐大需求，景碩宣布一項高達 196 億元的專案資本支出計畫，預計分三年執行，推升景碩 2026 與 2027 年的總資本支出規模，值得注意的是，這筆 196 億元全數用於新廠房建設，而相關設備將由 3 至 4 家以上的核心客戶直接「贊助」。 高盛認為，客戶端預計在未來三年內將直接投資超過 800 億元的 ABF 載板產能設備，這不僅暗示長期 AI 需求的延續性，並大幅提振市場對景碩長線訂單的信心，因此重申目標在 2029 年底前將 ABF 月產能翻倍至 8,000 萬顆。 （首圖來源：shutterstock） 延伸閱讀： 搶攻 AI 高值化冷鏈物流！建新國際啟用「新科智慧國際物流中心」 強攻高階材料話語權！崇舜啟用中壢展示中心卡位高速運算商機 中國 7 月 PMI 衝擊自動化產業！大摩點名看好亞德客、上銀後市",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "72b3cb78cd1007eea0bbce62",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "國巨連3日強勢走高 網友喊上800元 空方提醒「快逃」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527684",
+      "published_at": "2026-08-04T02:09:13+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527684",
+      "text": "〔財經頻道／綜合報導〕被動元件大廠國巨*（2327）股價延續強勁漲勢，在連續2個交易日攻上漲停後，今（4日）開盤再度走高，以581元、上漲29元開出。不過，開盤後一度由紅翻黑，盤中最低下探545...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "bde60fc076a678add89c6d6c",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "焦點股》緯穎：AI業務展望強勁 創歷史新天價",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527696",
+      "published_at": "2026-08-04T02:09:10+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527696",
+      "text": "伺服器大廠緯穎（6669）受惠於AI伺服器業務持續暢旺，加上北美客戶持續擴大資本支出，帶動展望備受市場期待，在買盤加持之下，今日截至上午9時53分的盤中高點觸及6340元...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "e1600fcc78e9e961b077948d",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "記憶體漲價「停不下來」！DDR4、NAND 再創新高「這產品」Q3再漲20％",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527626",
+      "published_at": "2026-08-04T02:06:32+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527626",
+      "text": "〔財經頻道／綜合報導〕人工智慧（AI）需求持續推升記憶體市場，DRAM與NAND快閃記憶體7月平均價格再度改寫歷史新高。根據《韓聯社》報導，通用型DDR4價格在1個月內上漲逾14%、達24美元，...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "191aa0f923e85a8560c891ce",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "焦點股》全新：AI光通訊需求爆發 連兩日攻漲停",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527679",
+      "published_at": "2026-08-04T02:03:41+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527679",
+      "text": "受到Lumentum執行長赫爾斯頓（Michael Hurlston）表示，磷化銦是AI資料中心光通訊雷射不可或缺的化合物半導體，未來AI基建磷化銦光元件的需求將呈倍數成...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "1a87e1e3ca822d322b9e6db3",
+      "source_type": "youtube",
+      "source_name": "陳宥安",
+      "title": "8月4日今日短綫建議 #台股#投資#半導體#記憶體#供應鏈#財經 #股市 #飆股",
+      "url": "https://www.youtube.com/watch?v=UIqZ6dlzXwU",
+      "published_at": "2026-08-04T02:00:22+00:00",
+      "author": "陳宥安",
+      "external_id": "UIqZ6dlzXwU",
+      "text": "",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "9a2fea42862b6a9826fb3a25",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "記憶體、ABF載板掌兵權 指數急拉逾千點翻紅漲逾500點",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527616",
+      "published_at": "2026-08-04T01:59:33+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527616",
+      "text": "〔財經頻道／綜合報導〕美伊局勢降溫，美股週一4大指數全面反彈，道瓊指數收盤更創下歷史新高紀錄，受此激勵，韓股週二上漲逾2%，隨即翻黑，而日經也跟著跳水，台股在台積電、日月光投控、鴻海等電子股開盤...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "59716832eca8312c8212d383",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "中國無人計程車「文遠知行」前進丹麥，首度踏足北歐",
+      "url": "https://technews.tw/2026/08/04/chinese-robotaxi-weride-enter-denmark/",
+      "published_at": "2026-08-04T01:55:50+00:00",
+      "author": "Chen Kobe",
+      "external_id": "https://technews.tw/?p=1597070",
+      "text": "中國自駕車大廠文遠知行今日宣布，將與丹麥 GreenMobility 公司合作，讓中國無人計程車在丹麥上路，成為首個踏上北歐的中國無人車。 文遠知行（WeRide）不僅要當中國第一個進軍北歐的無人車，其實也可能成為丹麥第一個商轉的無人計程車隊，目前正在法規審理階段，預計最快可以在 2027 上半年對大眾開放服務。 在丹麥之前，文遠知行已經在法國、瑞士跟比利時開始營運，同時西班牙跟斯洛伐克也正在推進中，相較於美國透過「連網車法案」全面防堵中國車輛上路，歐盟似乎對中國車較為寬容。 考慮到海外拓展的成本跟困難度，文遠知行一直採用技術合作的方式，與當地成熟的車隊聯手，中國提供技術、設... 繼續閱讀 Image caption 中國自駕車大廠文遠知行今日宣布，將與丹麥 GreenMobility 公司合作，讓中國無人計程車在丹麥上路，成為首個踏上北歐的中國無人車。 文遠知行（WeRide）不僅要當中國第一個進軍北歐的無人車，其實也可能成為丹麥第一個商轉的無人計程車隊，目前正在法規審理階段，預計最快可以在 2027 上半年對大眾開放服務。 在丹麥之前，文遠知行已經在法國、瑞士跟比利時開始營運，同時西班牙跟斯洛伐克也正在推進中，相較於美國透過「連網車法案」全面防堵中國車輛上路，歐盟似乎對中國車較為寬容。 考慮到海外拓展的成本跟困難度，文遠知行一直採用技術合作的方式，與當地成熟的車隊聯手，中國提供技術、設備，地主國則提供車輛和車隊管理維運。以丹麥為例，GreenMobility 手上已經有超過 1,500 輛電動車在提供服務，累積了數百萬趟旅程，如果能將這些旅程都轉為無人駕駛，將會是龐大的市場潛力。 這也是文遠知行創辦人韓旭所說的「自駕鐵三角」模式，文遠知行提供自駕科技，車廠（廣汽、日產三菱）提供載具，共享平台（Uber、滴滴、GreenMobility）管理車隊。依靠這個模式，他們已經跨足 8 個國家，在 40 個城市提供無人計程車服務，無人車總數超過三千輛。 文遠知行最頂規的自駕系統核心使用的是 NVIDIA Thor 晶片，採用 Blackwell 架構，運算能力比市售車用的 Orin 晶片高出 5～10 倍，搭配聯想提供的車輛計算控制器，以及完整的雙重冗餘設計，可以實現 Level 4 自動駕駛。 更關鍵的是，他們的自駕軟體模型，可以適用於多種晶片，包括 NVIDIA、高通或是中國自製晶片，如此就可以根據不同產品定位，用最合適的成本部署。 這個商業模式聽起來很聰明，但也有些弔詭，難道在歐洲跑的無人車算力就是頂規，在中國跑的算力就只有十分之一？這對於車輛安全會否有影響，也是未知數，畢竟中國社會有自己的運作邏輯，現在正是衝刺無人車跟機器人的時刻，任何負面新聞都很少曝光。除非像去年大規模癱瘓道路交通，才引來「黨的關愛」。 無論在中國會用哪一種模式，可想而知要在歐洲上路，必然得拿出最頂級的方案，否則任何一點小事故都會引來各方關切。 WeRide enters Denmark as first Chinese robotaxi company in Nordic region （首圖來源：WeRide）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "a1974f3b1ef3c64c854134ec",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "空頭避險？SpaceX 財報前驚現大規模 330 美元買權",
+      "url": "https://finance.technews.tw/2026/08/04/bearish-hedge-massive-330-call-options-surface-spacex-earnings/",
+      "published_at": "2026-08-04T01:50:01+00:00",
+      "author": "MoneyDJ",
+      "external_id": "https://technews.tw/?p=1597074",
+      "text": "馬斯克（Elon Musk）旗下太空探索技術公司 SpaceX 美國時間今日將公布上市後首份財報，期權市場的布局明顯偏向買權，主要是受一筆規模異常龐大的買權部位影響，履約價高達 330 美元，約為目前價三倍。 Seeking Alpha 3日報導，8月7日到期的期權未平倉合約（open interest）共856,219口，買權656,309口、賣權199,910口，賣買權比（put-call ratio）為0.30。規模最大部位是一筆履約價330美元的買權，共450,769口，其次是履約價150美元的買權，共14,904口。賣權方面，未平倉口數最多的是履約價100美元的部位，共24,9... 繼續閱讀 Image caption 馬斯克（Elon Musk）旗下太空探索技術公司 SpaceX 美國時間今日將公布上市後首份財報，期權市場的布局明顯偏向買權，主要是受一筆規模異常龐大的買權部位影響，履約價高達 330 美元，約為目前價三倍。 Seeking Alpha 3日報導，8月7日到期的期權未平倉合約（open interest）共856,219口，買權656,309口、賣權199,910口，賣買權比（put-call ratio）為0.30。規模最大部位是一筆履約價330美元的買權，共450,769口，其次是履約價150美元的買權，共14,904口。賣權方面，未平倉口數最多的是履約價100美元的部位，共24,947口。 投資人重押買權之際，市場看空SpaceX的押注也明顯升溫。SpaceX放空部位的名目金額（notional short interest）已攀升至約242億美元，占在外流通股的32.2%，以金額計算已超越特斯拉（Tesla Inc.）。放空者在7月29日及30日兩天合計新增3,770萬股空單，創下SpaceX 6月12日掛牌以來最大增幅。 市場認為，這筆規模異常龐大的330美元買權部位，很可能是放空者在財報公布前建立的避險部位。透過買進深度價外（far out-of-the-money）買權，放空者可在維持看空股票部位的同時，限制股價大幅上漲時可能承受的損失。 若觀察更長天期的期權部位，買賣權分布則相對均衡。未平倉買權為1,907,393口，賣權為1,856,722口，合計3,764,115口，賣買權比為0.97。 7日到期的平價跨式組合（at-the-money straddle）顯示，市場預期財報公布後股價可能上下波動約14%。以目前110美元股價推算，期權市場預估，財報公布後的交易區間約介於94美元至126美元。 SpaceX 3日終場反彈5.68%，收114.53美元。SpaceX 7月31日收盤下探108.37美元，創6月12日掛牌以來收盤新低，已較6月16日寫下的歷史盤中高225.64美元拉回近52%。 SpaceX財報日同時觸發了公司獨特的閉鎖期（lock-up period）規則，允許內部人開始出售持股，比傳統180天的禁售期還要短。 SpaceX採取分階段解禁的方式，允許內部人不同時間點分批出售部分股票，以免觸發大規模拋售潮與股價劇烈波動。首份財報公布將為投資人鋪路，允許財報公布後第二個完整交易日（6日），出售20%合規解禁股票（合計高達9.115億股）。 （本文由 MoneyDJ新聞 授權轉載；首圖來源： SpaceX ）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "f9e8c4e8f833560ae0b17903",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "捷迅第二季獲利年增15.1倍 EPS 2.11元",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527658",
+      "published_at": "2026-08-04T01:48:59+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527658",
+      "text": "全球國際綜合物流服務供應商捷迅（2643）第二季營收19.55億元，較上季成長34.27%，較去年減少 4.27 %，稅後盈餘0.73億元，年增15.1倍，每股稅後盈餘2...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "23962a2c03566fb8f4729c46",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台積電捐2.5億日圓熊本賑災 JASM晶圓廠全面復原",
+      "url": "https://www.cna.com.tw/news/afe/202608040031.aspx",
+      "published_at": "2026-08-04T01:48:03+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040031",
+      "text": "（中央社記者鍾榮峰台北4日電）日本熊本7月28日發生強震，晶圓代工龍頭台積電上午接受記者詢問回覆，在熊本員工和供應商夥伴共同努力下，JASM晶圓廠得以迅速全面復原。為支持熊本災後復原，台積電決定捐款2億5000萬日圓用於賑災行動，同時台積電慈善基金會已發起員工募資捐款。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "571e33d0ebffbc095525dc65",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "億光再興訟 在美國控告日亞化侵權",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527660",
+      "published_at": "2026-08-04T01:47:43+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527660",
+      "text": "LED大廠億光（2393）今天表示，公司繼控告Lumileds、SSC之後，於7月30日向美國密西根東區聯邦地方法院南部分院提起專利侵權訴訟，對日亞化（Nichia Co...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "2b09ad6d944170fb04271e03",
+      "source_type": "youtube",
+      "source_name": "三立財經iNEWS",
+      "title": "外資空單創新高！台股震盪跌破2萬3 處置股改5天預備反彈｜三立財經iNEWS",
+      "url": "https://www.youtube.com/watch?v=O9quSn1W2rU",
+      "published_at": "2026-08-04T01:45:05+00:00",
+      "author": "三立財經iNEWS",
+      "external_id": "O9quSn1W2rU",
+      "text": "台股#美股#外資空單#處置股#台積電   掌握世界脈動、理財大小事，一起變聰明變有錢  ✨ 好康連結通通幫你整理好 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "b7eacddfeb92213c2674d772",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "TikTok被控社群成癮導致自殘 在美與3名未成年原告和解",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527601",
+      "published_at": "2026-08-04T01:41:07+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527601",
+      "text": "短影音平台TikTok在美國加州遭到3名未成年人控告，直指其造成社群成癮並導致自殘，TikTok於開庭前和3人達成和解，但由於協議保密因此和解金額並未曝光。 據《路透》...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "2bcb5d0dbff01565650aee67",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "焦點股》景碩：千元目標價 已是外資共識",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527655",
+      "published_at": "2026-08-04T01:40:22+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527655",
+      "text": "IC載板廠景碩（3189）第2季獲利優於市場預期，外資再度調升景碩目標價，目前千元之上已是多數外資機構共識，景碩連兩天漲停後，今日股價再跳空開高，開盤不到2分鐘就亮燈漲停...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "804bcc75910a3db70e6f56d7",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "Karp：中國 AI 蒸餾無可厚非 批閉源模型迫企業交 IP",
+      "url": "https://finance.technews.tw/2026/08/04/karp-china-ai-distillation-understandable-slams-closed-source-models-forcing-companies-ip-surrender/",
+      "published_at": "2026-08-04T01:40:15+00:00",
+      "author": "MoneyDJ",
+      "external_id": "https://technews.tw/?p=1597041",
+      "text": "矽谷大數據分析商 Palantir Technologies Inc. 執行長 Alex Karp 再次抨擊尖端 AI 實驗室，認為企業不應被迫放棄智慧財產權（IP），只為了跟 AI 模型開發商合作。Karp 一直是開源（open-weight）模型的支持者，主張降低對尖端 AI 實驗室消耗 token 商業模式的依賴，尤其是中國 AI 工具迅速追上之際。 Karp 3日接受CNBC專訪表示，「有人試圖讓我們上癮，彷彿只能依賴他們（指尖端AI模型）掌控的未來。我花了很多時間和Anthropic團隊與執行長Dario Amodei交流。他們想告訴大家，我們必須走向大家一無所有的未來，不但企... 繼續閱讀 Image caption 矽谷大數據分析商 Palantir Technologies Inc. 執行長 Alex Karp 再次抨擊尖端 AI 實驗室，認為企業不應被迫放棄智慧財產權（IP），只為了跟 AI 模型開發商合作。Karp 一直是開源（open-weight）模型的支持者，主張降低對尖端 AI 實驗室消耗 token 商業模式的依賴，尤其是中國 AI 工具迅速追上之際。 Karp 3日接受CNBC專訪表示，「有人試圖讓我們上癮，彷彿只能依賴他們（指尖端AI模型）掌控的未來。我花了很多時間和Anthropic團隊與執行長Dario Amodei交流。他們想告訴大家，我們必須走向大家一無所有的未來，不但企業無法獲利、人人失去工作，最後還讓我們的對手占上風。」 Karp主張，企業應掌握自己的AI模型，並與Palantir這類提供企業應用層（application layer）服務的公司合作。Palantir平台建構於企業既有技術架構（stack）上，讓企業導入AI應用的同時，仍能將資料保留在內部。 Anthropic與OpenAI一個月來都表示，客戶資料是安全的，不會拿去訓練模型。OpenAI甚至強調，企業若希望將資料用於模型改進，必須主動選擇加入。 Karp並不認同這樣的說法。「我們接觸的每家企業，包括全球一些規模最大、最重要的政府機構，都在問『我們為什麼要用狂燒token的計費模式（tokenmaxx），花錢購買沒有太大價值的服務，卻又無法掌控那些能推動企業發展，同時把企業價值留在自己手中的關鍵能力？』」 低成本中國AI開源模型崛起，Anthropic、OpenAI等尖端實驗室的閉源（closed-source）模型面臨更多壓力。Karp表示，他不認為中國利用模型蒸餾（distillation）複製美國AI模型有什麼不公平，因為尖端AI模型本質上也在做同樣的事。 Karp說：「你以為這些模型的價值是怎麼來的？它們蒸餾世界各地IP的價值，包括企業資料，幾乎無所不包。我們正處於競爭，這些技術必須真正發揮作用。」 社群龍頭Meta Platforms Inc.執行長祖克柏（Mark Zuckerberg）也跟Karp持同樣看法。他7月接受英國金融時報訪問時指出，美國政府不應禁止中國AI模型，以取得AI競賽的優勢。他並警告，美國尖端AI實驗室若透過「劫持監管」（regulatory capture）影響政策，恐扼殺美國市場競爭。 對沖基金Atreides Management管理合夥人、早期投資SpaceX的明星經理人Gavin Baker則認為，中國AI新創商月之暗面（Moonshot）新模型「Kimi K3」可能是AI的重要轉折點，對Anthropic和OpenAI有潛在負面影響，但對其他諸如電力、半導體、超大規模雲端服務商（Hyperscalers）、新型雲端商（neoclouds）和軟體等業者幾乎都是淨利多。 Baker 7月17日於X指出，如果只有兩三家尖端實驗室主導市場、佔據90%的AI推論（inference）利潤，這對其他所有AI產業鏈都是淨負面影響。這些實驗室將成為電力、資料中心、半導體和超大規模雲端服務商的買方壟斷者，久而久之，它們會向上垂直整合掌控算力與硬體，向下吞噬應用層與軟體公司。 Baker直言，任何能擠壓模型層利潤率、促進競爭的因素，都會將利潤空間讓渡給半導體、電力、超大規模雲端服務商、新型雲端商以及軟體應用層。這也是輝達（Nvidia Corp.）執行長黃仁勳（Jensen Huang）力挺開源模型的原因。 （本文由 MoneyDJ新聞 授權轉載；首圖來源：shutterstock）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "4f01d5600caa7df2cd13a733",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "黃金又跌了！還能不能追？德銀預測揭後市",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527638",
+      "published_at": "2026-08-04T01:38:21+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527638",
+      "text": "〔財經頻道／綜合報導〕週一（3日）黃金價格下跌，主因是中東戰爭不確定性縈繞，對通膨升溫的擔憂也尚未化解，市場靜待本週將公布的多項就業數據，試圖研判聯準會（Fed）的政策前景。另一方面，德意志銀行...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "1878deae2df149e0bd541ec1",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "亞股又搭雲霄飛車！韓股震盪5％翻黑跌近3％ 日經跌近900點",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527562",
+      "published_at": "2026-08-04T01:35:13+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527562",
+      "text": "〔財經頻道／綜合報導〕美伊局勢降溫，美股週一4大指數全面反彈，道瓊指數收盤更創下歷史新高紀錄，受此激勵，亞股週二回神，韓股開高漲逾2%，然在SK海力士與三星電子下挫，指數翻黑，跌近3%，震盪約5...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "282ee7946fff5d8fd8e495a0",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "中國修訂積體電路設計保護法，號稱推動半導體產業自主創新與發展",
+      "url": "https://technews.tw/2026/08/04/china-revises-integrated-circuit-design-protection-law/",
+      "published_at": "2026-08-04T01:30:48+00:00",
+      "author": "Atkinson",
+      "external_id": "https://technews.tw/?p=1597056",
+      "text": "根據中國媒體報導，中國官方於近日公布了新修訂的《積體電路布圖設計保護條例》（以下簡稱條例），並定於 2026 年 10 月 15 日正式實施。這是自 2001 年現行條例實施以來最重大的制度升級與變革，目的在適應超大規模積體電路的發展、維護企業研發投入，並進一步推動半導體產業的自主創新與高品質發展。 本次條例修訂共包含六章 54 條，主要聚焦於改善積體電路布圖設計的登記、保護與管理。其中，有三大核心亮點最受業界矚目。首先是首創「設計抵押貸款」金融機制，這是新法規允許晶片設計師將積體電路佈局設計作為金融資產進行抵押貸款，這項創新政策預期能有效解決設計研發成果商業化困難、價值難以量化... 繼續閱讀 Image caption 根據中國媒體報導，中國官方於近日公布了新修訂的《積體電路布圖設計保護條例》（以下簡稱條例），並定於 2026 年 10 月 15 日正式實施。這是自 2001 年現行條例實施以來最重大的制度升級與變革，目的在適應超大規模積體電路的發展、維護企業研發投入，並進一步推動半導體產業的自主創新與高品質發展。 本次條例修訂共包含六章 54 條，主要聚焦於改善積體電路布圖設計的登記、保護與管理。其中，有三大核心亮點最受業界矚目。首先是首創「設計抵押貸款」金融機制，這是新法規允許晶片設計師將積體電路佈局設計作為金融資產進行抵押貸款，這項創新政策預期能有效解決設計研發成果商業化困難、價值難以量化等痛點，為晶片設計企業注入實質的資金流動性。 其次，是導入高達五倍的懲罰性賠償。針對惡意或故意的侵權行為，法院將可施加最高五倍的懲罰性賠償。市場分析師指出，積體電路布圖設計過去長期處於專利與著作權保護的灰色地帶，面臨權利界定模糊、侵權取證困難、賠償金額過低等問題，新法規將有效彌補這些法律漏洞。 第三則是增設「原創性宣告」以提高商業適用性。新規定要求申請者在申請時提交原創性宣告，並全面優化申請與審查程序。這包括：加強打擊欺詐性申請、明確文件要求、完善駁回與撤銷程序，並引入權利恢復機制，以全面提升登記品質。 報導表示，此次法規大修，背景正值全球半導體競爭加劇及貿易保護主義抬頭。近年來，包括美國在內的部分國家收緊了對中國的半導體出口與技術合作限制，使得中國提升本土創新能力變得愈發迫切。因此，面對外部壓力，中國官方強調，其智慧財產權保護對國內與國外開發者一視同仁，此舉展現了中國致力於維護開放、無歧視市場環境的堅定承諾。 這項關鍵性的法規升級，也伴隨著中國電子資訊製造業的強勁成長。數據顯示，2024 年中國晶片設計產業的營收已達到 909.9 億美元，年增率達 11.9%。2025 年中國共生產了 4,843 億個積體電路，年增 10.9%。此外，根據中國工信部數據，2025 年中國電子資訊製造業保持良好成長，主要企業增加值年增 10.6%，增速高於整體工業 4.7 個百分點。2026 年上半年，中國的積體電路出口額更是年增大幅提高 88.7%。 隨著中國即將進入「十五五」規劃（2026-2030年）時期，新條例的實施將通過政策引導與制度支持，進一步推動半導體產業走向更高品質的發展。不過，分析師也提醒，由於積體電路技術進步迅速且國際分工高度專業化，沒有單一法規能解決所有問題。未來，如何在實踐中持續優化晶片設計價值的量化與研發成果的商業化補償，仍將是政策發展的重點。 (首圖來源：AI )",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "b241ceffb1b4536cd7afc8df",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "亞馬遜早盤股價續漲，市值首度突破 3 兆美元",
+      "url": "https://finance.technews.tw/2026/08/04/amazon-stock-rises-early-trading-market-cap-breaks-3-trillion/",
+      "published_at": "2026-08-04T01:30:45+00:00",
+      "author": "中央社",
+      "external_id": "https://technews.tw/?p=1597040",
+      "text": "美國科技業巨擘亞馬遜（Amazon）上週公布強健財報刺激股價大漲後，今天早盤股價連兩個交易日攀升，勁揚近 5% 至 284.49 美元，使市值衝上約 3.1 兆美元，首度突破 3 兆美元大關。 法新社報導，亞馬遜上季獲利620億餘美元（約新台幣2兆125億元），歸功於人工智慧（AI）相關的雲端運算和晶片業務大幅成長。 （編譯：張正芊；首圖來源：shutterstock）... 繼續閱讀 Image caption 美國科技業巨擘亞馬遜（Amazon）上週公布強健財報刺激股價大漲後，今天早盤股價連兩個交易日攀升，勁揚近 5% 至 284.49 美元，使市值衝上約 3.1 兆美元，首度突破 3 兆美元大關。 法新社報導，亞馬遜上季獲利620億餘美元（約新台幣2兆125億元），歸功於人工智慧（AI）相關的雲端運算和晶片業務大幅成長。 （編譯：張正芊；首圖來源：shutterstock）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "7c25219441582831a1e34651",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台股早盤開低震盪 一度跌破43000點",
+      "url": "https://www.cna.com.tw/news/afe/202608040028.aspx",
+      "published_at": "2026-08-04T01:27:56+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040028",
+      "text": "（中央社記者潘智義台北4日電）美股齊揚，台積電ADR漲近0.5%，但台積電今天早盤跌55元，拖累台股跌490.6點，最低達42895.81點。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "b80d72eac06da23868f13fad",
+      "source_type": "youtube",
+      "source_name": "豐富",
+      "title": "&#39;26.08.04【豐富│財經起床號】林昌興談「A股科技牛輪到基建、港股拚AI變現」",
+      "url": "https://www.youtube.com/watch?v=JocQfhl9gDg",
+      "published_at": "2026-08-04T01:25:06+00:00",
+      "author": "豐富",
+      "external_id": "JocQfhl9gDg",
+      "text": "主持人：陳鳳馨 來賓：台灣金融培訓協會理事長 / 期貨分析師 林昌興 主題：陸港股解析｜A股科技牛輪到基建、港股拚AI變現 節目 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "75f77829834944abe414dfc3",
+      "source_type": "youtube",
+      "source_name": "SBN全球財經台主頻道",
+      "title": "短線反彈格局 順勢作多當沖應對  #shorts #台股 #黃義煌 #鱷魚老師 #當沖俱樂部 #全球財經台",
+      "url": "https://www.youtube.com/watch?v=TkztEdOQc5M",
+      "published_at": "2026-08-04T01:22:56+00:00",
+      "author": "SBN全球財經台主頻道",
+      "external_id": "TkztEdOQc5M",
+      "text": "《當沖俱樂部》每週一至週日5:00PM全球財經台Youtube直播首播週一至週日00:00AM 03:30AM、05:30AM、07:30AM重播週六、 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "c6eb9f710235b2ca05fa3ec9",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "中東戰事助美石油巨頭獲利翻倍，川普：我不喜歡",
+      "url": "https://technews.tw/2026/08/04/middle-east-conflict-us-oil-giants-double-profits-trump-dislikes/",
+      "published_at": "2026-08-04T01:20:26+00:00",
+      "author": "中央社",
+      "external_id": "https://technews.tw/?p=1597068",
+      "text": "美國石油業者埃克森美孚、雪佛龍近期公布第 2 季財報，獲利因中東戰事而大幅提高。總統川普今天在白宮大聲說：「我不喜歡」，批兩公司賺太多，應歸還公眾，大降零售油價。 受美伊戰爭油價高漲影響，美國石油業者近期公布業績獲利大幅提升。埃克森美孚（ExxonMobil）今年第2季淨利達145.3億美元，較去年同期71億美元大幅提高超過一倍。 雪佛龍（Chevron）今年第2季淨利為121億美元，去年同期為25億美元，獲利成長超過4倍。 美國是全球主要能源供應國，中東荷莫茲海峽（Strait of Hormuz）近乎封鎖，煉油設施損毀，全球油價走高，美國國內能源價格同步上揚並推升通膨，讓... 繼續閱讀 Image caption 美國石油業者埃克森美孚、雪佛龍近期公布第 2 季財報，獲利因中東戰事而大幅提高。總統川普今天在白宮大聲說：「我不喜歡」，批兩公司賺太多，應歸還公眾，大降零售油價。 受美伊戰爭油價高漲影響，美國石油業者近期公布業績獲利大幅提升。埃克森美孚（ExxonMobil）今年第2季淨利達145.3億美元，較去年同期71億美元大幅提高超過一倍。 雪佛龍（Chevron）今年第2季淨利為121億美元，去年同期為25億美元，獲利成長超過4倍。 美國是全球主要能源供應國，中東荷莫茲海峽（Strait of Hormuz）近乎封鎖，煉油設施損毀，全球油價走高，美國國內能源價格同步上揚並推升通膨，讓石油業者發戰爭財。 美國總統川普3日在白宮簽署行政命令後就記者提問回應說：「我不喜歡，他們賺太多錢，由於石油缺貨，他們賺大錢，我不喜歡。」 川普進一步說：「我高度支持自由企業，沒人超過我。伊朗結束後，油價會大幅降低。」「他們賺太多，雪佛龍與埃克森美孚都賺太多，他們應該歸還公眾，最好大降零售消費油價。」 他並再次大聲重申：「我不喜歡！」 川普對美國石油企業上季大幅獲利發表不滿談話後，兩家業者股價走低。 國際油價3日因美伊可能復談再度走低，每桶現貨普遍低於80美元。美國原油價格在美國、以色列2月28日對伊朗發動攻擊後，普遍高於戰前約20%，荷莫茲海峽封鎖期間，每桶價格高於90美元，期間各行各業營運成本提高，通膨情況加劇。 （作者：廖漢原；首圖來源：shutterstock） 延伸閱讀： 川普宣布美伊會談、取消原定攻擊 油價亞洲盤挫 中東局勢緩和、美伊暫休兵，油價回落",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "7a5929552a8556eb4de5cb9a",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "亂市英雄榜 富坦新興月收益基金抗跌漲勢居冠",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527628",
+      "published_at": "2026-08-04T01:19:53+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527628",
+      "text": "盤勢時而驚漲、時而驚跌，資金動向最能道出當前投資風向與心境。根據境外基金觀測站統計三大類型基金類型在今年上半年的資金流向，以平衡基金規模成長最多，增加超過3600億元，大幅領先...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "140bc24b255c4d63b7af9e3f",
+      "source_type": "rss",
+      "source_name": "中央社 科技新聞",
+      "title": "英國以防罪為由要求開後門 蘋果拒絕再提新訴訟",
+      "url": "https://www.cna.com.tw/news/ait/202608040025.aspx",
+      "published_at": "2026-08-04T01:19:50+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040025",
+      "text": "（中央社倫敦3日綜合外電報導）蘋果公司今天表示，已就英國政府最新要求取得用戶加密資料提出法律訴訟。英方強調，儘管支持隱私保護，但執法機關必要時仍需取得資料以防範兒童性虐、恐怖主義等重大犯罪。",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "45892f402dbc9c92798a3c6a",
+      "source_type": "youtube",
+      "source_name": "章老哥妙語",
+      "title": "一買就套？五種低開應對策略 #台股#財經#股市投資",
+      "url": "https://www.youtube.com/watch?v=kJLSUUcIujo",
+      "published_at": "2026-08-04T01:15:03+00:00",
+      "author": "章老哥妙語",
+      "external_id": "kJLSUUcIujo",
+      "text": "炒股一買就套？股票“低開”到底該留還是該跑？ 是不是每次一買股票就被套？一賣股票就大漲？ 總覺得主力在盯著你的賬戶？其實這 ...",
+      "metadata": {
+        "query": "台股 財經",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "2b6c91bb7a1b697a8026f741",
+      "source_type": "youtube",
+      "source_name": "派派台股內部人",
+      "title": "【台股盤前】美股四大指標齊漲，亞股分歧與開盤量價｜8/4 #Shorts",
+      "url": "https://www.youtube.com/watch?v=XfT0vSxMz7Y",
+      "published_at": "2026-08-04T01:11:06+00:00",
+      "author": "派派台股內部人",
+      "external_id": "XfT0vSxMz7Y",
+      "text": "2026/8/4 台股盤前重點：美股四大指標上漲，亞洲市場出現分歧，開盤先看量價能否承接。 重點： • 標普7600.50；日本日 ...",
+      "metadata": {
+        "query": "美股 台股 供應鏈",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "251bcaeacae04bbf0ef1040b",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "財富自由》每日最看好股",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527620",
+      "published_at": "2026-08-04T01:09:47+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527620",
+      "text": "〔財經頻道／綜合報導〕自由時報電子報新推出《財富自由》頻道，提供最全面的證券財經新聞，精選【每日最看好股】，讓您避雷投資理財更輕鬆！…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "c105f3ac622d9cb3a045593a",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "新台幣開盤貶2.2分 為32.46元",
+      "url": "https://www.cna.com.tw/news/afe/202608040024.aspx",
+      "published_at": "2026-08-04T01:06:47+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040024",
+      "text": "（中央社台北4日電）台北外匯市場新台幣兌美元匯率今天以32.46元開盤，貶2.2分。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "0e965605720a32d52d49ad4a",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台股開盤跌293.92點",
+      "url": "https://www.cna.com.tw/news/afe/202608040022.aspx",
+      "published_at": "2026-08-04T01:04:43+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040022",
+      "text": "（中央社台北4日電）台北股市今天開盤跌293.92點，加權股價指數為43092.49點，成交金額新台幣175.38億元。1150804",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "555f5a9cb6beba4c24a7bb17",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "川普又變卦不打伊朗！國際油價雪崩7％ 專家：市場又被他帶走",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527610",
+      "published_at": "2026-08-04T01:04:36+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527610",
+      "text": "〔財經頻道／綜合報導〕國際油價週一（3日）重挫約7%，跌至三週以來最低水準，主因是美國總統川普（Donald Trump）暫緩對伊朗發動新一輪攻擊，並希望能迅速達成一項可能增加波斯灣石油供應的協...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "72ec6da7dc73b1f1d5f6044e",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "最佳遠洋漁船低軌衛星通訊案例，Omada 帶來如家般的海上網路體驗",
+      "url": "https://technews.tw/2026/08/04/omada-low-earth-orbit-satellite-communications/",
+      "published_at": "2026-08-04T01:00:57+00:00",
+      "author": "TechNews",
+      "external_id": "https://technews.tw/?p=1595345",
+      "text": "Omada 聯手泰富儀器，不僅協助全台最大遠洋漁港──高雄前鎮漁港約 7 成遠洋漁船完成無線網路化，更為日大漁業集團遠洋漁船打造支援四線路備援機制的衛星 Wi-Fi 通訊系統，建立穩定可靠的海上連線環境。 台灣擁有世界第二大的遠洋漁船船隊，主要來自高雄前鎮、屏東東港及宜蘭南方澳三大基地港，其中又以前鎮漁港的船數、噸位及漁獲量居冠。由於遠洋漁船長年在境外從事撈捕作業，漁工往往需要長時間與家人及外界隔絕，容易累積心理壓力，甚至影響工作狀態與效率。 泰富儀器負責人蔡豐駿在停泊於前鎮漁港的「日大漁業集團」遠洋漁船船長室接受採訪時表示，這艘總噸位達 1,259 GT 的大型遠洋魷釣船，平... 繼續閱讀 Image caption Omada 聯手泰富儀器，不僅協助全台最大遠洋漁港──高雄前鎮漁港約 7 成遠洋漁船完成無線網路化，更為日大漁業集團遠洋漁船打造支援四線路備援機制的衛星 Wi-Fi 通訊系統，建立穩定可靠的海上連線環境。 台灣擁有世界第二大的遠洋漁船船隊，主要來自高雄前鎮、屏東東港及宜蘭南方澳三大基地港，其中又以前鎮漁港的船數、噸位及漁獲量居冠。由於遠洋漁船長年在境外從事撈捕作業，漁工往往需要長時間與家人及外界隔絕，容易累積心理壓力，甚至影響工作狀態與效率。 泰富儀器負責人蔡豐駿在停泊於前鎮漁港的「日大漁業集團」遠洋漁船船長室接受採訪時表示，這艘總噸位達 1,259 GT 的大型遠洋魷釣船，平時會遠赴福克蘭群島海域進行魷釣作業，單程航行就需要 45 天才能抵達。在長期「與世隔絕」的海上，船員思鄉之情自然與日俱增。再加上國際人權法規日益重視漁工通訊權益，遠洋漁船 Wi-Fi 化已成為愈來愈重要的發展趨勢。 上網兩大作用：連繫家人及通報漁訊，7 成前鎮遠洋漁船申裝 Omada 事實上，早期基於航行安全與人命救援乃至法規遵循與漁業管理，遠洋漁船除了 AIS 自動識別系統與 VMS 漁船監控系統外，必定會安裝無線電通訊系統或高軌 （GEO） 衛星電話。其中，無線電通訊更是最基本的海上安全設備。但無線電通訊品質易受天候影響，漁獲資訊等回報訊息也易有遭人攔劫的風險，對於提升漁工個人的網路通訊權益更是幫助有限。 蔡豐駿表示，低軌衛星（LEO）的出現讓海上無線通訊變得更加便利，漁船間可以即時互相通報漁場座標與海象資訊；船員也有了隨時與家人報平安的管道，遇到船員生病或受傷，也可透過遠端醫療加以救治。 多年來，在政府機構、人權組織與船主的共同努力下，有愈來愈多的漁船已完成衛星 Wi-Fi 的申裝作業。根據漁業署官方數據，截至 2025 年底為止，共有 183 艘遠洋漁船（19.3%）安裝 Wi-Fi 設備，預計 3 年內提升至 300 艘。 在 Omada 與泰富儀器合作推動下，目前高雄前鎮漁港已有 7 成遠洋漁船採用 Omada 網路設備，並由合作夥伴協助整合低軌衛星方案，成為台灣漁業數位化的代表性案例。其中，日大漁業集團遠洋漁船從衛星 Wi-Fi 的申裝，已成具備多重備援機制的海上連網環境。 Omada 原廠與本地代理商的強力在地支援，人性化的全繁體中文使用介面 蔡豐駿表示，約兩年前開始將整合星鏈（Starlink）等低軌衛星的 Omada 商用網路設備導入到日大漁業集團等遠洋漁船上。在此之前，漁船上安裝的衛星通訊會以高軌或中軌（MEO）衛星為主，隨後開始透過海外代理商在漁船上安裝低軌衛星通訊，這些方案介面多採用英文語系甚至是其他語言，使用上難免有所不便。 身為在地代理商，泰富儀器除了提供即時的在地服務外，Omada 全系列產品也提供直覺、易於操作的繁體中文介面，大幅降低管理門檻。尤其在技術支援方面，過去海外廠商往往無法提供即時協助；相較之下，Omada 在台灣擁有完整的技術支援團隊，無論漁船身處何處，都能在第一時間迅速且有效率的協助。 由於低軌衛星網路本身相對封閉，相較於一般連網環境具有更高的安全性。除此之外， Omada 商用路由器也內建防火牆、反 DDoS 攻擊等基礎資安防護機制。即使船員遭遇手機中毒等情況，系統仍可透過流量管理、存取控制及網路隔離機制，避免威脅擴散至船上其他設備。此外，Omada 產品亦符合美國《國防授權法案》（NDAA）相關規範，進一步展現其資安防護能力。 打造典範級四層網路備援架構，展現雲端集中管理效益 本次導入案例主要透過 Omada 商用網路管理平台整合高低軌衛星、4G/5G 行動網路，為遠洋漁船打造能維持穩定連線的多 WAN 備援架構。就以日大漁業集團遠洋漁船來說，泰富與 Omada 為其打造了由星鏈（兩條）、OneWeb、VSAT 並結合 4G/5G 行動網路等組成的四層備援機制。在此架構下，即使主網路出現異常，也能自動切換備援線路，能大幅降低網路中斷的風險。 日大漁業集團遠洋漁船船長陳源修表示，公司八艘遠洋漁船皆採四層備援機制。目前尚未啟用第三層備援線路，因為第二層備援線路接手沒多久，主網路多半就恢復正常了。 此外，本案例透過 Omada 硬體控制器為船上約莫 60 至 70 名船員建立個別登錄的帳號、密碼，進而發揮頻寬、流量管理、安全管控效益。透過 Omada 雲端集中管理功能，船主與管理單位不但可以管理船端各種網路設備，並能遠端即時掌握船上網路的運行及使用狀況，避免影音串流或大量下載而占用有限頻寬資源的情形，有助於提升整體使用效率與成本控管能力。 ▲ 泰富儀器負責人蔡豐駿（左）與日大漁業集團遠洋漁船船長陳源修（右），分享導入 Omada 後，在船舶網路管理與通訊上的便利與效益。(Source: TechNews) 讓船上網路體驗有家的感覺，導入 VIGI 監控成為下一階段計畫 長久以來，Omada 已在消費性及商用市場建立最佳 CP 值的品牌形象，對於遠洋漁船而言，同時也展現兼顧效能與成本的吸引力。不僅如此，在地化的技術支援，五年換新保固服務，以及操作直覺的繁體中文介面，更是長期受到消費性與商用市場青睞的重要優勢。Omada 技術服務部技術支援工程師林睿泓表示，Omada 一直致力於讓船上的網路使用體驗，就像在家裡一樣簡單、便利。 在管理效益方面，透過 Omada 雲端集中管理平台，不僅能有效整合多平台設備，管理者也能隨時隨地透過電腦或手機 App 遠端掌握船上網路運作情況。蔡豐駿也深有感觸地表示，以前若要協助船隻處理設定問題，必須先打開電腦、登入系統、找到特定船隻，再進入船員設定頁面，往往半小時就過去了；如今只要將車停靠路邊，透過手機就能在三分鐘內完成設定，大幅提升管理效率與即時應變能力。 除了 Omada 商用網路設備外，泰富儀器也正著手為日大漁業集團等遠洋漁船導入 VIGI 系列監控解決方案。Omada 技術服務部技術支援工程師林睿泓表示，目前相關部署已正式展開，並已完成部分遠洋漁船的建置作業。 未來，透過 Omada Central 雲端管理平台，可將路由器、交換器、AP、監控攝影機及 NVR 錄影主機統一納入管理。換言之，船主與管理單位只需透過同一個手機 App，即可同步管理船上網路設備與監控系統，進一步提升管理效率與便利性。 在許多船主仍在評估是否導入低軌衛星 Wi-Fi 的同時，Omada 與泰富儀器已率先為日大漁業集團等遠洋漁船建置整合高、低軌衛星的四層備援架構，打造更穩定可靠的海上通訊環境。如今更進一步導入 VIGI 網路監控方案，協助提升船舶管理效率與船員安全保障，也展現數位科技在遠洋漁業智慧管理與人權保障上的實際應用成果。更多產品資訊與成功案例，可參考 Omada 官網 ，或追蹤 Omada Facebook 粉絲專頁 。 https://www.youtube.com/watch?v=TBYKiqzX8uk (首圖來源：TechNews)",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "c94f156458b4b0ff13a0bbd0",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "晶片股槓桿交易火熱！SK 海力士、美光、輝達成 ETF 吸金王",
+      "url": "https://finance.technews.tw/2026/08/04/2026-chip-etf-and-money/",
+      "published_at": "2026-08-04T01:00:49+00:00",
+      "author": "林 妤柔",
+      "external_id": "https://technews.tw/?p=1597050",
+      "text": "全球資金正湧入半導體槓桿型 ETF，顯示投資人對 AI 與晶片產業的樂觀情緒持續升溫。根據社群平台 X 的分享，目前全球追蹤單一晶片股的槓桿 / 反向 ETF 資產規模中，以 SK 海力士居冠，總資產約達 55 億美元，成為全球規模最大的單一個股槓桿 / 反向 ETF 標的。 排名其後的是美光與輝達，相關槓桿與反向 ETF 的資產規模分別約為 51 億美元及 48 億美元。相較之下，榜單中規模最大的非半導體個股為特斯拉，相關資產約 37 億美元，仍低於三大晶片股。 整體來看，半導體相關個股合計已吸引約 210 億美元的槓桿與反向 ETF 資產，反映晶片產業已成為全球投資人運用槓桿產品布局的... 繼續閱讀 Image caption 全球資金正湧入半導體槓桿型 ETF ，顯示投資人對 AI 與晶片產業的樂觀情緒持續升溫。根據社群平台 X 的分享，目前全球追蹤單一晶片股的槓桿 / 反向 ETF 資產規模中，以 SK 海力士居冠，總資產約達 55 億美元，成為全球規模最大的單一個股槓桿 / 反向 ETF 標的。 排名其後的是美光與輝達，相關槓桿與反向 ETF 的資產規模分別約為 51 億美元及 48 億美元。相較之下，榜單中規模最大的非半導體個股為特斯拉，相關資產約 37 億美元，仍低於三大晶片股。 整體來看，半導體相關個股合計已吸引約 210 億美元的槓桿與反向 ETF 資產，反映晶片產業已成為全球投資人運用槓桿產品布局的主要方向。 除了單一個股之外，半導體產業 ETF 同樣受到資金熱烈追捧，其中美國 3 倍做多半導體 ETF （ SOXL ） 7 月單月吸引約 69 億美元資金淨流入，不僅創下該基金成立以來最大的單月資金流入紀錄，也凸顯投資人持續透過槓桿產品大舉押注半導體產業。 隨著 AI 基礎建設投資持續擴大、晶片需求維持強勁，半導體類股已成為全球槓桿型 ETF 資金最集中的領域，也反映投資人對 AI 長期成長動能的高度信心。 Leveraged ETFs in chip stocks are seeing historic capital flows. Global leveraged and inverse ETFs tracking SK Hynix now hold ~$5.5 billion in assets, the most of any single stock worldwide. This is followed by Micron, $MU , and Nvidia, $NVDA , which account for ~$5.1 billion and… pic.twitter.com/UpPcR2n068 — The Kobeissi Letter (@KobeissiLetter) August 3, 2026 （首圖來源： pixabay ） 延伸閱讀： 駁 AI 供應鏈瓶頸疑慮！蔡司強調產能充足、與 ASML 技術藍圖規畫至 2040 年 擷發科啟動大南方 AI 戰略佈局！董座楊健盟：邊緣 AI 將成未來 2~3 年成長引擎",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "3861bb9a238f5901e0d4fdc3",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "美國拋售歐元挺日圓 罕見行動震撼外匯市場",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527570",
+      "published_at": "2026-08-04T00:57:04+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527570",
+      "text": "〔財經頻道／綜合報導〕美國與日本週一（3日）證實兩國採取聯合行動干預外匯市場，隨著交易員們努力應對美日為支撐疲軟日圓的罕見行動時，還要消化另一個不尋常的動態，那就是美國拋售歐元。 《路透》報...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "5814ee1223240b68a711ae94",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "泓德能源攜澳洲新股東，推進光儲與資料中心能源布局",
+      "url": "https://technews.tw/2026/08/04/hd-renewable-energy-australian-partner-solar-storage-data-center-energy-expansion/",
+      "published_at": "2026-08-04T00:52:12+00:00",
+      "author": "蘇 子芸",
+      "external_id": "https://technews.tw/?p=1597048",
+      "text": "國際智慧能源品牌泓德能源持續深化澳洲市場布局，集團參與的澳洲綠能投資與資產管理平台 ZEBRE 近期完成股東結構調整，引進澳洲當地控股公司 ZEF Holding 成為新投資人。未來將由泓德能源與新股東共同推進光電、儲能及電力市場等既有資產開發與營運，持續擴大澳洲能源市場布局。 ZEF Holding 股東包括 Future Group Investment Management（FGIM）管理之基金，以及 Samuel Terry Asset Management、Income Asset Management 等澳洲機構投資人。其中，FGIM 隸屬於 Future Group，管理資... 繼續閱讀 Image caption 國際智慧能源品牌 泓德能源 持續深化澳洲市場布局，集團參與的澳洲綠能投資與資產管理平台 ZEBRE 近期完成股東結構調整，引進澳洲當地控股公司 ZEF Holding 成為新投資人。未來將由泓德能源與新股東共同推進光電、儲能及電力市場等既有資產開發與營運，持續擴大澳洲能源市場布局。 ZEF Holding 股東包括 Future Group Investment Management（FGIM）管理之基金，以及 Samuel Terry Asset Management、Income Asset Management 等澳洲機構投資人。其中，FGIM 隸屬於 Future Group，管理資產規模逾 139 億澳元，長期聚焦永續投資與綠能產業。泓德能源表示，新股東加入將有助於強化 ZEBRE 資金基礎，支持後續資產開發、併購及營運。 目前 ZEBRE 多項案場持續推進，其中，南澳 Solar River 光儲複合案場正與資料中心業者洽談長期合作；Templers 儲能案場商轉後，以單位裝置容量計算的市場收入曾連續四週位居南澳儲能市場第一；Dartmoor 儲能案場近期則取得南澳政府穩定能源可靠性機制（FERM）首輪長效儲能標案。 泓德能源表示，未來將結合 ZEBRE 的再生能源與儲能資產，以及旗下星星電力的電力交易與風險管理能力，共同推動約 2 GW 的資料中心供電及碳管理方案，持續拓展澳洲在地合作及終端市場。 此外，針對原持有 ZEN Energy 股權，泓德能源表示，目前相關股權移轉程序正依規畫辦理，後續將依會計準則及相關法令規定辦理。公司強調，ZEBRE 股東結構調整完成後，既有開發計畫及營運均維持不變，相關事項對整體營運、財務結構及主要業務推動亦無重大影響。 （首圖來源：泓德能源提供）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "ebda79241c2c2f2fc75e48e0",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "川普新關稅又被告了！全美25州聯手怒告政府「違憲越權」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527552",
+      "published_at": "2026-08-04T00:51:18+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527552",
+      "text": "〔財經頻道／綜合報導〕由25個民主黨領導的州所組成的聯盟，已正式向美國國際貿易法院提告川普政府，指控總統對60個貿易夥伴徵收10%或12.5%全面關稅的行為已嚴重超越職權。 CNBC報導，這...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "c78a36a6a884c07b33849ea7",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "GPU 租賃商機前景看俏 CoreWeave 股價強彈 19%",
+      "url": "https://finance.technews.tw/2026/08/04/coreweave-19pa/",
+      "published_at": "2026-08-04T00:50:39+00:00",
+      "author": "MoneyDJ",
+      "external_id": "https://technews.tw/?p=1597029",
+      "text": "受惠科技巨頭財報報喜，市場看好人工智慧（AI）資料中心需求持續火熱，讓專攻 GPU 算力租賃商機的 CoreWeave 股價 3 日強勢噴出，終場大漲近 20%，躍居當天美股盤面焦點。 CoreWeave背後有AI晶片霸主NVIDIA撐腰，利用旗下強大的GPU基礎設施，向客戶出租AI推論所需算力，把AI算力變成一門生意。隨著微軟、亞馬遜、蘋果及Meta接連繳出亮眼財報，雲端及AI需求展現強勁韌性，也提振市場對CoreWeave爭取更多算力長約的期待。 微軟Azure雲端服務營收年增43%，全年營收首度突破1,000億美元，執行長納德拉並樂觀預告，未來兩年旗下資料中心容量可望翻倍；亞... 繼續閱讀 Image caption 受惠科技巨頭財報報喜，市場看好人工智慧（AI）資料中心需求持續火熱，讓專攻 GPU 算力租賃商機的 CoreWeave 股價 3 日強勢噴出，終場大漲近 20%，躍居當天美股盤面焦點。 CoreWeave背後有AI晶片霸主NVIDIA撐腰，利用旗下強大的GPU基礎設施，向客戶出租AI推論所需算力，把AI算力變成一門生意。隨著微軟、亞馬遜、蘋果及Meta接連繳出亮眼財報，雲端及AI需求展現強勁韌性，也提振市場對CoreWeave爭取更多算力長約的期待。 微軟Azure雲端服務營收年增43%，全年營收首度突破1,000億美元，執行長納德拉並樂觀預告，未來兩年旗下資料中心容量可望翻倍；亞馬遜AWS營收年增37%，創18季以來最快增速；Meta也表示，AI不僅加速核心廣告業務成長，也創造更多企業應用商機。 3日CoreWeave股價勁揚19.49%，收85.76美元。 CoreWeave預定11日公布財報，市場預估營收將由去年同期的12.1億美元倍增至25.6億美元，但每股虧損恐由0.27美元擴大至1.27美元；分析師目前平均評等為「買進」，平均目標價達140.53美元。 不過，CoreWeave現階段股價估值仍高，加上資本支出龐大、負債壓力沉重，後續股價能否延續漲勢，仍取決於新合約成長速度及獲利改善幅度。 （本文由 MoneyDJ新聞 授權轉載；首圖來源：shutterstock）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "5d54e69a1e60cba190897414",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "Palantir 財報財測皆優、上修全年財測 盤後飆",
+      "url": "https://finance.technews.tw/2026/08/04/palantir-fr-26q2/",
+      "published_at": "2026-08-04T00:40:42+00:00",
+      "author": "MoneyDJ",
+      "external_id": "https://technews.tw/?p=1597030",
+      "text": "矽谷大數據分析商 Palantir Technologies Inc. 公布第二季（4~6月）財報擊敗華爾街預期，商業營收較去年同期翻了一倍以上，盤後股價應聲飆高。 CNBC、Investing.com等外電報導，Palantir 3日美股盤後公布Q2財報：營收較去年同期大增93%至19.4億美元；經調整的非一般公認會計原則（Non-GAAP）每股盈餘來到0.41美元。根據LSEG調查，分析師原本預測Q2營收、每股稀釋盈餘為18億美元、0.35美元。 （Source：Palantir） Q2期間，Palantir的美國地區營收較去年同期激增115%、季增23%至15.73億美... 繼續閱讀 Image caption 矽谷大數據分析商 Palantir Technologies Inc. 公布第二季（4~6月）財報擊敗華爾街預期，商業營收較去年同期翻了一倍以上，盤後股價應聲飆高。 CNBC、Investing.com等外電報導，Palantir 3日美股盤後公布Q2財報：營收較去年同期大增93%至19.4億美元；經調整的非一般公認會計原則（Non-GAAP）每股盈餘來到0.41美元。根據LSEG調查，分析師原本預測Q2營收、每股稀釋盈餘為18億美元、0.35美元。 （Source： Palantir ） Q2期間，Palantir的美國地區營收較去年同期激增115%、季增23%至15.73億美元。商業相關營收較一年前成長149%、季增28%至7.64億美元，政府相關營收也年增90%、季增18%至8.09億美元。 若以2024年為基期計算，美國商業相關營收的兩年複合成長率已達380%。Palantir目前預估，2026年美國商業相關營收將超過34.2億美元，高於先前預估的32.2億美元。 公司表示，美國商業相關剩餘交易價值（remaining deal value）年增逾一倍，達62.4億美元。 展望Q3（7-9月），Palantir預測營收將介於21.60億至21.64億美元，擊敗分析師預估20億美元。Palantir並將全年營收展望從先前的76.5億至76.6億美元調高至81.5億至81.6億美元。 Palantir執行長Alex Karp接受CNBC主持人Seema Mody訪問時表示：「別再看市場共識了。據我所知，沒有任何一家和我們同規模的企業，成長速度能達到我們的一半。」這波強勁成長「看起來至少還能持續18個月」。 Palantir 3日在正常盤上漲2.1%，收125.65美元；盤後跳高，至截稿前大漲14.08%，報143.34美元。年初迄今，Palantir跌幅已來到29.31%。 （本文由 MoneyDJ新聞 授權轉載；首圖來源：shutterstock）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "d86a9b3fc6ae81c737aa620d",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "EZ Way遭質疑「民營公司拿個資」胡采蘋：關貿就是財政部官股公司",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527547",
+      "published_at": "2026-08-04T00:35:34+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527547",
+      "text": "近期有民眾、網紅質疑跨境網購報關使用的「EZ Way易利委」APP並非由政府自行開發、營運，而是由民營的關貿網路公司建置維運，提出收費機制、個資安全及是否受政府監督等疑慮。...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "2a73540d3396c98aed707c60",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "美伊和談帶動美股大漲 法人：台股留意月線反壓",
+      "url": "https://www.cna.com.tw/news/afe/202608040018.aspx",
+      "published_at": "2026-08-04T00:31:34+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040018",
+      "text": "（中央社記者潘智義台北4日電）美國總統川普釋出美伊和談消息，帶動美股大漲，法人認為，台股7月修正，並在月底強彈，8月第一個交易日續漲，代表中線修正暫告一段落，但短線強彈，指數面臨月線43786點反壓，加上外資期貨空單逾9萬口，指數有待整理。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "ba70e7f6859e91220823baa9",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "中國團隊研發新型 Memristor 晶片，10 毫秒達成人腦級運算",
+      "url": "https://technews.tw/2026/08/04/chip-computational-speed-human-brain/",
+      "published_at": "2026-08-04T00:30:50+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1594393",
+      "text": "中國研究團隊近期成功開發出一款新型的 Memristor（憶阻器）晶片，能在不到 10 毫秒內完成複雜的大腦模型運算。這項技術不僅大幅提升處理速度並降低耗能，還能完美保留大腦皮質的細緻結構。此突破性成果由北京大學楊玉超團隊與中國科學院上海微系統與資訊技術研究所合作完成，相關論文已正式發表於頂尖期刊《Science》。 研究團隊指出，即時重建大腦深度摺疊的表面需要極其龐大的運算量。傳統電腦架構因為必須在記憶體與處理器之間頻繁搬移資料，往往面臨嚴重的速度與能耗瓶頸。 為了突破此限制，新晶片將關鍵運算直接放在資料儲存的位置進行，大幅減少資料傳輸的延遲，成功讓腦動力系統的高品質建模時間縮短... 繼續閱讀 Image caption 中國研究團隊近期成功開發出一款新型的 Memristor（憶阻器）晶片，能在不到 10 毫秒內完成複雜的大腦模型運算。這項技術不僅大幅提升處理速度並降低耗能，還能完美保留大腦皮質的細緻結構。此突破性成果由北京大學楊玉超團隊與中國科學院上海微系統與資訊技術研究所合作完成，相關論文已正式發表於頂尖期刊《 Science 》。 研究團隊指出，即時重建大腦深度摺疊的表面需要極其龐大的運算量。傳統電腦架構因為必須在記憶體與處理器之間頻繁搬移資料，往往面臨嚴重的速度與能耗瓶頸。 為了突破此限制，新晶片將關鍵運算直接放在資料儲存的位置進行，大幅減少資料傳輸的延遲，成功讓腦動力系統的高品質建模時間縮短至毫秒級。 這款晶片採用 40 奈米製程打造，內部整合了 In-memory computing（記憶體內運算）與 Conductance-drift 陣列，晶片面積僅占 0.28 平方毫米。其運作頻率為 50 MHz，並透過九級管線（Pipeline）來完成每一次的積分步驟。 在效能實測上，該晶片展現了極具顛覆性的數據： 對比先進 ASIC ：在神經動力學計算上，運行速度比先進的特殊應用積體電路（ASIC）快上 3.82 倍至 36.27 倍，耗電量則大幅減少 11.75 倍至 24.73 倍。 對比高階 GPU ：在進行大腦皮質表面重建時，相較於 NVIDIA A100 GPU，運算速度最高可快上 478.18 倍。 研究團隊進一步透過白質與灰質邊界重建，以及即時產生 3D 曲面網格來進行系統驗證。結果顯示，重建出的大腦皮質表面不僅平滑、封閉且拓樸一致，更完整保留了真實大腦的複雜摺疊結構。此外，在平均對稱表面距離與 Hausdorff 距離等指標上均表現優異，證實該技術兼顧了速度與精度。 研究團隊看好這項技術的潛力，認為這類能將原本緩慢的離線腦模型運算推進至「毫秒級」的新星，未來有望廣泛應用於腦機介面（BCI）、數位腦分身、即時手術導航以及腦表面重建等前瞻領域；同時，也將為阿茲海默症與帕金森氏症等神經退化性疾病，提供強大的研究助力。 Scientists Develop a Groundbreaking Chip That Operates at Brain-Like Speed （首圖為示意圖，來源： Unsplash ） 延伸閱讀： 麻省理工學院研發省電 AI 晶片：模仿人腦神經突觸，能效大幅提升 首款微波晶片：人工智慧與無線通訊的革命性突破",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "abc0757dd434b1c22c54a10d",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "台積電熊本工廠生產已恢復至地震前水準",
+      "url": "https://technews.tw/2026/08/04/tsmc-kumamoto-plant-production-pre-earthquake-levels/",
+      "published_at": "2026-08-04T00:30:15+00:00",
+      "author": "MoneyDJ",
+      "external_id": "https://technews.tw/?p=1597010",
+      "text": "日本熊本縣聚集眾多半導體相關工廠，受 7 月 28 日規模 7.1 強震影響，多家企業廠房一度停工。不過停工廠房陸續恢復生產或是訂出復工時程表，台灣台積電表示，熊本工廠生產已恢復至震前水準。 日經新聞、時事通信社、共同通信報導，台積電3日表示，熊本工廠（熊本縣菊陽町）已恢復正常生產體制、生產已回復至地震發生前水準。台積電日本法人3日官方X發文：「當地員工及供應鏈共同努力下，（台積電熊本工廠營運子公司）JASM工廠得以短時間復原」。 台積電並宣布，為協助災區復原／重建，將捐贈2.5億日圓，且已發起員工募款活動。 台積電ADR 3日上漲0.46%，收406.11美元。 So... 繼續閱讀 Image caption 日本熊本縣聚集眾多半導體相關工廠，受 7 月 28 日規模 7.1 強震影響，多家企業廠房一度停工。不過停工廠房陸續恢復生產或是訂出復工時程表，台灣 台積電 表示，熊本工廠生產已恢復至震前水準。 日經新聞、時事通信社、共同通信報導，台積電3日表示，熊本工廠（熊本縣菊陽町）已恢復正常生產體制、生產已回復至地震發生前水準。台積電日本法人3日官方X發文：「當地員工及供應鏈共同努力下，（台積電熊本工廠營運子公司）JASM工廠得以短時間復原」。 台積電並宣布，為協助災區復原／重建，將捐贈2.5億日圓，且已發起員工募款活動。 台積電ADR 3日上漲0.46%，收406.11美元。 Sony旗下子公司「索尼半導體解決方案」（Sony Semiconductor Solutions）7月31日宣布，熊本縣菊陽町的「熊本科技中心」受地震影響一度暫停生產，完成廠房及設備安全檢查並推動復原作業後，預估8月4日起逐步恢復生產，且8月中旬回復至地震發生前的產能。 車用晶片廠瑞薩電子（Renesas Electronics）7月30日宣布，受地震影響的錦工廠（熊本縣球磨郡錦町）已自7月29日晚間起陸續重啟生產。關於川尻工廠（熊本縣熊本市），已完成無塵室內的初步安全檢查，正評估設備及半成品（在製品）受影響程度，目前在做復工準備，預定8月5日起陸續恢復生產。 日本晶片設備巨擘東京威力科創（TEL）位於熊本縣的合志事業所和大津事業所受7月28日發生的地震影響停工，TEL財務長（CFO）川本弘7月30日表示，「廠房、設備並無重大損害，預估8月3日起陸續全面恢復生產」。 （本文由 MoneyDJ新聞 授權轉載；首圖來源： 台積電 ）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "70881eb4580c52259602ee5c",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "拜 Gemini Nano Banana 2 之賜，新 Google 地球讓探索世界更有趣",
+      "url": "https://technews.tw/2026/08/04/transform-any-place-with-nano-banana-in-google-earth/",
+      "published_at": "2026-08-04T00:20:49+00:00",
+      "author": "Evan",
+      "external_id": "https://technews.tw/?p=1595697",
+      "text": "Google 正將 Gemini Nano Banana 2 影像生成模型導入網頁版 Google 地球，讓你能夠根據真實地點建立 AI 生成的圖像。所有的圖像生成，不需藉助額外的 AI 影像生成工具，直接在網頁版 Google 地球裡就可以辦到。 使用者只需將畫面縮放至某個位置，點選「（建立圖片）」（Create image），在提示框輸入像是「在屋頂上安裝太陽能板」、「顯示熙來攘往的熱鬧景象」、「在道路兩旁加上台灣欒樹行道樹」等提示詞，Gemini 就會以 Google Earth 的衛星影像、空拍影像及 3D 資料做為基礎，來生成使用者描述的圖片。 （Source：Goo... 繼續閱讀 Image caption Google 正將 Gemini Nano Banana 2 影像生成模型 導入 網頁版 Google 地球，讓你能夠根據真實地點建立 AI 生成的圖像。所有的圖像生成，不需藉助額外的 AI 影像生成工具，直接在網頁版 Google 地球裡就可以辦到。 使用者只需將畫面縮放至某個位置，點選「（建立圖片）」（Create image），在提示框輸入像是「在屋頂上安裝太陽能板」、「顯示熙來攘往的熱鬧景象」、「在道路兩旁加上台灣欒樹行道樹」等提示詞，Gemini 就會以 Google Earth 的衛星影像、空拍影像及 3D 資料做為基礎，來生成使用者描述的圖片。 （Source： Google ，下同） 以往透過 Google 地球，使用者可以探索世界各地的城市或景點樣貌，如今透過 Google 地球新增的「建立圖片」功能，你可以進一步地為某特定景點同時生成白天、晚上或四季下的不同樣貌。你也可以發揮想像，透過新 Google 地球讓以人、車、畜搶道之高度混亂景象著稱的印度馬路變得井井有條；你也可以藉此感受一下台灣車道及橋梁不再有絡繹不絕機車車隊的景象。 由於生成內容是建立在真實地點之上，因此相較於一般 AI 生成的影像，它讓使用者的想像或期望會顯得更加貼近現實。 這項功能也不只是用來重新設計地點，它還能讓探索地點變得更有趣。假設你正在 Google Earth 中查看自由女神像、羅馬競技場或艾菲爾鐵塔，你不必再跳到不同網站查閱它們的歷史，而是可以要求 Gemini 產生一份簡單的視覺化解說，包含重要事實、關鍵日期或歷史亮點。短短幾秒內，它就能建立一張容易閱讀的資訊圖表，比起一頁頁的文字內容，更好閱讀也更記得住。 [更新訊息] Gooles已於週日（8/2）收回 Google 地球中新增的 Gemini Nano Banana 2 功能，因為有使用者透過該 AI 功能製作假衛星圖片，為避免 Google 地球淪為假圖製作工具，Google 決定緊急撤消該功能。 This new Google Earth feature will change how you explore the world （首圖來源：科技新報）",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "aa47911c072a5af9433b2666",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "SK 海力士宣布攜手 Sandisk 發布 HBF 首個標準規範",
+      "url": "https://finance.technews.tw/2026/08/04/sk-hynix-announced-a-partnership-with-sandisk-to-release-the-first-standard-specification-for-hbf/",
+      "published_at": "2026-08-04T00:15:54+00:00",
+      "author": "Atkinson",
+      "external_id": "https://technews.tw/?p=1597024",
+      "text": "韓國記憶體大廠 SK 海力士宣布，公司聯手 Sandisk 共同發布下一代存儲技術的高頻寬快閃記憶體 （HBF，High Bandwidth Flash） 的首個標準規範。由於 HBF 是介於 HBM 和固態硬碟之間的新型儲存層級，不僅具備與 HBM 類似的高速資料傳輸能力，還可藉由N AND 快閃記憶體大幅提升容量。在 AI 推理普及、資料處理需求激增的背景下，其高頻寬與可擴展容量特性優勢備受矚目。 SK 海力士表示，此次發布的標準規範，是繼 SK 海力士 2025 年 8 月與 Sandisk 啟動 HBF 標準化合作，並於 2026 年 2 月成立聯盟後，歷時約六個月推出的... 繼續閱讀 Image caption 韓國記憶體大廠 SK 海力士宣布，公司聯手 Sandisk 共同發布下一代存儲技術的高頻寬快閃記憶體 （HBF，High Bandwidth Flash） 的首個標準規範。由於 HBF 是介於 HBM 和固態硬碟之間的新型儲存層級，不僅具備與 HBM 類似的高速資料傳輸能力，還可藉由N AND 快閃記憶體大幅提升容量。在 AI 推理普及、資料處理需求激增的背景下，其高頻寬與可擴展容量特性優勢備受矚目。 SK 海力士表示，此次發布的標準規範，是繼 SK 海力士 2025 年 8 月與 Sandisk 啟動 HBF 標準化合作，並於 2026 年 2 月成立聯盟後，歷時約六個月推出的首個成果。此規範定義了兩種容量配置，分別採用 8 層和 16 層堆疊 NAND 快閃記憶體晶片堆疊，最高支援 512GB 容量，並以三個等級 （ Grade 1~3 ） 設定頻寬標準，資料傳輸能力涵蓋約 0.4TB/s 至 3.0TB/s 等範圍 。 值得關注的是，HBF 與處理器之間採用業界標準 UCIe 互聯，使得 HBF 與 GPU、CPU等不同類型的晶片彈性連接奠定了基礎。此外，該規範涵蓋互聯介面與電氣特性、HBF Die 堆疊製程的可靠性與封裝指南，以及資料讀寫軟體使用指南等內容。此規範由全球最大的開放式資料中心技術合作組織 OCP（ Open Compute Project ） 正式發布，成為業界通用開放標準，而非企業私有標準。 目前，SK 海力士也計畫加速 HBF 在 AI 儲存市場的規模化落地，並加速建構生態體系。現階段，HBF 聯盟已匯聚了包括谷歌與 Tenstorrent。未來，公司將持續依托開放合作，不斷擴大生態體系，同時提昇技術成熟度與市場接受度。SK海力士強調，隨著代理式 AI 快速商業化，待處理資料規模激增，對處理速度和效率的要求也不斷提高。在此背景下，單一記憶體產品已難以滿足需求，因此需要採用 「分層記憶體（ Tiered Memory ）」 架構，整合特性互補的多種記憶體並協同最佳化。 尤其值得注意的是，SK 海力士還將首次公開目前開發進展順利的第十代 （V10） 由 375 層堆疊的 4D NAND 快閃記憶體晶圓和產品。較上一代，其效能功耗比提升 2.5 倍，特別適用於效能與能源效率要求極高的 AI 基礎設施環境，例如資料中心。SK 海力士計劃於 2027 年初啟動基於此 NAND 快閃記憶體的高效能、大容量企業級固態硬碟量產，進一步鞏固其在 AI 時代 NAND 快閃記憶體市場的領先地位。 此外，該公司還將展示面向行動終端、PC、汽車和機器人等多個領域的系列產品，全面呈現 SK 海力士引領 AI 時代的記憶體技術優勢以及客戶合作成果。SK 海力士副社長金千成表示，AI 應用的快速普及，正推動整個數據處理架構迎來重構的關鍵期。通過 HBF，公司將突破記憶體與儲存的邊界，助力構建提升系統整體效率的新架構。 (首圖來源：SK 海力士提供)",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "d6a41d8db208d5951b081cf1",
+      "source_type": "rss",
+      "source_name": "TechNews 科技新報",
+      "title": "亞馬遜前科學家創 Boson AI 吸金 7,000 萬美元，主打低成本語音模型硬碰 OpenAI 與 Meta",
+      "url": "https://finance.technews.tw/2026/08/04/how-an-ex-aws-scientist-plans-to-take-on-openai-and-meta-in-voice-ai-models/",
+      "published_at": "2026-08-04T00:10:07+00:00",
+      "author": "TechNews 編輯台",
+      "external_id": "https://technews.tw/?p=1593948",
+      "text": "AI 語音模型正成為大型科技巨頭與新創公司激烈角力的新戰場。Amazon 前資深科學家 Alex Smola 近日宣布，他位於加州聖塔克拉拉的新創公司 Boson AI，即將推出首款「語音對語音」（Speech-to-speech）模型，Higgs RealTime。他強調，語音模型技術已達到成熟門檻，足以推動人機互動邁向下一個全新階段。 身為亞馬遜前傑出科學家（Distinguished Scientist）與機器學習領域的頂尖研究者，Smola 指出，Boson 的目標不僅是打造出堪用的語音產品，更要將開發與部署成本大幅壓縮至競爭對手的一成左右，藉此在與 OpenAI 等業界先驅的競... 繼續閱讀 Image caption AI 語音模型正成為大型科技巨頭與新創公司激烈角力的新戰場。Amazon 前資深科學家 Alex Smola 近日宣布，他位於加州聖塔克拉拉的新創公司 Boson AI，即將推出首款「語音對語音」（Speech-to-speech）模型，Higgs RealTime。他強調，語音模型技術已達到成熟門檻，足以推動人機互動邁向下一個全新階段。 身為亞馬遜前傑出科學家（Distinguished Scientist）與機器學習領域的頂尖研究者，Smola 指出，Boson 的目標不僅是打造出堪用的語音產品，更要將開發與部署成本大幅壓縮至競爭對手的一成左右，藉此在與 OpenAI 等業界先驅的競爭中取得絕對的價格優勢。他強調，Boson 的模型「成本便宜了約一個數量級」，但依然具備極高的實用性與效能。 ▲ Boson AI 執行長 Alex Smola。（Source： Boson AI ） 迎戰「全雙工」語音浪潮 這波語音革命已促使 OpenAI、Meta 等科技巨頭加速投入。目前業界的焦點落在「全雙工」（Full-duplex）系統，這項技術能讓使用者自然打斷 AI 說話並即時接話，實現真正的雙向語音互動。OpenAI 執行長 Sam Altman 近期也透露，他現在用語音與 ChatGPT 互動的頻率已超越打字，並直言公司的新一代語音模型已跨越了關鍵的技術門檻。 面對激烈競爭，Boson 的核心差異化策略在於其「全堆疊」（Full-stack）架構。該公司表示，這套架構允許企業客戶在自家的資料中心內運行系統，甚至從零開始訓練專屬的語音與影片模型；這讓企業在處理敏感業務時，能完全掌控資料落地（Data residency）與模型執行的安全性。儘管 Smola 一向支持開放權重（Open-weight）與可客製化的模型發展路線，但為了滿足企業市場的嚴格需求，Boson 最終仍選擇了開發專有模型（Proprietary models）的商業策略。 成立僅三年的 Boson 目前已成功募資 7,000 萬美元，投資陣容包含中國快手科技創辦人宿華，以及新加坡淡馬錫（Temasek）旗下的創投部門。Boson 現階段優先鎖定金融、電信、醫療與保險等四大產業。Smola 預期，未來大量的客服與銷售等機器互動工作都將被「語音代理」（Voice agents）自動化，在某些情境下，它們的效率甚至將超越人類。 克服「成本」與「延遲」兩大痛點 然而，語音模型要真正大規模落地，仍需克服成本與延遲兩大難題。全雙工音訊會大幅增加 GPU 的運算負載，導致成本居高不下；此外，在口語對話中，哪怕只是一秒鐘的回應延遲也會顯得極度突兀。為了解決這些痛點，Boson 正致力於訓練模型去理解更細膩的人類語境，包括辨識愉悅、消極攻擊（Passive-aggressiveness）等情緒語氣，並適應各種快速的說話節奏。 ▲ 為了讓 AI 互動更具人性與真實感，Boson AI 發表全新的虛擬替身基礎模型。只需一張靜態圖片與即時音訊，即可瞬間生成精準對嘴、表情生動且具備頭部動作的對話角色。 面對市場上的既有巨頭，Boson 依然面臨不小的挑戰，因為各家大廠已紛紛根據不同應用場景進行布局： 微軟 ：近期推出最新語音模型版本，主要聚焦於提升職場工作效率。 OpenAI ：發表了 GPT-Live 系列的全雙工音訊模型，目標是成為應用程式開發者的預設首選標準。 Meta ：推出主打語音互動的 Muse Spark 模型，強調能自然對話、隨時打斷及切換主題與語言，並著眼於未來在穿戴式裝置上的硬體整合。 針對未來，Smola 描繪了一幅更長遠的科技藍圖：結合推理、視覺與語音的「具身 AI」（Embodied AI），未來極有可能像科幻電影《機械公敵》（I, Robot）中的場景一樣走入每個家庭。但在當下，他認為語音模型最直接的商業價值，依然是協助業務銷售通話即時生成文字紀錄與個人化資料，讓企業能以更快的速度，完成過去極需仰賴人工處理的繁瑣作業。 How an ex-AWS scientist plans to take on OpenAI and Meta in voice AI models （首圖來源： Boson AI ） 延伸閱讀： 迎戰 30% 估值落差，哈佛研究揭開 AI 原生新創未來架構 AI 新創如何運作，哈佛：用人更少、主管消失、資深員工勝利 傳統市調也快被 AI 打趴了？青少年新創 Aaru 估值破 10 億美元 矽谷新創 Hark 獲 1 億美元投資，與前蘋果設計師打造持久記憶的 AI 個人助理 Meta 前高層創立資安新創 Glow 估值高達 12 億美元，主攻 AI 終端防護",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "98d45025abe60467927c484f",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "LINE Bank口袋帳戶台幣活存年息1.5％ 最高可存3000萬元",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527502",
+      "published_at": "2026-08-04T00:00:02+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527502",
+      "text": "近期全球投資市場劇烈震盪，看準投資人資金配置的需求，純網銀LINE Bank（連線商業銀行）再度加碼「口袋帳戶」年利率1.5%的存款額度，大幅提高至3000萬元，讓存戶可...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "e1cbbfdda7d5b48a5baf8ec2",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "美股道瓊指數寫歷史新高 一掃科技股不安氣氛",
+      "url": "https://www.cna.com.tw/news/afe/202608040014.aspx",
+      "published_at": "2026-08-03T23:37:24+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040014",
+      "text": "（中央社記者廖漢原華盛頓3日專電）美國道瓊工業指數今天漲693點，以53178點作收，再度寫下歷史新高。波音、微軟、亞馬遜等大型業者股價全面走高，人工智慧大數據公司帕蘭泰爾公布第2季業績，營收大幅成長，為近期瀰漫不安氣氛的AI類股打下強心針。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "37731cf6855ea7be79c3534e",
+      "source_type": "youtube",
+      "source_name": "財富咖啡",
+      "title": "🔴AI沒崩，半導體卻暴跌！華爾街正在拋棄這3類股票｜NVDA、MU、DRAM真相",
+      "url": "https://www.youtube.com/watch?v=TxyjxXxbBKQ",
+      "published_at": "2026-08-03T23:30:24+00:00",
+      "author": "財富咖啡",
+      "external_id": "TxyjxXxbBKQ",
+      "text": "AI行情真的結束了嗎？為什麼納斯達克和美股大盤上漲，半導體、晶片股和DRAM記憶體板塊卻持續下跌？ 這支影片深度解析目前AI ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "c85153e8b0b6f56996caf14e",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "美伊戰爭讓美國石油巨頭賺飽飽 川普公開喊話：他們賺太多了！",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5527541",
+      "published_at": "2026-08-03T23:22:10+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5527541",
+      "text": "美國石油巨頭埃克森美孚（ExxonMobil）與雪佛龍（Chevron）近期公布第2季財報，由於美伊戰爭引發全球油價飆升，兩間公司的獲利也因此大幅提高。美國總統川普3日在白...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "a44059aad6c6853e3f696125",
+      "source_type": "rss",
+      "source_name": "自由時報 財經頻道",
+      "title": "LTN經濟通》俄烏戰迅速坐大 捷克傳奇軍火商",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5526777",
+      "published_at": "2026-08-03T23:00:00+00:00",
+      "author": "",
+      "external_id": "https://ec.ltn.com.tw/article/breakingnews/5526777",
+      "text": "從冷戰遺產變捷克軍火金礦 〔財經頻道／綜合報導〕俄烏戰爭打了數年，歐洲各國終於願意增加軍費，但錢編進預算，不代表炮彈馬上就能從生產線送到前線。真正卡住歐洲防衛能力的，是大口徑彈藥、裝藥、軍車...…",
+      "metadata": {
+        "category": "財經新聞"
+      }
+    },
+    {
+      "id": "2e85bcd7d263058de726a8a5",
+      "source_type": "youtube",
+      "source_name": "股市基友",
+      "title": "台灣10%關稅：台積電真受惠？",
+      "url": "https://www.youtube.com/watch?v=sRtdZyehDeE",
+      "published_at": "2026-08-03T23:00:00+00:00",
+      "author": "股市基友",
+      "external_id": "sRtdZyehDeE",
+      "text": "押台積電！10%先別嗨一句話：國家稅率，不是每檔股票的利多。 框架：關稅三訊號我的切角：台積電輸美產品，你會先核對豁免 ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "15eb3371b409447e3db8bc2d",
+      "source_type": "rss",
+      "source_name": "中央社 科技新聞",
+      "title": "AI失控風波 白宮召4大科技巨頭談資安測試",
+      "url": "https://www.cna.com.tw/news/ait/202608040013.aspx",
+      "published_at": "2026-08-03T22:04:19+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040013",
+      "text": "（中央社華盛頓3日綜合外電報導）據媒體報導與知情人士透露，白宮已邀請Meta、Anthropic、OpenAI及 谷歌（Google）等4大科技巨頭於4日舉行閉門會議，共商針對美國先進AI模型所訂的「政府自願性資安測試」。",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "2236e12177fee3441d05423a",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "川普稱與伊朗談判 美股勁揚道瓊指數收盤創新高",
+      "url": "https://www.cna.com.tw/news/afe/202608040012.aspx",
+      "published_at": "2026-08-03T21:48:16+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040012",
+      "text": "（中央社紐約3日綜合外電報導）儘管德黑蘭當局予以否認，但美國總統川普（Donald Trump）堅稱，美方與伊朗的和談正在進行中，受到這項消息提振，華爾街股市今天走高，其中道瓊指數收盤創下歷史新高紀錄。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "3c3ba3348f1d843c66564024",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "美伊釋出荷莫茲海峽正向信號 油價下滑",
+      "url": "https://www.cna.com.tw/news/afe/202608040010.aspx",
+      "published_at": "2026-08-03T21:07:11+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040010",
+      "text": "（中央社紐約3日綜合外電報導）由於美國和伊朗都釋出荷莫茲海峽航運的正向信號，提振市場對中東原油供應增加的期望，國際油價今天呈現下滑。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "188e4a586ede62de276e2523",
+      "source_type": "youtube",
+      "source_name": "세계늬-우스",
+      "title": "AI 칩 전쟁이 다시 판을 키우고 있습니다. 전 세계 반도체 공급망이 엔비디아와 TSMC를 (Auto-Generated Shorts)",
+      "url": "https://www.youtube.com/watch?v=D-yfnyqqi-Y",
+      "published_at": "2026-08-03T20:39:26+00:00",
+      "author": "세계늬-우스",
+      "external_id": "D-yfnyqqi-Y",
+      "text": "",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "15745f6ad170fe73d1db703d",
+      "source_type": "youtube",
+      "source_name": "冷說財經",
+      "title": "ASML、台积电订单爆满，产能却上不来？AI基建五家公司财报拆解",
+      "url": "https://www.youtube.com/watch?v=YN8eFHV7FXg",
+      "published_at": "2026-08-03T20:06:18+00:00",
+      "author": "冷說財經",
+      "external_id": "YN8eFHV7FXg",
+      "text": "ASML、台積電這波財報，把「AI基建見頂」的說法直接打臉——真正卡住成長的，不是需求，而是供給和部署端的物理瓶頸。",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "ee07c0e763e9252e254b29f5",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "市場重燃希望盼中東戰事結束 歐股大多收漲",
+      "url": "https://www.cna.com.tw/news/afe/202608040002.aspx",
+      "published_at": "2026-08-03T17:13:50+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-04/202608040002",
+      "text": "（中央社倫敦3日綜合外電報導）美國總統川普（Donald Trump）近日堅稱，已經為了跟伊朗的新一輪談判做好準備，盼能結束中東地區戰事，受到這項消息提振，歐洲股市主要指數今天大多收高。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "085b8bd4d8973055548720c1",
+      "source_type": "youtube",
+      "source_name": "Phn Le",
+      "title": "台積電2奈米擴產倒數！6種關鍵材料需求暴增，真正受惠股曝光",
+      "url": "https://www.youtube.com/watch?v=-V-dkWYth_s",
+      "published_at": "2026-08-03T16:14:08+00:00",
+      "author": "Phn Le",
+      "external_id": "-V-dkWYth_s",
+      "text": "台積電 #2奈米 #半導體 #AI供應鏈 #台股 #TSMC #晶圓代工 #半導體材料 #科技股 #股票投資.",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "703c50bc42784b3f41733646",
+      "source_type": "youtube",
+      "source_name": "台股白話",
+      "title": "AI晶片缺不了它們！台積電2奈米最大秘密藏在材料端",
+      "url": "https://www.youtube.com/watch?v=siOZtZu6KqE",
+      "published_at": "2026-08-03T16:10:38+00:00",
+      "author": "台股白話",
+      "external_id": "siOZtZu6KqE",
+      "text": "台積電#2奈米#半導體#AI供應鏈#台股#TSMC #晶圓代工#半導體材料#科技股#股票投資.",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "1bd388d1655451ebdb948635",
+      "source_type": "youtube",
+      "source_name": "Mind To Dollar",
+      "title": "🚨 ONE STOCK TO WATCH IN 2026? 📈🤖 | The Stock Behind the AI Boom 💰🔥 #financialfreedom #inspiredinvest",
+      "url": "https://www.youtube.com/watch?v=b2d9HxOvSyE",
+      "published_at": "2026-08-03T15:59:45+00:00",
+      "author": "Mind To Dollar",
+      "external_id": "b2d9HxOvSyE",
+      "text": "ONE STOCK TO WATCH IN 2026? AI is changing the world — but behind every AI system are powerful semiconductor chips.",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "93dd0041362272550c247879",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "亞馬遜早盤股價續漲 市值首度突破3兆美元",
+      "url": "https://www.cna.com.tw/news/aopl/202608030315.aspx",
+      "published_at": "2026-08-03T15:14:41+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030315",
+      "text": "（中央社紐約3日綜合外電報導）美國科技業巨擘亞馬遜（Amazon）上週公布強健財報刺激股價大漲後，今天早盤股價連續第2個交易日攀升，勁揚近5%至284.49美元，使市值衝上約3.1兆美元，首度突破3兆美元大關。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "9bd5885b59cf716c43da5627",
+      "source_type": "youtube",
+      "source_name": "Economics Explained with DB",
+      "title": "Who Really Leads AI Chips? | Top 10 Fabless Companies",
+      "url": "https://www.youtube.com/watch?v=-0qFIJ3wzNs",
+      "published_at": "2026-08-03T14:45:00+00:00",
+      "author": "Economics Explained with DB",
+      "external_id": "-0qFIJ3wzNs",
+      "text": "NVIDIA dominates the AI chip market, but it's only one part of the global semiconductor industry. Discover the world's Top 10 ...",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "b2edd118ea6f674c7b89f61f",
+      "source_type": "youtube",
+      "source_name": "Chien Le",
+      "title": "台積電直接開外掛，2奈米、3奈米產能提前爆滿",
+      "url": "https://www.youtube.com/watch?v=SRXj_B4uHvA",
+      "published_at": "2026-08-03T14:26:13+00:00",
+      "author": "Chien Le",
+      "external_id": "SRXj_B4uHvA",
+      "text": "台積電#2奈米#3奈米#先進製程#輝達#AI晶片#半導體#台積電供應鏈#AI供應鏈#台股.",
+      "metadata": {
+        "query": "半導體 台積電 AI",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    },
+    {
+      "id": "2ba66cf01c5a500fa8e51e49",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "SpaceX首份財報將出爐 馬斯克AI支出引華爾街關注",
+      "url": "https://www.cna.com.tw/news/afe/202608030309.aspx",
+      "published_at": "2026-08-03T14:05:25+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030309",
+      "text": "（中央社德州奧斯汀3日綜合外電報導）億萬富豪馬斯克旗下太空探索科技公司（SpaceX）預計明天美股盤後公布上市後首份財報，將成為外界觀察星鏈衛星事業獲利能否支撐該公司AI和太空業務急速擴張的初步指標。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "da0d442cc6b7751d3a05f8d3",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "今彩539第115187期 頭獎槓龜",
+      "url": "https://www.cna.com.tw/news/ahel/202608030308.aspx",
+      "published_at": "2026-08-03T14:04:23+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030308",
+      "text": "（中央社台北3日電）今彩539第115187期開獎，中獎號碼07、28、21、35、23；派彩結果，頭獎槓龜。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "20d2b0dd2dbbc3d343338c5e",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "威力彩第115062期 頭獎槓龜",
+      "url": "https://www.cna.com.tw/news/ahel/202608030306.aspx",
+      "published_at": "2026-08-03T14:02:18+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030306",
+      "text": "（中央社台北3日電）威力彩第115062期今晚開獎，第一區中獎號碼為04、15、26、22、36、34，第二區中獎號碼07。派彩結果，頭獎、貳獎都槓龜。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "e52488b10a3c5bbe76e3d802",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "川普取消攻擊伊朗計畫 美股早盤走高道瓊漲逾600點",
+      "url": "https://www.cna.com.tw/news/afe/202608030304.aspx",
+      "published_at": "2026-08-03T13:50:14+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030304",
+      "text": "（中央社紐約3日綜合外電報導）美國總統川普取消原定對伊朗發動攻擊的計畫後，帶動油價下跌，美股主要指數今天早盤走高，道瓊漲逾600點。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "64bb72b18b15ba02022fe0a5",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "崇舜強化台灣營運布局 電子特化產品貢獻可望倍增",
+      "url": "https://www.cna.com.tw/news/afe/202608030300.aspx",
+      "published_at": "2026-08-03T13:33:05+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030300",
+      "text": "（中央社記者張良知台北3日電）特用化學廠崇舜7月獲台灣證券交易所通過上市審議，董事長鍾文清今天表示，預估最快今年底前有望掛牌。崇舜在台灣積極擴產，彰濱新廠預計2028年底前完工，2029年投產，加上中國廠擴產，電子特化產品占營收比重將自目前的19%，提高為40%至50%。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "da60c5bfb067fabdff0745e2",
+      "source_type": "rss",
+      "source_name": "中央社 科技新聞",
+      "title": "中國科技新規 新版IC布圖設計保護條例公布",
+      "url": "https://www.cna.com.tw/news/acn/202608030299.aspx",
+      "published_at": "2026-08-03T13:21:01+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030299",
+      "text": "（中央社台北3日電）中國近日公布新版「集成電路（IC,積體電路）布圖設計保護條例」，目的在保護積體電路布圖設計（Layout Design）專利權，鼓勵IC技術創新。其中新增「獨創性聲明」制度受到關注。",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "02e4d607fbf9b660a268a0fe",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "威力彩第115062期開獎",
+      "url": "https://www.cna.com.tw/news/ahel/202608030294.aspx",
+      "published_at": "2026-08-03T12:51:48+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030294",
+      "text": "（中央社台北3日電）威力彩第115062期今晚開獎，第一區中獎號碼為04、15、26、22、36、34，第二區中獎號碼為07。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "df76defb3bd4f6a30d629958",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "今彩539第115187期開獎",
+      "url": "https://www.cna.com.tw/news/ahel/202608030293.aspx",
+      "published_at": "2026-08-03T12:43:45+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030293",
+      "text": "（中央社台北3日電）今彩539第115187期開獎，中獎號碼07、28、21、35、23。3星彩中獎號碼491，4星彩中獎號碼6016。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "7ac00e7d14c3a9092d409ff1",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "日本企業今年度資本支出將創新高 歸功AI與汽車業投資",
+      "url": "https://www.cna.com.tw/news/aopl/202608030292.aspx",
+      "published_at": "2026-08-03T12:41:43+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030292",
+      "text": "（中央社東京3日綜合外電報導）據日經新聞調查，日本企業計劃在現行會計年度的資本支出金額合計將創歷史新高，突破新台幣7兆元，主要受資料中心、晶片製造、電網及人工智慧（AI）相關領域等方面投資帶動。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "b1cc66d7d56cd0d62366b4d0",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "研調：面板雙虎產能瘦身 2028年全球市場大洗牌",
+      "url": "https://www.cna.com.tw/news/afe/202608030286.aspx",
+      "published_at": "2026-08-03T12:09:30+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030286",
+      "text": "（中央社記者潘智義台北3日電）台系面板廠加速賣廠轉型，研調機構集邦科技分析指出，台廠從「規模戰」轉向聚焦高附加價值的「精兵政策」，預估2028年群創、友達液晶顯示器面板合計供給占比將跌破10%，液晶筆電面板供給減少至近20%，仍保持利潤的液晶電視面板供給比例將維持約22%。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "01d0431965f291d744e15813",
+      "source_type": "rss",
+      "source_name": "中央社 產經證券",
+      "title": "台股上漲266點 外資轉賣超191億元調節聯電居首",
+      "url": "https://www.cna.com.tw/news/afe/202608030282.aspx",
+      "published_at": "2026-08-03T11:54:21+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030282",
+      "text": "（中央社記者何秀玲台北3日電）台股今天上漲266.66點，收在43386.41點，成交值新台幣8445.31億元；外資買超1天後再轉賣，今天賣超191.91億元，調節晶圓代工、塑化及金融股為主，其中賣超聯電8萬9164張居首。",
+      "metadata": {
+        "category": "通訊社"
+      }
+    },
+    {
+      "id": "20c2d928f9f8a9c7de4b605c",
+      "source_type": "rss",
+      "source_name": "中央社 科技新聞",
+      "title": "LINE VOOM短影音台灣9/30退場 營運近5年劃句點",
+      "url": "https://www.cna.com.tw/news/ait/202608030259.aspx",
+      "published_at": "2026-08-03T10:18:30+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030259",
+      "text": "（中央社記者吳家豪台北3日電）短影音市場競爭激烈，在Instagram Reels、YouTube Shorts等國際平台夾擊下，通訊軟體LINE旗下短影音平台LINE VOOM在日本和泰國已宣布將終止服務。今天LINE公告，LINE VOOM將於9月30日在台灣終止服務，結束自2021年第4季以來、近5年的發展。",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "bbb0edc826d19e8d9c7d07d3",
+      "source_type": "rss",
+      "source_name": "中央社 科技新聞",
+      "title": "路透：阿里巴巴發表自家最強AI模型 緊追月之暗面",
+      "url": "https://www.cna.com.tw/news/ait/202608030240.aspx",
+      "published_at": "2026-08-03T09:20:49+00:00",
+      "author": "",
+      "external_id": "CNA/2026-08-03/202608030240",
+      "text": "（中央社北京3日綜合外電報導）中國阿里巴巴今天發表迄今為止自家規模最大且功能最強的人工智慧（AI）模型Qwen3.8-Max，參數規模緊追中國AI新創公司「月之暗面」（Moonshot AI）發表的新產品Kimi K3。",
+      "metadata": {
+        "category": "科技產業"
+      }
+    },
+    {
+      "id": "abd4d8d90d905f8ba331dd5d",
+      "source_type": "youtube",
+      "source_name": "程瑋昱",
+      "title": "Ch15 供應鏈先行指標怎麼看？台積電為何總跟著美股走 #Shorts #戀愛股票學 #供應鏈 #先行指標 #台積電 #美股 #NVIDIA #AMD #Apple #半導體 #投資新手 #台股",
+      "url": "https://www.youtube.com/watch?v=ZEYh4PeyTxw",
+      "published_at": "2026-08-03T08:14:55+00:00",
+      "author": "程瑋昱",
+      "external_id": "ZEYh4PeyTxw",
+      "text": "【說明】** 為什麼台積電基本面很好，股價卻常常跟著美股一起震盪？真正影響它的，可能不是台積電自己，而是整條供應鏈！",
+      "metadata": {
+        "query": "美股 台股 供應鏈",
+        "channel_id": "",
+        "has_transcript": false
+      }
+    }
+  ],
+  "entities": [
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2330",
+      "label": "台積電(2330)",
+      "industry": "半導體業",
+      "count": "48",
+      "source_count": "15",
+      "evidence": "2330|TSMC|台積電"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4923",
+      "label": "力士(4923)",
+      "industry": "半導體業",
+      "count": "20",
+      "source_count": "5",
+      "evidence": "力士"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3189",
+      "label": "景碩(3189)",
+      "industry": "半導體業",
+      "count": "19",
+      "source_count": "2",
+      "evidence": "3189|景碩"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2027",
+      "label": "大成鋼(2027)",
+      "industry": "鋼鐵工業",
+      "count": "13",
+      "source_count": "6",
+      "evidence": "2027"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1324",
+      "label": "地球(1324)",
+      "industry": "塑膠工業",
+      "count": "11",
+      "source_count": "2",
+      "evidence": "地球"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2028",
+      "label": "威致(2028)",
+      "industry": "鋼鐵工業",
+      "count": "9",
+      "source_count": "4",
+      "evidence": "2028"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6873",
+      "label": "泓德能源(6873)",
+      "industry": "綠能環保",
+      "count": "9",
+      "source_count": "1",
+      "evidence": "泓德能源"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2025",
+      "label": "千興(2025)",
+      "industry": "鋼鐵工業",
+      "count": "8",
+      "source_count": "6",
+      "evidence": "2025"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "5347",
+      "label": "世界(5347)",
+      "industry": "半導體業",
+      "count": "8",
+      "source_count": "6",
+      "evidence": "世界"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2423",
+      "label": "固緯(2423)",
+      "industry": "其他電子業",
+      "count": "7",
+      "source_count": "2",
+      "evidence": "GW"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3272",
+      "label": "東碩(3272)",
+      "industry": "電腦及週邊設備業",
+      "count": "7",
+      "source_count": "2",
+      "evidence": "GW"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4544",
+      "label": "春日(4544)",
+      "industry": "電機機械",
+      "count": "7",
+      "source_count": "1",
+      "evidence": "春日"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2455",
+      "label": "全新(2455)",
+      "industry": "通信網路業",
+      "count": "7",
+      "source_count": "4",
+      "evidence": "全新"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6486",
+      "label": "互動(6486)",
+      "industry": "通信網路業",
+      "count": "7",
+      "source_count": "1",
+      "evidence": "互動"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6274",
+      "label": "台燿(6274)",
+      "industry": "電子零組件業",
+      "count": "6",
+      "source_count": "2",
+      "evidence": "6274|台燿"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3167",
+      "label": "大量(3167)",
+      "industry": "電機機械",
+      "count": "5",
+      "source_count": "4",
+      "evidence": "大量"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "9937",
+      "label": "全國(9937)",
+      "industry": "油電燃氣業",
+      "count": "5",
+      "source_count": "3",
+      "evidence": "全國"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2024",
+      "label": "志聯(2024)",
+      "industry": "鋼鐵工業",
+      "count": "5",
+      "source_count": "4",
+      "evidence": "2024"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1216",
+      "label": "統一(1216)",
+      "industry": "食品工業",
+      "count": "5",
+      "source_count": "4",
+      "evidence": "統一"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8046",
+      "label": "南電(8046)",
+      "industry": "電子零組件業",
+      "count": "5",
+      "source_count": "1",
+      "evidence": "8046|南電"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2007",
+      "label": "燁興(2007)",
+      "industry": "鋼鐵工業",
+      "count": "5",
+      "source_count": "1",
+      "evidence": "2007"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8112",
+      "label": "至上(8112)",
+      "industry": "電子通路業",
+      "count": "4",
+      "source_count": "4",
+      "evidence": "至上"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2020",
+      "label": "美亞(2020)",
+      "industry": "鋼鐵工業",
+      "count": "4",
+      "source_count": "3",
+      "evidence": "2020"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "5007",
+      "label": "三星(5007)",
+      "industry": "鋼鐵工業",
+      "count": "4",
+      "source_count": "3",
+      "evidence": "三星"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3027",
+      "label": "盛達(3027)",
+      "industry": "通信網路業",
+      "count": "4",
+      "source_count": "2",
+      "evidence": "BILLION"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6770",
+      "label": "力積電(6770)",
+      "industry": "半導體業",
+      "count": "4",
+      "source_count": "2",
+      "evidence": "6770|力積電"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2393",
+      "label": "億光(2393)",
+      "industry": "光電業",
+      "count": "4",
+      "source_count": "2",
+      "evidence": "2393|億光"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2376",
+      "label": "技嘉(2376)",
+      "industry": "電腦及週邊設備業",
+      "count": "4",
+      "source_count": "1",
+      "evidence": "2376|技嘉"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2492",
+      "label": "華新科(2492)",
+      "industry": "電子零組件業",
+      "count": "4",
+      "source_count": "1",
+      "evidence": "2492|華新科"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "7763",
+      "label": "崇舜(7763)",
+      "industry": "化學工業",
+      "count": "4",
+      "source_count": "2",
+      "evidence": "崇舜"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6488",
+      "label": "環球晶(6488)",
+      "industry": "半導體業",
+      "count": "3",
+      "source_count": "1",
+      "evidence": "6488|環球晶"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3284",
+      "label": "太普高(3284)",
+      "industry": "其他",
+      "count": "3",
+      "source_count": "2",
+      "evidence": "TOP"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1605",
+      "label": "華新(1605)",
+      "industry": "電器電纜",
+      "count": "3",
+      "source_count": "1",
+      "evidence": "華新"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2850",
+      "label": "新產(2850)",
+      "industry": "金融保險",
+      "count": "3",
+      "source_count": "3",
+      "evidence": "新產"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2029",
+      "label": "盛餘(2029)",
+      "industry": "鋼鐵工業",
+      "count": "3",
+      "source_count": "3",
+      "evidence": "2029"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6462",
+      "label": "神盾(6462)",
+      "industry": "半導體業",
+      "count": "3",
+      "source_count": "1",
+      "evidence": "神盾"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6669",
+      "label": "緯穎(6669)",
+      "industry": "電腦及週邊設備業",
+      "count": "3",
+      "source_count": "1",
+      "evidence": "6669|緯穎"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2643",
+      "label": "捷迅(2643)",
+      "industry": "航運業",
+      "count": "3",
+      "source_count": "1",
+      "evidence": "2643|捷迅"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3025",
+      "label": "星通(3025)",
+      "industry": "通信網路業",
+      "count": "3",
+      "source_count": "1",
+      "evidence": "星通"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2035",
+      "label": "唐榮公司(2035)",
+      "industry": "鋼鐵工業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "2035"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "7772",
+      "label": "耀穎(7772)",
+      "industry": "半導體業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "MOE"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8477",
+      "label": "創業家(8477)",
+      "industry": "數位雲端",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "創業家"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2344",
+      "label": "華邦電(2344)",
+      "industry": "半導體業",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "華邦電"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2454",
+      "label": "聯發科(2454)",
+      "industry": "半導體業",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "聯發科"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1459",
+      "label": "聯發(1459)",
+      "industry": "紡織纖維",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "聯發"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2924",
+      "label": "宏太-KY(2924)",
+      "industry": "居家生活",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "宏太-KY"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4716",
+      "label": "大立(4716)",
+      "industry": "化學工業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "DAILY"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "5410",
+      "label": "國眾(5410)",
+      "industry": "資訊服務業",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "LEO"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "7796",
+      "label": "擷發科(7796)",
+      "industry": "半導體業",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "擷發科"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2030",
+      "label": "彰源(2030)",
+      "industry": "鋼鐵工業",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "2030"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "7708",
+      "label": "全家餐飲(7708)",
+      "industry": "觀光餐旅",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "7708|全家餐飲"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "5903",
+      "label": "全家(5903)",
+      "industry": "居家生活",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "全家"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4129",
+      "label": "聯合(4129)",
+      "industry": "生技醫療業",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "聯合"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2022",
+      "label": "聚亨(2022)",
+      "industry": "鋼鐵工業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "2022"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2327",
+      "label": "國巨*(2327)",
+      "industry": "電子零組件業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "2327|國巨*"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3380",
+      "label": "明泰(3380)",
+      "industry": "通信網路業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "Alpha"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6204",
+      "label": "艾華(6204)",
+      "industry": "電子零組件業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "ALPHA"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8024",
+      "label": "佑華(8024)",
+      "industry": "半導體業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "Alpha"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8923",
+      "label": "時報(8923)",
+      "industry": "文化創意業",
+      "count": "2",
+      "source_count": "2",
+      "evidence": "時報"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1539",
+      "label": "巨庭(1539)",
+      "industry": "電機機械",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "GT"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3038",
+      "label": "全台(3038)",
+      "industry": "光電業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "全台"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6183",
+      "label": "關貿(6183)",
+      "industry": "資訊服務業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "關貿"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2106",
+      "label": "建大(2106)",
+      "industry": "橡膠工業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "建大"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2303",
+      "label": "聯電(2303)",
+      "industry": "半導體業",
+      "count": "2",
+      "source_count": "1",
+      "evidence": "聯電"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6180",
+      "label": "橘子(6180)",
+      "industry": "文化創意業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "橘子"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2504",
+      "label": "國產(2504)",
+      "industry": "建材營造",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "國產"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6239",
+      "label": "力成(6239)",
+      "industry": "半導體業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "力成"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2441",
+      "label": "超豐(2441)",
+      "industry": "半導體業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "超豐"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4502",
+      "label": "健信(4502)",
+      "industry": "電機機械",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "健信"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2374",
+      "label": "佳能(2374)",
+      "industry": "光電業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "佳能"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8936",
+      "label": "國統(8936)",
+      "industry": "其他",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "國統"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2015",
+      "label": "豐興(2015)",
+      "industry": "鋼鐵工業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "2015"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6223",
+      "label": "旺矽(6223)",
+      "industry": "半導體業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "旺矽"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1582",
+      "label": "信錦(1582)",
+      "industry": "電子零組件業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "信錦"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2881",
+      "label": "富邦金(2881)",
+      "industry": "金融保險",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "富邦金"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4556",
+      "label": "旭然(4556)",
+      "industry": "其他",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "BSI"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6829",
+      "label": "千附精密(6829)",
+      "industry": "半導體業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "千附精密"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8383",
+      "label": "千附(8383)",
+      "industry": "半導體業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "千附"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2349",
+      "label": "錸德(2349)",
+      "industry": "光電業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "錸德"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2890",
+      "label": "永豐金(2890)",
+      "industry": "金融保險",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "永豐金"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1259",
+      "label": "安心(1259)",
+      "industry": "觀光餐旅",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "安心"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6902",
+      "label": "GOGOLOOK(6902)",
+      "industry": "數位雲端",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "GOGOLOOK"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2412",
+      "label": "中華電(2412)",
+      "industry": "通信網路業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "中華電"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3045",
+      "label": "台灣大(3045)",
+      "industry": "通信網路業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "台灣大"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1603",
+      "label": "華電(1603)",
+      "industry": "電器電纜",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "華電"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2204",
+      "label": "中華(2204)",
+      "industry": "汽車工業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "中華"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4904",
+      "label": "遠傳(4904)",
+      "industry": "通信網路業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "遠傳"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4121",
+      "label": "優盛(4121)",
+      "industry": "生技醫療業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "優盛"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3585",
+      "label": "聯致(3585)",
+      "industry": "電子零組件業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "聯致"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3162",
+      "label": "精確(3162)",
+      "industry": "電機機械",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "精確"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2031",
+      "label": "新光鋼(2031)",
+      "industry": "鋼鐵工業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "2031"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8367",
+      "label": "建新國際(8367)",
+      "industry": "航運業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "建新國際"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2049",
+      "label": "上銀(2049)",
+      "industry": "電機機械",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "上銀"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3711",
+      "label": "日月光投控(3711)",
+      "industry": "半導體業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "日月光投控"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2317",
+      "label": "鴻海(2317)",
+      "industry": "其他電子業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "鴻海"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3118",
+      "label": "進階(3118)",
+      "industry": "生技醫療業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "LEVEL"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "5521",
+      "label": "工信(5521)",
+      "industry": "建材營造",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "工信"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2605",
+      "label": "新興(2605)",
+      "industry": "航運業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "新興"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3372",
+      "label": "典範(3372)",
+      "industry": "半導體業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "典範"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "9925",
+      "label": "新保(9925)",
+      "industry": "其他",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "新保"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1785",
+      "label": "光洋科(1785)",
+      "industry": "其他電子業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "Solar"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "1536",
+      "label": "和大(1536)",
+      "industry": "汽車工業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "和大"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "4994",
+      "label": "傳奇(4994)",
+      "industry": "資訊服務業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "傳奇"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "8272",
+      "label": "全景軟體(8272)",
+      "industry": "資訊服務業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "Changing"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "6016",
+      "label": "康和證(6016)",
+      "industry": "金融保險",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "6016"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "2409",
+      "label": "友達(2409)",
+      "industry": "光電業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "友達"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "stock",
+      "entity_id": "3481",
+      "label": "群創(3481)",
+      "industry": "光電業",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "群創"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "industry",
+      "entity_id": "半導體",
+      "label": "半導體",
+      "industry": "半導體",
+      "count": "49",
+      "source_count": "20",
+      "evidence": "AI晶片|先進製程|半導體|晶圓代工"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "industry",
+      "entity_id": "金融",
+      "label": "金融",
+      "industry": "金融",
+      "count": "7",
+      "source_count": "4",
+      "evidence": "保險|銀行"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "industry",
+      "entity_id": "AI伺服器",
+      "label": "AI伺服器",
+      "industry": "AI伺服器",
+      "count": "5",
+      "source_count": "4",
+      "evidence": "AI伺服器|NVL"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "industry",
+      "entity_id": "電動車",
+      "label": "電動車",
+      "industry": "電動車",
+      "count": "3",
+      "source_count": "3",
+      "evidence": "電動車"
+    },
+    {
+      "date": "2026-08-04",
+      "entity_type": "industry",
+      "entity_id": "航運",
+      "label": "航運",
+      "industry": "航運",
+      "count": "1",
+      "source_count": "1",
+      "evidence": "航運"
+    }
+  ],
+  "signals": [
+    {
+      "entity_type": "stock",
+      "entity_id": "4923",
+      "label": "力士(4923)",
+      "current_count": 20,
+      "source_count": 5,
+      "average_previous": 2.2,
+      "surge_ratio": 9.09,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的9.1倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3189",
+      "label": "景碩(3189)",
+      "current_count": 19,
+      "source_count": 2,
+      "average_previous": 4.6,
+      "surge_ratio": 4.13,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的4.1倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "1324",
+      "label": "地球(1324)",
+      "current_count": 11,
+      "source_count": 2,
+      "average_previous": 1.2,
+      "surge_ratio": 9.17,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的9.2倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2025",
+      "label": "千興(2025)",
+      "current_count": 8,
+      "source_count": 6,
+      "average_previous": 2.2,
+      "surge_ratio": 3.64,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的3.6倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "5347",
+      "label": "世界(5347)",
+      "current_count": 8,
+      "source_count": 6,
+      "average_previous": 2.6,
+      "surge_ratio": 3.08,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的3.1倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2423",
+      "label": "固緯(2423)",
+      "current_count": 7,
+      "source_count": 2,
+      "average_previous": 0.4,
+      "surge_ratio": 7.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的7.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3272",
+      "label": "東碩(3272)",
+      "current_count": 7,
+      "source_count": 2,
+      "average_previous": 0.4,
+      "surge_ratio": 7.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的7.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2455",
+      "label": "全新(2455)",
+      "current_count": 7,
+      "source_count": 4,
+      "average_previous": 2.8,
+      "surge_ratio": 2.5,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.5倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6486",
+      "label": "互動(6486)",
+      "current_count": 7,
+      "source_count": 1,
+      "average_previous": 1.6,
+      "surge_ratio": 4.38,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的4.4倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "9937",
+      "label": "全國(9937)",
+      "current_count": 5,
+      "source_count": 3,
+      "average_previous": 0.8,
+      "surge_ratio": 5.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的5.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2024",
+      "label": "志聯(2024)",
+      "current_count": 5,
+      "source_count": 4,
+      "average_previous": 2.2,
+      "surge_ratio": 2.27,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.3倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "1216",
+      "label": "統一(1216)",
+      "current_count": 5,
+      "source_count": 4,
+      "average_previous": 0.4,
+      "surge_ratio": 5.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的5.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "8046",
+      "label": "南電(8046)",
+      "current_count": 5,
+      "source_count": 1,
+      "average_previous": 1.0,
+      "surge_ratio": 5.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的5.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "8112",
+      "label": "至上(8112)",
+      "current_count": 4,
+      "source_count": 4,
+      "average_previous": 1.4,
+      "surge_ratio": 2.86,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.9倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2020",
+      "label": "美亞(2020)",
+      "current_count": 4,
+      "source_count": 3,
+      "average_previous": 2.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3027",
+      "label": "盛達(3027)",
+      "current_count": 4,
+      "source_count": 2,
+      "average_previous": 0.6,
+      "surge_ratio": 4.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的4.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6770",
+      "label": "力積電(6770)",
+      "current_count": 4,
+      "source_count": 2,
+      "average_previous": 1.2,
+      "surge_ratio": 3.33,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的3.3倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "5903",
+      "label": "全家(5903)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.2,
+      "surge_ratio": 2.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2022",
+      "label": "聚亨(2022)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 1.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3380",
+      "label": "明泰(3380)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.8,
+      "surge_ratio": 2.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6204",
+      "label": "艾華(6204)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.8,
+      "surge_ratio": 2.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "8024",
+      "label": "佑華(8024)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.8,
+      "surge_ratio": 2.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3038",
+      "label": "全台(3038)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 1.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 2,
+      "reason": "聲量約為近5日均值的2.0倍；連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6873",
+      "label": "泓德能源(6873)",
+      "current_count": 9,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 9.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的9.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "4544",
+      "label": "春日(4544)",
+      "current_count": 7,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 7.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的7.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6274",
+      "label": "台燿(6274)",
+      "current_count": 6,
+      "source_count": 2,
+      "average_previous": 1.8,
+      "surge_ratio": 3.33,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的3.3倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2007",
+      "label": "燁興(2007)",
+      "current_count": 5,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 5.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的5.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2393",
+      "label": "億光(2393)",
+      "current_count": 4,
+      "source_count": 2,
+      "average_previous": 0.0,
+      "surge_ratio": 4.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的4.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2376",
+      "label": "技嘉(2376)",
+      "current_count": 4,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 4.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的4.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2492",
+      "label": "華新科(2492)",
+      "current_count": 4,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 4.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的4.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "7763",
+      "label": "崇舜(7763)",
+      "current_count": 4,
+      "source_count": 2,
+      "average_previous": 0.0,
+      "surge_ratio": 4.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的4.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6488",
+      "label": "環球晶(6488)",
+      "current_count": 3,
+      "source_count": 1,
+      "average_previous": 1.0,
+      "surge_ratio": 3.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的3.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3284",
+      "label": "太普高(3284)",
+      "current_count": 3,
+      "source_count": 2,
+      "average_previous": 0.2,
+      "surge_ratio": 3.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的3.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "1605",
+      "label": "華新(1605)",
+      "current_count": 3,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 3.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的3.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2850",
+      "label": "新產(2850)",
+      "current_count": 3,
+      "source_count": 3,
+      "average_previous": 1.2,
+      "surge_ratio": 2.5,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.5倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2029",
+      "label": "盛餘(2029)",
+      "current_count": 3,
+      "source_count": 3,
+      "average_previous": 0.8,
+      "surge_ratio": 3.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的3.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6462",
+      "label": "神盾(6462)",
+      "current_count": 3,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 3.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的3.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2643",
+      "label": "捷迅(2643)",
+      "current_count": 3,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 3.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的3.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3025",
+      "label": "星通(3025)",
+      "current_count": 3,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 3.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的3.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2035",
+      "label": "唐榮公司(2035)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.4,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "7772",
+      "label": "耀穎(7772)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "8477",
+      "label": "創業家(8477)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2344",
+      "label": "華邦電(2344)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 0.4,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2924",
+      "label": "宏太-KY(2924)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "4716",
+      "label": "大立(4716)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "5410",
+      "label": "國眾(5410)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 0.2,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "7796",
+      "label": "擷發科(7796)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "7708",
+      "label": "全家餐飲(7708)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "1539",
+      "label": "巨庭(1539)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6183",
+      "label": "關貿(6183)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2106",
+      "label": "建大(2106)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 0.0,
+      "surge_ratio": 2.0,
+      "consecutive_days": 1,
+      "reason": "聲量約為近5日均值的2.0倍"
+    },
+    {
+      "entity_type": "industry",
+      "entity_id": "半導體",
+      "label": "半導體",
+      "current_count": 49,
+      "source_count": 20,
+      "average_previous": 40.8,
+      "surge_ratio": 1.2,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2330",
+      "label": "台積電(2330)",
+      "current_count": 48,
+      "source_count": 15,
+      "average_previous": 30.8,
+      "surge_ratio": 1.56,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2027",
+      "label": "大成鋼(2027)",
+      "current_count": 13,
+      "source_count": 6,
+      "average_previous": 13.4,
+      "surge_ratio": 0.97,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2028",
+      "label": "威致(2028)",
+      "current_count": 9,
+      "source_count": 4,
+      "average_previous": 8.0,
+      "surge_ratio": 1.12,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "industry",
+      "entity_id": "金融",
+      "label": "金融",
+      "current_count": 7,
+      "source_count": 4,
+      "average_previous": 9.0,
+      "surge_ratio": 0.78,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "3167",
+      "label": "大量(3167)",
+      "current_count": 5,
+      "source_count": 4,
+      "average_previous": 3.8,
+      "surge_ratio": 1.32,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "industry",
+      "entity_id": "AI伺服器",
+      "label": "AI伺服器",
+      "current_count": 5,
+      "source_count": 4,
+      "average_previous": 3.4,
+      "surge_ratio": 1.47,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "5007",
+      "label": "三星(5007)",
+      "current_count": 4,
+      "source_count": 3,
+      "average_previous": 5.6,
+      "surge_ratio": 0.71,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "6669",
+      "label": "緯穎(6669)",
+      "current_count": 3,
+      "source_count": 1,
+      "average_previous": 3.4,
+      "surge_ratio": 0.88,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "industry",
+      "entity_id": "電動車",
+      "label": "電動車",
+      "current_count": 3,
+      "source_count": 3,
+      "average_previous": 4.6,
+      "surge_ratio": 0.65,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2454",
+      "label": "聯發科(2454)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 6.4,
+      "surge_ratio": 0.31,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "1459",
+      "label": "聯發(1459)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 5.8,
+      "surge_ratio": 0.34,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2030",
+      "label": "彰源(2030)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 2.6,
+      "surge_ratio": 0.77,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "4129",
+      "label": "聯合(4129)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 1.8,
+      "surge_ratio": 1.11,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2327",
+      "label": "國巨*(2327)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 3.2,
+      "surge_ratio": 0.62,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "8923",
+      "label": "時報(8923)",
+      "current_count": 2,
+      "source_count": 2,
+      "average_previous": 2.2,
+      "surge_ratio": 0.91,
+      "consecutive_days": 2,
+      "reason": "連續2日出現"
+    },
+    {
+      "entity_type": "stock",
+      "entity_id": "2303",
+      "label": "聯電(2303)",
+      "current_count": 2,
+      "source_count": 1,
+      "average_previous": 7.0,
+      "surge_ratio": 0.29,
+      "consecutive_days": 1,
+      "reason": "今日提及2次"
+    }
+  ],
+  "llm_summary": null,
+  "report_markdown": "# 每日股票新聞觀察報告 - 2026-08-04\n\n資料視窗：2026-08-03T11:31:58.108393+08:00 至 2026-08-04T11:31:58.108393+08:00。本報告是研究輔助與觀察清單，不構成個人化投資建議。\n\n## 今日概況\n\n- 收集來源數：137\n\n- 股票關鍵字：107\n\n- 產業關鍵字：5\n\n## 重複出現的產業\n\n| 名稱 | 次數 | 來源數 | 證據詞 |\n|---|---:|---:|---|\n| 半導體 | 49 | 20 | AI晶片|先進製程|半導體|晶圓代工 |\n| 金融 | 7 | 4 | 保險|銀行 |\n| AI伺服器 | 5 | 4 | AI伺服器|NVL |\n| 電動車 | 3 | 3 | 電動車 |\n| 航運 | 1 | 1 | 航運 |\n\n## 重複出現的個股\n\n| 名稱 | 次數 | 來源數 | 證據詞 |\n|---|---:|---:|---|\n| 台積電(2330) | 48 | 15 | 2330|TSMC|台積電 |\n| 力士(4923) | 20 | 5 | 力士 |\n| 景碩(3189) | 19 | 2 | 3189|景碩 |\n| 大成鋼(2027) | 13 | 6 | 2027 |\n| 地球(1324) | 11 | 2 | 地球 |\n| 威致(2028) | 9 | 4 | 2028 |\n| 泓德能源(6873) | 9 | 1 | 泓德能源 |\n| 千興(2025) | 8 | 6 | 2025 |\n| 世界(5347) | 8 | 6 | 世界 |\n| 固緯(2423) | 7 | 2 | GW |\n| 東碩(3272) | 7 | 2 | GW |\n| 春日(4544) | 7 | 1 | 春日 |\n| 全新(2455) | 7 | 4 | 全新 |\n| 互動(6486) | 7 | 1 | 互動 |\n| 台燿(6274) | 6 | 2 | 6274|台燿 |\n| 大量(3167) | 5 | 4 | 大量 |\n| 全國(9937) | 5 | 3 | 全國 |\n| 志聯(2024) | 5 | 4 | 2024 |\n| 統一(1216) | 5 | 4 | 統一 |\n| 南電(8046) | 5 | 1 | 8046|南電 |\n\n## 聲量訊號\n\n| 類型 | 名稱 | 今日次數 | 來源數 | 近期待均 | 放大倍數 | 連續天數 | 原因 |\n|---|---|---:|---:|---:|---:|---:|---|\n| stock | 力士(4923) | 20 | 5 | 2.20 | 9.09 | 2 | 聲量約為近5日均值的9.1倍；連續2日出現 |\n| stock | 景碩(3189) | 19 | 2 | 4.60 | 4.13 | 2 | 聲量約為近5日均值的4.1倍；連續2日出現 |\n| stock | 地球(1324) | 11 | 2 | 1.20 | 9.17 | 2 | 聲量約為近5日均值的9.2倍；連續2日出現 |\n| stock | 千興(2025) | 8 | 6 | 2.20 | 3.64 | 2 | 聲量約為近5日均值的3.6倍；連續2日出現 |\n| stock | 世界(5347) | 8 | 6 | 2.60 | 3.08 | 2 | 聲量約為近5日均值的3.1倍；連續2日出現 |\n| stock | 固緯(2423) | 7 | 2 | 0.40 | 7.00 | 2 | 聲量約為近5日均值的7.0倍；連續2日出現 |\n| stock | 東碩(3272) | 7 | 2 | 0.40 | 7.00 | 2 | 聲量約為近5日均值的7.0倍；連續2日出現 |\n| stock | 全新(2455) | 7 | 4 | 2.80 | 2.50 | 2 | 聲量約為近5日均值的2.5倍；連續2日出現 |\n| stock | 互動(6486) | 7 | 1 | 1.60 | 4.38 | 2 | 聲量約為近5日均值的4.4倍；連續2日出現 |\n| stock | 全國(9937) | 5 | 3 | 0.80 | 5.00 | 2 | 聲量約為近5日均值的5.0倍；連續2日出現 |\n| stock | 志聯(2024) | 5 | 4 | 2.20 | 2.27 | 2 | 聲量約為近5日均值的2.3倍；連續2日出現 |\n| stock | 統一(1216) | 5 | 4 | 0.40 | 5.00 | 2 | 聲量約為近5日均值的5.0倍；連續2日出現 |\n| stock | 南電(8046) | 5 | 1 | 1.00 | 5.00 | 2 | 聲量約為近5日均值的5.0倍；連續2日出現 |\n| stock | 至上(8112) | 4 | 4 | 1.40 | 2.86 | 2 | 聲量約為近5日均值的2.9倍；連續2日出現 |\n| stock | 美亞(2020) | 4 | 3 | 2.00 | 2.00 | 2 | 聲量約為近5日均值的2.0倍；連續2日出現 |\n| stock | 盛達(3027) | 4 | 2 | 0.60 | 4.00 | 2 | 聲量約為近5日均值的4.0倍；連續2日出現 |\n| stock | 力積電(6770) | 4 | 2 | 1.20 | 3.33 | 2 | 聲量約為近5日均值的3.3倍；連續2日出現 |\n| stock | 全家(5903) | 2 | 1 | 0.20 | 2.00 | 2 | 聲量約為近5日均值的2.0倍；連續2日出現 |\n| stock | 聚亨(2022) | 2 | 1 | 1.00 | 2.00 | 2 | 聲量約為近5日均值的2.0倍；連續2日出現 |\n| stock | 明泰(3380) | 2 | 1 | 0.80 | 2.00 | 2 | 聲量約為近5日均值的2.0倍；連續2日出現 |\n\n## 重要來源\n\n1. [烏軍獲億元合約挹注升級 5 萬架 AI 無人機，突破 GPS 限制改寫戰場規則](https://technews.tw/2026/08/04/ukrainian-forces-upgrade-50000-ai-drones/) - TechNews 科技新報, 2026-08-04T03:30:27+00:00, 摘要/描述\n2. [台積電毛利率破紀錄！但股價為何還跌15%？ #podcast #美股 #ai](https://www.youtube.com/watch?v=YsuwVMuZsTk) - 冷說財經, 2026-08-04T03:26:44+00:00, 摘要/描述\n3. [別再關注黃金和銅了 ! 美媒揭 : 非洲最新的掏金熱潮來自「這2產品」](https://ec.ltn.com.tw/article/breakingnews/5527576) - 自由時報 財經頻道, 2026-08-04T03:26:35+00:00, 摘要/描述\n4. [慶祝處置制度鬆綁！29檔處置股12檔飆漲停](https://ec.ltn.com.tw/article/breakingnews/5527824) - 自由時報 財經頻道, 2026-08-04T03:22:05+00:00, 摘要/描述\n5. [健身與飲食健康風潮帶動，乳清蛋白成美國產業新寵](https://technews.tw/2026/08/04/fitness-healthy-eating-trends-drive-whey-protein-popularity-us-industry/) - TechNews 科技新報, 2026-08-04T03:20:56+00:00, 摘要/描述\n6. [國家住都中心董座花敬群：民眾黨團是不實指控、扭曲事實](https://ec.ltn.com.tw/article/breakingnews/5527803) - 自由時報 財經頻道, 2026-08-04T03:20:05+00:00, 摘要/描述\n7. [474 GW 接電需求塞爆電網，德州出手嚴審資料中心](https://technews.tw/2026/08/04/474-gw-power-demand-strains-grid-texas-strictly-reviews-ai-data-centers/) - TechNews 科技新報, 2026-08-04T03:19:56+00:00, 摘要/描述\n8. [安森美財報優、受惠 AI 資料中心需求 盤後勁揚](https://finance.technews.tw/2026/08/04/on-semiconductor-beats-earnings-expectations/) - TechNews 科技新報, 2026-08-04T03:10:46+00:00, 摘要/描述\n9. [健信 公告本公司115年第二季合併財務報告董事會召開日期為115年08月12日](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=3b6a108e-09e9-4c14-941e-6c83d1e51237&utm_source=96681857963718571866665768&utm_medium=RSS) - MoneyDJ 理財網, 2026-08-04T03:05:00+00:00, 摘要/描述\n10. [韓國名校畢業生求職碰壁，轉而赴日就業找出路](https://finance.technews.tw/2026/08/04/korean-elite-graduates-job-hunt-struggles-turn-japan-employment/) - TechNews 科技新報, 2026-08-04T03:00:37+00:00, 摘要/描述\n11. [外資淨空單破9萬口...台股8月怎走?不甩韓股!聯發科.國巨.華邦電漲停20260803｜主播#張蕙纖 分析師#吳岳展｜T台最錢線 PODCAST｜【#TVBS財經 X #TVBS新聞】](https://www.youtube.com/watch?v=WuJ5Tt5Ca_k) - TVBS財經, 2026-08-04T03:00:12+00:00, 摘要/描述\n12. [波音釋長期展望，看好市場成長與持續換機需求](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=ef771d75-8bde-495f-ab2a-6666aebb5dff&utm_source=96681857963718571866665768&utm_medium=RSS) - MoneyDJ 理財網, 2026-08-04T02:59:00+00:00, 摘要/描述\n13. [宏太-KY第二季合併財報，預計8/12提報董事會](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=10b5b5bc-18d8-496d-8e68-a1790507173f&utm_source=96681857963718571866665768&utm_medium=RSS) - MoneyDJ 理財網, 2026-08-04T02:58:00+00:00, 摘要/描述\n14. [台股變革!處置天數10天變5天 撮合統一2分鐘  處置期全面縮短 高當沖比防投機12天減為7天｜非凡財經新聞｜20260803 #shorts](https://www.youtube.com/watch?v=bJVhYPy66FI) - USTV 非凡電視, 2026-08-04T02:57:50+00:00, 摘要/描述\n15. [TPU 晶片銷售落後輝達，巴克萊看好 Google 攜博通可望創造 2,520 億美元商機](https://technews.tw/2026/08/04/barclays-see-google-tpu/) - TechNews 科技新報, 2026-08-04T02:56:47+00:00, 摘要/描述\n16. [傳三星縮減陸手機市場布局 關閉銷售未達標門市](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=c96873f8-3271-4d0b-a6e1-936255eccd50&utm_source=96681857963718571866665768&utm_medium=RSS) - MoneyDJ 理財網, 2026-08-04T02:56:00+00:00, 摘要/描述\n17. [焦點股》環球晶：法說前買盤湧入 強攻漲停](https://ec.ltn.com.tw/article/breakingnews/5527768) - 自由時報 財經頻道, 2026-08-04T02:54:22+00:00, 摘要/描述\n18. [AI 算力需求強勁，輝達 A100 至 B200 租賃價格全面走高](https://finance.technews.tw/2026/08/04/nvidia-a100-h100-and-h200-gpu-rental-rates-continue-to-price-upwards/) - TechNews 科技新報, 2026-08-04T02:50:43+00:00, 摘要/描述\n19. [力積電爆量漲停！市場聚焦下午營運說明 網喊：絕地逢生](https://ec.ltn.com.tw/article/breakingnews/5527762) - 自由時報 財經頻道, 2026-08-04T02:50:04+00:00, 摘要/描述\n20. [宏太-KY 公告本公司115年第二季合併財務報告董事會召開日期](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=a0ccdb3a-d7b0-41c2-a3b8-e9c45de16a78&utm_source=96681857963718571866665768&utm_medium=RSS) - MoneyDJ 理財網, 2026-08-04T02:50:00+00:00, 摘要/描述\n\n## 使用注意\n\n- 頻率代表媒體與影片討論熱度，不等於基本面改善或股價方向。\n- YouTube 字幕可能缺漏、錯字或與口語內容不一致。\n- RSS 摘要可能只含部分內文，重要結論需回原文驗證。\n- 任何觀察都應搭配財報、法說、估值、籌碼與風險控管。\n"
+}
